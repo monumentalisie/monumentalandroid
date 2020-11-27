@@ -1,0 +1,538 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ".4 Бомбони",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438999,
+          42.002425
+        ],
+        "type": "Point"
+      },
+      "id": "25082e850efc400724692a223bc290ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 !Изумрени занаети ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438,
+          42.002621
+        ],
+        "type": "Point"
+      },
+      "id": "2dd19e77d1c0d4c650539ab13d9efa89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ".6 !Папуџии ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436834,
+          42.000865
+        ],
+        "type": "Point"
+      },
+      "id": "2f58c95af059f627139041f735f9f71e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.436838,
+            42.001616
+          ],
+          [
+            21.436665,
+            42.001215
+          ],
+          [
+            21.436481,
+            42.000803
+          ],
+          [
+            21.436752,
+            42.000765
+          ],
+          [
+            21.436821,
+            42.000761
+          ],
+          [
+            21.436862,
+            42.000854
+          ],
+          [
+            21.436836,
+            42.000864
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "39351ebcc981f3324108a889759cd8eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 Свеќари",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.43767,
+          42.002114
+        ],
+        "type": "Point"
+      },
+      "id": "3bda2ca08e4e4cab1027436a5072d322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437273,
+            42.00147
+          ],
+          [
+            21.437337,
+            42.001521
+          ],
+          [
+            21.437904,
+            42.001318
+          ],
+          [
+            21.437674,
+            42.000979
+          ],
+          [
+            21.43696,
+            42.000721
+          ],
+          [
+            21.436773,
+            42.000372
+          ],
+          [
+            21.436622,
+            42.000372
+          ],
+          [
+            21.436498,
+            42.000332
+          ],
+          [
+            21.436474,
+            42.000803
+          ],
+          [
+            21.436268,
+            42.000923
+          ],
+          [
+            21.436042,
+            42.000949
+          ],
+          [
+            21.436018,
+            42.000717
+          ],
+          [
+            21.435809,
+            42.00076
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "44eccf21e805df21a000207b3e2d431f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437675,
+            42.002112
+          ],
+          [
+            21.437093,
+            42.0021
+          ],
+          [
+            21.437033,
+            42.00202
+          ],
+          [
+            21.437106,
+            42.001867
+          ],
+          [
+            21.436888,
+            42.001794
+          ],
+          [
+            21.436896,
+            42.001677
+          ],
+          [
+            21.436841,
+            42.001616
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "596f0283e9847ba7fe0ccafb78b89da0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2Ковачи ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438094,
+          42.002686
+        ],
+        "type": "Point"
+      },
+      "id": "73db2401262d8db95611e58a89857934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437894,
+            42.001327
+          ],
+          [
+            21.438038,
+            42.001522
+          ],
+          [
+            21.437741,
+            42.001579
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "79c5b14c66fde2092022a9753718c541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.438754,
+            42.002828
+          ],
+          [
+            21.438802,
+            42.002849
+          ],
+          [
+            21.439053,
+            42.002615
+          ],
+          [
+            21.43916,
+            42.002493
+          ],
+          [
+            21.438999,
+            42.002422
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "9bdf17bf896e3fe1c755eba774303fb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.438005,
+            42.002621
+          ],
+          [
+            21.4381,
+            42.002686
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "b1dccfdc5d9018917c172f65fe98a3de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.438996,
+            42.002414
+          ],
+          [
+            21.438598,
+            42.002196
+          ],
+          [
+            21.438448,
+            42.002084
+          ],
+          [
+            21.438376,
+            42.002009
+          ],
+          [
+            21.438332,
+            42.001945
+          ],
+          [
+            21.437726,
+            42.00212
+          ],
+          [
+            21.437672,
+            42.002124
+          ],
+          [
+            21.437664,
+            42.002113
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "b8cf8ae335f13aae1d81507c14f1bffa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 Шапкар ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437272,
+          42.001472
+        ],
+        "type": "Point"
+      },
+      "id": "c0f555858adb5947ce51a13513a495be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9 Музеј на чаршијата Сули Ан ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437739,
+          42.00158
+        ],
+        "type": "Point"
+      },
+      "id": "ce9dc0d04c9b4aa29280c2eb1a4147c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 !Бербери ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.43876,
+          42.002763
+        ],
+        "type": "Point"
+      },
+      "id": "cee08d1634d688dd3ce95600068bb0a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437994,
+            42.002623
+          ],
+          [
+            21.437682,
+            42.002396
+          ],
+          [
+            21.43782,
+            42.002231
+          ],
+          [
+            21.4382,
+            42.002526
+          ],
+          [
+            21.43841,
+            42.002671
+          ],
+          [
+            21.438684,
+            42.00281
+          ],
+          [
+            21.438752,
+            42.002828
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d0e34284d8fc8c34203cc80324fe6b51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.43581,
+            42.000767
+          ],
+          [
+            21.436025,
+            42.000716
+          ],
+          [
+            21.436004,
+            42.000587
+          ],
+          [
+            21.435918,
+            42.00051
+          ],
+          [
+            21.435747,
+            42.000504
+          ],
+          [
+            21.435728,
+            42.000195
+          ],
+          [
+            21.435769,
+            42.00015
+          ],
+          [
+            21.436153,
+            42.000132
+          ],
+          [
+            21.436399,
+            42.000331
+          ],
+          [
+            21.436499,
+            42.000331
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d1517afc41abe2024a933525291056d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.436831,
+            42.00087
+          ],
+          [
+            21.43688,
+            42.000881
+          ],
+          [
+            21.437003,
+            42.001108
+          ],
+          [
+            21.437065,
+            42.001173
+          ],
+          [
+            21.437272,
+            42.001468
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "ecaf071c49cc9575e7e4735444a0a782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8 Резбарство   ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435814,
+          42.000761
+        ],
+        "type": "Point"
+      },
+      "id": "ed5629c1b14f9d636bc7513ece031d6c"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Wybierz wycieczkę</string>
+    <string name="tips">Rady o Skopje</string>
+    <string name="share_exp">Podziel się doświadczeniami</string>
+    <string name="video">Wideo</string>
+
+    <string name="play">GRAĆ</string>
+    <string name="stop">ZATRZYMAĆ</string>
+    <string name="next">Dalej</string>
+</resources>

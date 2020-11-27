@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="TextStyleFont" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/futura_pt_medium</item>
+    </style>
+
+</resources>

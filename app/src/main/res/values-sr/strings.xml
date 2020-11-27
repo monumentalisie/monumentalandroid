@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Одберите туру</string>
+    <string name="tips">Савети о Скопљу</string>
+    <string name="share_exp">Поделите  искуства</string>
+    <string name="video">Видео</string>
+
+    <string name="play">СТАРТ</string>
+    <string name="stop">ЗАУСТАВИТИ</string>
+    <string name="next">Следеће</string>
+
+    <string name="welcome_audio">Audio za dobrodošlicu</string>
+    <string name="capital_of_rutalisam">Glavni grad brutalizma</string>
+    <string name="skopje">Skoplje</string>
+    <string name="other_cities">Drugi gradovi</string>
+    <string name="news">Vesti</string>
+    <string name="good_to_know">Dobro je da se zna</string>
+    <string name="about">Za projekat</string>
+    <string name="about_info"><![CDATA[Ova aplikacija izrađena je u okviru projekta „Spomenici i brutalistička arhitektura u Severnoj Makedoniji: Podsticaj turističke promocije za podršku turističkog lokalnog razvoja“, implementiran sa strane Instituta za strateška istraživanja i edukaciju (ISIE) iz Skoplja. Glavni cilj projekta je podstaći lokalni razvoj mapiranjem lokacija i razvijanje nove i autentične ture koju će domaći i strani turisti moći da probaju korišćenjem novih inovativnih alatki za turističku promociju. \n\nProjekat „Spomenici i brutalistička arhitektura u Severnoj Makedoniji: Podsticaj turističke promocije za podršku turističkog lokalnog razvoja“ finansiran je kroz od granta Projekta za razvoj i promociju turizma Regionalnog saveta za saradnju (RSS). Projekat (RSS) finansiran je od strane Evropske unije i implementiran je u pokušaju da se doprinese rastu i konkurenciji šest ekonomija Zapadnog Balkana preko podrške razvoja i promocije zajedničke regionalne, kulturne i alternativne ponude. \n\nOdricanja od odgovornosti (disclaimer): \nOva aplikacija je omogućena putem granta koji je obezbedio Savet za regionalnu saradnju u okviru projekta za razvoj i promociju turizma, finansiran od strane Evropske unije. Sadržaj aplikacije je odgovornost jedino Instituta za strateška istraživanja i obrazovanja i ne odražava stavove Saveta za regionalnu saradnju ili Evropske unije.\n\n\n\n]]></string>
+    <string name="info_tips"><![CDATA[Zvanično ime: Republika Severna Makedonija \n\nPovršina: 25.713 km2 \n\nStanovništvo: 2.022.547 (2002) \n\nGlavni grad: Skoplje \n\nAerodrom: Međunarodni aerodrom Skoplje I Međunarodni aerodrom Sv. Apostol Pavle - Ohrid \n\nValuta: denar (kurs razmene: 1 evro = 61,5 denara) \n\nJezik: makedonski jezik i ćirilično pismo kao i jezik koji govore najmanje 20% stanovništva (albanski jezik) i njegovo pismo, u skladu sa Zakonom. Druge zajednice u zemlji govore i turski, srpski, romski i vlaški jezik. \n\nReligija: oko 65% stanovništva pripada pravoslavno-hrišćanskoj religiji; oko 33% je muslimanske veroispovesti, ostali – katolici, protestanti, Jevreji itd. \n\nDržavni praznici: 1. januar (Nova godina), 7. januar (Božić), Uskrs i drugi dan Uskrsa, 1. maj (Dan rada), 24. maj ( Sv. Ćirilo I Metodija – Dan sveslovenskih prosvetitelja), prvi dan Ramazan bajrama, 2. avgust (Dan Republike), 8. septembar (Dan nezavisnosti), 11. oktobar (Dan narodnog ustanka), 23. oktobar (Dan makedonske revolucionarne borbe) i 8. decembar ( Sv. Kliment Ohridski).\n\nNacionalni parkovi: Pelister, Mavrovo i Galičica \n\nRadno vreme: državne ustanove (ponedeljak - petak, od 8.30 do 16.30), privatni biznisi (ponedeljak -petak, od 8.30 do 20:00, subota od 09:00 do 15:00). Prodavnice u turističkim mestima u sezoni, kao i veliki tržni centri, rade i nedeljom. \n\n\n\nVažni brojevi \n\nPozivni broj za zemlju + 389 \n\nPolicija 192 \n\nProtivpožarna brigada 193 \n\nBrza pomoć 194 \n\nRegionalni centar za upravljanje sa krizama 195 \n\nAMSM pomoć na putevima 196]]></string>
+    <string name="location">Lokacija</string>
+    <string name="history">Istorija</string>
+    <string name="author">Autori</string>
+    <string name="description">Opis</string>
+    <string name="interior">Unutrašnjost</string>
+    <string name="meaning">Značenje</string>
+
+</resources>

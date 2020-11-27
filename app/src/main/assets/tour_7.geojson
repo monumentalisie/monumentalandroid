@@ -1,0 +1,436 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Вечера во чаршијата  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438022,
+          42.001049
+        ],
+        "type": "Point"
+      },
+      "id": "0da7fd61250108e643cdf55326fbfde1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мезе   ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437134,
+          42.000263
+        ],
+        "type": "Point"
+      },
+      "id": "0e9c3bdcc8221f198cfa6a2011b8395f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.436809,
+            42.000772
+          ],
+          [
+            21.437059,
+            42.001164
+          ],
+          [
+            21.437372,
+            42.001587
+          ],
+          [
+            21.437679,
+            42.002121
+          ],
+          [
+            21.437813,
+            42.002259
+          ],
+          [
+            21.437674,
+            42.002406
+          ],
+          [
+            21.438051,
+            42.002634
+          ],
+          [
+            21.437784,
+            42.002824
+          ],
+          [
+            21.437598,
+            42.002833
+          ],
+          [
+            21.437366,
+            42.002884
+          ],
+          [
+            21.43732,
+            42.003204
+          ],
+          [
+            21.436931,
+            42.003165
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2660ec25dda5b402786b5a1e61776097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Фестивали  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438111,
+          42.001974
+        ],
+        "type": "Point"
+      },
+      "id": "29d7589acc25f5bfb071a6e6dcf50ad5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437691,
+            42.002126
+          ],
+          [
+            21.438115,
+            42.00197
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2c480334b459df01d85cb83c71273550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Прошетка по чаршијата ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.43555,
+          41.999219
+        ],
+        "type": "Point"
+      },
+      "id": "404e622d98b5a09e169695c34cb7400c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пиво",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435705,
+          42.000445
+        ],
+        "type": "Point"
+      },
+      "id": "52320bf0dbf862a1786f2c93febcbd5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Фестивали  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436938,
+          42.003167
+        ],
+        "type": "Point"
+      },
+      "id": "52404db27f16f67f30434a80b6ae5570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чалгии ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435749,
+          42.000505
+        ],
+        "type": "Point"
+      },
+      "id": "73002fee7a6d000c35404f3500ec0e9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Вино  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435777,
+          42.000613
+        ],
+        "type": "Point"
+      },
+      "id": "869776c2dc8c3650a3559c91f6c8d010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435697,
+            42.000457
+          ],
+          [
+            21.435679,
+            42.000517
+          ],
+          [
+            21.435477,
+            42.000509
+          ],
+          [
+            21.435543,
+            42.000276
+          ],
+          [
+            21.435721,
+            42.000183
+          ],
+          [
+            21.435773,
+            42.00011
+          ],
+          [
+            21.435714,
+            41.999574
+          ],
+          [
+            21.43555,
+            41.999214
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "a900c6cac9dccaf4414c05a17d834c52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435754,
+            42.000508
+          ],
+          [
+            21.435776,
+            42.000611
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "ad089e551ccf0c8bab4bad59a54e3712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437142,
+            42.000253
+          ],
+          [
+            21.437209,
+            42.000203
+          ],
+          [
+            21.437039,
+            41.999744
+          ],
+          [
+            21.437055,
+            41.999479
+          ],
+          [
+            21.436657,
+            41.999525
+          ],
+          [
+            21.436342,
+            41.999565
+          ],
+          [
+            21.436011,
+            41.999661
+          ],
+          [
+            21.435712,
+            41.999587
+          ],
+          [
+            21.435749,
+            41.999846
+          ],
+          [
+            21.43577,
+            42.000123
+          ],
+          [
+            21.43573,
+            42.000195
+          ],
+          [
+            21.435744,
+            42.000442
+          ],
+          [
+            21.4357,
+            42.000445
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d390246a5f30c7feea51676af734e912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.438011,
+            42.001049
+          ],
+          [
+            21.437785,
+            42.001135
+          ],
+          [
+            21.437688,
+            42.000991
+          ],
+          [
+            21.436945,
+            42.000718
+          ],
+          [
+            21.436468,
+            42.000809
+          ],
+          [
+            21.436017,
+            42.000639
+          ],
+          [
+            21.436008,
+            42.000578
+          ],
+          [
+            21.43592,
+            42.000506
+          ],
+          [
+            21.43575,
+            42.000508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "eeccaccb4ca2c74e60d6ea76c5dc0865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435785,
+            42.000616
+          ],
+          [
+            21.435728,
+            42.000189
+          ],
+          [
+            21.435757,
+            42.000154
+          ],
+          [
+            21.436161,
+            42.000129
+          ],
+          [
+            21.436396,
+            42.000336
+          ],
+          [
+            21.436528,
+            42.000345
+          ],
+          [
+            21.436613,
+            42.000373
+          ],
+          [
+            21.436751,
+            42.000376
+          ],
+          [
+            21.43713,
+            42.000259
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "fa76f7e6585d9be4623cb69a6ff85817"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent"
+    tools:context=".TourListActivity">
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <LinearLayout
+        android:id="@+id/llToursHeader"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content"
+       >
+
+        <ImageView
+            android:padding="10dp"
+            android:tint="@color/colorPrimary"
+            android:visibility="gone"
+            android:id="@+id/iv_tour_image"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <TextView
+                style="@style/TextStyleFont"
+            android:layout_marginStart="16dp"
+            android:padding="8dp"
+            android:id="@+id/tv_tour_title"
+            android:background="@color/white"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+            android:text="@string/skopje"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+                style="@style/TextStyleFont"
+        android:id="@+id/tv_brutalisam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:text="@string/capital_of_rutalisam"
+        app:layout_constraintTop_toBottomOf="@+id/llToursHeader"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/iv_brutalisam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/tv_brutalisam"
+        app:layout_constraintTop_toTopOf="@id/tv_brutalisam"
+        android:background="@drawable/ic_audio_off"
+        android:clickable="true" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_brutalisam" >
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_tour_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            />
+
+        <android.support.v4.widget.ContentLoadingProgressBar
+            android:id="@+id/pb_tours"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+             />
+    </FrameLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>

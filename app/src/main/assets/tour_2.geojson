@@ -1,0 +1,420 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435104,
+            41.998621
+          ],
+          [
+            21.435695,
+            41.999336
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "0f204b3a3836e5e3654619e697d10452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.434245,
+            41.998379
+          ],
+          [
+            21.434019,
+            41.998458
+          ],
+          [
+            21.433898,
+            41.998466
+          ],
+          [
+            21.433768,
+            41.998482
+          ],
+          [
+            21.433692,
+            41.998472
+          ],
+          [
+            21.433581,
+            41.998409
+          ],
+          [
+            21.433409,
+            41.998506
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "140baad288d0f5cee8cc00eb956bd072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2. Црвка Свети Димитрија ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.434306,
+          41.998473
+        ],
+        "type": "Point"
+      },
+      "id": "1bb781c88730d4bb12357ae9323a7d83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435697,
+            41.999329
+          ],
+          [
+            21.435702,
+            41.999152
+          ],
+          [
+            21.43711,
+            41.998989
+          ],
+          [
+            21.437161,
+            41.999315
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "33d0d1c330a5273af4fde09475ed5a2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6 Скендер бег ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437161,
+          41.999315
+        ],
+        "type": "Point"
+      },
+      "id": "6351d2b3df3eb84d227525ef7d27d405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4 Даут пашин амам ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435695,
+          41.998675
+        ],
+        "type": "Point"
+      },
+      "id": "6df617f0a2192373ae74b95cbdb0089b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.433609,
+            41.99717
+          ],
+          [
+            21.433512,
+            41.997296
+          ],
+          [
+            21.434195,
+            41.997768
+          ],
+          [
+            21.434275,
+            41.99784
+          ],
+          [
+            21.434268,
+            41.997887
+          ],
+          [
+            21.434292,
+            41.997952
+          ],
+          [
+            21.434365,
+            41.998007
+          ],
+          [
+            21.434553,
+            41.998235
+          ],
+          [
+            21.434241,
+            41.998374
+          ],
+          [
+            21.434308,
+            41.998469
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "74b84714511d505af8ce283c18e5b965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 Чифте амам ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437285,
+          42.001169
+        ],
+        "type": "Point"
+      },
+      "id": "771490ee94e7edfc8995e9236741cabd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437144,
+            41.99932
+          ],
+          [
+            21.437054,
+            41.999484
+          ],
+          [
+            21.437051,
+            41.999765
+          ],
+          [
+            21.437092,
+            41.999935
+          ],
+          [
+            21.437176,
+            42.000161
+          ],
+          [
+            21.437219,
+            42.000209
+          ],
+          [
+            21.437431,
+            42.000385
+          ],
+          [
+            21.436945,
+            42.000727
+          ],
+          [
+            21.436807,
+            42.000769
+          ],
+          [
+            21.437006,
+            42.001123
+          ],
+          [
+            21.437119,
+            42.001235
+          ],
+          [
+            21.437285,
+            42.00117
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "823db47d5535b114856dafbb280ce9cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ".8  Турбе на освојувачот на Скопје",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438497,
+          42.002366
+        ],
+        "type": "Point"
+      },
+      "id": "8a379a2e4a6312db772eff2d96503cf8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TYPE": "Rail line",
+        "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.434564,
+            41.998249
+          ],
+          [
+            21.434815,
+            41.998539
+          ],
+          [
+            21.434914,
+            41.998587
+          ],
+          [
+            21.435086,
+            41.998602
+          ],
+          [
+            21.435105,
+            41.998615
+          ],
+          [
+            21.435609,
+            41.99845
+          ],
+          [
+            21.435697,
+            41.998673
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "a6e6ad1655cc22d3630111c80ce6967d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 Карпошово Востание ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.433626,
+          41.997166
+        ],
+        "type": "Point"
+      },
+      "id": "b4cb460f3e6aa78734f04631457bdf71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3. Еврејско Маало ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.433408,
+          41.998508
+        ],
+        "type": "Point"
+      },
+      "id": "dfe4d43493cf5119c6b9a967e9635288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437127,
+            42.001248
+          ],
+          [
+            21.437327,
+            42.001511
+          ],
+          [
+            21.437674,
+            42.002123
+          ],
+          [
+            21.438109,
+            42.002446
+          ],
+          [
+            21.43842,
+            42.002662
+          ],
+          [
+            21.438488,
+            42.002601
+          ],
+          [
+            21.438436,
+            42.002521
+          ],
+          [
+            21.438549,
+            42.002409
+          ],
+          [
+            21.438499,
+            42.002368
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "e4ab43d617b9f54f24a2f2313517714c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 Правилата на чаршијата ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435695,
+          41.999338
+        ],
+        "type": "Point"
+      },
+      "id": "f6d017230dd81bbf976547cd8f1e6fc9"
+    }
+  ],
+  "type": "FeatureCollection"
+}

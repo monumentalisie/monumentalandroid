@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Monumental</string>
+
+
+
+    <string name="splash_content">Tour Guide</string>
+
+    <string name="take_tour">Take a tour</string>
+    <string name="lng_label">Select Language</string>
+
+    <string name="tips">Skopje tips</string>
+    <string name="share_exp">Share Experience</string>
+    <string name="video">Video</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="next">next</string>
+
+
+
+
+
+    <string-array name="page_headers">
+        <item>to Hidden Gems of Skopje Old Town</item>
+        <item>Find things nearby you</item>
+        <item>next header</item>
+
+    </string-array>
+    <string-array name="page_desc">
+        <item>We are here to help you</item>
+        <item>First is you need to turn on location</item>
+        <item>next text</item>
+
+    </string-array>
+
+
+
+
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome_audio">Welcome audio</string>
+    <string name="capital_of_rutalisam">Capital of Brutalisam</string>
+    <string name="skopje">Skopje</string>
+    <string name="other_cities">Other Cities</string>
+    <string name="news">News</string>
+    <string name="good_to_know">Good to know</string>
+    <string name="about">About the project</string>
+    <string name="about_info"><![CDATA[This application was prepared within the project \"Monuments and Brutalist Architecture in North Macedonia: Promoting Tourism in Support of Local Development\" implemented by the Institute for Strategic Research and Education (ISIE) in Skopje. The main goal of the project is to boost local development by mapping locations and developing a new and authentic tour that domestic and foreign tourists will be able to experience by using new innovative tools for tourist promotion. \n\nThe project \"Monuments and Brutalist Architecture in North Macedonia: Promoting Tourism in Support of Local Development\" was funded by a grant from the Regional Cooperation Council (RSS). The RSS project is funded by the European Union and implemented in an effort to contribute to the growth and competition of six economies from the Western Balkans by supporting the development and promotion of a common regional, cultural and alternative offer. \n\n\n\nDisclaimer: \nThis application was created and maintained through a grant provided by the Regional Cooperation Council’s Tourism Development and Promotion Project, funded by the European Union. Its contents are the sole responsibility of the Institute for Strategic Research and Education and do not necessarily reflect the views of the Regional Cooperation Council or the European Union.\n\n\n\n]]></string>
+    <string name="info_tips"><![CDATA[Official name: Republic of North Macedonia\n\nArea: 25,713 km2\n\nPopulation: 2,022,547 (2002) \n\nCapital: Skopje\n\nAirports: Skopje International Airport and \n\nSt. Paul the Apostle - Ohrid\n\nCurrency: denar (exchange rate: 1 euro = 61.5 denars) \n\nLanguage: Macedonian language and Cyrillic alphabet as well as the language spoken by at least 20% of the citizens (Albanian language) and its alphabet, according to the Law. Other communities in the country also speak Turkish, Serbian, Romani and Vlach. \n\nReligion: about 65% of the population belong to the Orthodox Christian religion; about 33% - Muslim, the rest - Catholics, Protestants, Jews, etc. \n\nState holidays: January 1 (New Year), January 7 (Christmas), Easter and the second day of Easter, May 1 (Labor Day), May 24 (St. Cyril and Methodius - Slavonic Enlighteners\' Day), the first day of Ramazan Bajram, 2 August (Republic Day), 8 September (Independence Day), 11 October (People\'s Uprising Day), 23 October (Macedonian Revolutionary Struggle Day) and 8 December (St. Clement of Ohrid). \n\nNational parks: Pelister, Mavrovo and Galicica\n\nWorking hours: state institutions (Monday - Friday, from 8:30 to 16:30), private businesses Monday - Friday, from 8:30 to 20:00, Saturday from 09:00 to 15:00). The shops in the tourist places of the season, as well as big shopping centers, are open on Sundays as well. \n\n\n\nImportant numbers\n\nCountry call number +389\n\nPolice 192\n\nFire Brigade 193\n\nAmbulance 194\n\nRegional Crisis Management Center 195\n\nAMSM roadside assistance 196]]></string>
+    <string name="location">Location</string>
+    <string name="history">History</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="interior">Interior</string>
+    <string name="meaning">Meaning</string>
+
+</resources>

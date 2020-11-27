@@ -1,0 +1,413 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.6 Безистен ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437071,
+          42.001577
+        ],
+        "type": "Point"
+      },
+      "id": "0887a4618c78964f0d9708b8d96a6fb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.3 Крзнарство ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436703,
+          42.000372
+        ],
+        "type": "Point"
+      },
+      "id": "1f5ebe7724f78f8572113af64e2ca679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.435654,
+            41.999387
+          ],
+          [
+            21.435618,
+            41.999404
+          ],
+          [
+            21.435723,
+            41.999598
+          ],
+          [
+            21.436017,
+            41.999668
+          ],
+          [
+            21.436095,
+            41.999615
+          ],
+          [
+            21.436353,
+            41.99956
+          ],
+          [
+            21.436665,
+            41.999525
+          ],
+          [
+            21.436678,
+            41.999748
+          ],
+          [
+            21.436701,
+            41.999907
+          ],
+          [
+            21.436777,
+            42.000111
+          ],
+          [
+            21.436826,
+            42.0001
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "554bda52503526bce10ca870fbb24262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437199,
+            42.001631
+          ],
+          [
+            21.437067,
+            42.001578
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "62daee050801939ba2c2fd3976813db7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.8 Битпазар ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.439425,
+          42.003379
+        ],
+        "type": "Point"
+      },
+      "id": "7692cf4a1183e01bb56945106ad07331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437358,
+            42.001563
+          ],
+          [
+            21.437729,
+            42.001581
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "78d372fed384fa5bf99f2c95763d7e52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.4 Семејството на Мајка Тереза и трговијата  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437527,
+          41.999164
+        ],
+        "type": "Point"
+      },
+      "id": "8f5781a9a9676723e13cbf8f1ece2b6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.5 Обувки ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437325,
+          42.00092
+        ],
+        "type": "Point"
+      },
+      "id": "9415e266074d23c2c9384b82b81f1d79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.2 Капан Ан ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436828,
+          42.000101
+        ],
+        "type": "Point"
+      },
+      "id": "a3605e7ad1455014a2893259be340424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.436862,
+            42.000339
+          ],
+          [
+            21.437218,
+            42.000209
+          ],
+          [
+            21.437177,
+            42.000158
+          ],
+          [
+            21.437048,
+            41.999772
+          ],
+          [
+            21.437053,
+            41.999482
+          ],
+          [
+            21.437096,
+            41.999272
+          ],
+          [
+            21.437532,
+            41.999163
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "a66fcf701270f280a4afbc0bb47cf678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437213,
+            42.000207
+          ],
+          [
+            21.43743,
+            42.000386
+          ],
+          [
+            21.437601,
+            42.000777
+          ],
+          [
+            21.437693,
+            42.000997
+          ],
+          [
+            21.437354,
+            42.000877
+          ],
+          [
+            21.437321,
+            42.000924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "aaa052ad799c5224c7d5595368333403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.7 Tрадиционална облека  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.437728,
+          42.001579
+        ],
+        "type": "Point"
+      },
+      "id": "b1699e56d9a4173e8ffd47b24c853ead"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437346,
+            42.00087
+          ],
+          [
+            21.436956,
+            42.000722
+          ],
+          [
+            21.436808,
+            42.000772
+          ],
+          [
+            21.437047,
+            42.001175
+          ],
+          [
+            21.437318,
+            42.001519
+          ],
+          [
+            21.437338,
+            42.001572
+          ],
+          [
+            21.437199,
+            42.001631
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "c2160eb2803996336d988333bbbe1083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.436777,
+            42.000114
+          ],
+          [
+            21.436864,
+            42.000339
+          ],
+          [
+            21.436779,
+            42.000371
+          ],
+          [
+            21.4367,
+            42.000372
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d56637dc9bafe997170affa1a90fc3a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.437335,
+            42.001577
+          ],
+          [
+            21.437673,
+            42.002124
+          ],
+          [
+            21.438413,
+            42.002663
+          ],
+          [
+            21.438804,
+            42.002854
+          ],
+          [
+            21.439102,
+            42.002995
+          ],
+          [
+            21.439441,
+            42.002995
+          ],
+          [
+            21.439415,
+            42.003374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "f7c432c9f492b30d9379515b721e7edd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5.1 Трговска традиција ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.435656,
+          41.999384
+        ],
+        "type": "Point"
+      },
+      "id": "ff557df78f66e1b4e86fa0f1b4da957b"
+    }
+  ],
+  "type": "FeatureCollection"
+}

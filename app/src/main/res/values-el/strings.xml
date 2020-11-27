@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Επιλέξτε μια περιήγηση</string>
+    <string name="tips">Συμβουλές για τα Σκόπια</string>
+    <string name="share_exp">Μοιραστείτε τις εμπειρίες σας</string>
+    <string name="video">Βίντεο</string>
+
+    <string name="play">ΠΑΙΖΩ</string>
+    <string name="stop">ΝΑ ΣΤΑΜΑΤΗΣΕΙ</string>
+    <string name="next">Επόμενο</string>
+</resources>

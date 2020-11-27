@@ -1,0 +1,40 @@
+/* 
+ Localizable.strings
+ HG_SOT
+ 
+ Created by Kiril Kiroski on 12/30/18.
+ Copyright © 2018 Kiril Kiroski. All rights reserved.
+ */
+"PLAY" = "ABSPIELEN";
+"STOP" = "HALT";
+"title" = "Verborgene Schätze des Alten Basars von Skopje";
+"next" = "Nächster";
+"hello" = "hello1";
+"Take a Tour" = "Wählen Sie eine Tour";
+"Info tips" = "Empfehlungen über Skopje";
+"Share Experience"= "Erfahrungen teilen";
+"Video" = "Video";
+"Info tips" = "Zusätzliche Informationen";
+"startNow"="Nächster";
+"info" = "Willkommen bei den verbogenen Schätzen des Alten Basars von Skopje!";
+"info_1" = "Wir helfen Ihnen gerne weiter!";
+"info_2" = "Finden Sie Standorte in Ihrer Nähe";
+"info_3" = "Zuerst müssen Sie Ihren Standort einschalten ";
+"info_4" = "Genießen Sie die einzigartigen Sehenswürdigkeiten";
+"info_5" = "Probieren Sie unvergessliche Speisen aus";
+"about" = "Über das Projekt";
+"about_info" = "Diese Anwendung wurde im Rahmen des vom Institut für strategische Forschung und Bildung (ISIE) in Skopje durchgeführten Projekts “Denkmäler und brutalistische Architektur in Nordmazedonien: Förderung der Tourismusförderung zur Unterstützung der lokalen Entwicklung” erstellt. Das Hauptziel des Projekts ist die Förderung der lokalen Entwicklung durch Kartierung von Standorten und Entwicklung einer neuen und authentischen Tour, die in- und ausländische Touristen mit neuen innovativen Instrumenten für die Tourismusförderung erleben können. \n\nDas Projekt “Denkmäler und brutalistische Architektur in Nordmazedonien: Förderung der Tourismusförderung zur Unterstützung der lokalen Entwicklung” wird durch einen Zuschuss des Tourismusentwicklungs- und -förderungsprojekts des Regionalen Kooperationsrates (RSS) finanziert. Das RSS-Projekt wird von der Europäischen Union finanziert und umgesetzt, um zum Wachstum und Wettbewerb von sechs Volkswirtschaften auf dem westlichen Balkan beizutragen, indem die Entwicklung und Förderung eines gemeinsamen regionalen, kulturellen und alternativen Angebots unterstützt wird. \n\nHaftungsausschluss:\nDie App wurde mit finanzieller Unterstützung der Europäischen Union erstellt und verwaltet. Der Inhalt dieser App ist eine ausschließliche Haftung der ISIE und spiegelt nicht immer die Positionen des regionalen Kooperationsrates und der Europäischen Union wider.\n\n\n\n";
+"info_tips" = "Offizieller Name: Republik Nordmazedonien \n\nFläche: 25.713 м2\n\nBevälkerung: 2.022.547 (2002) \n\nHauptstadt: Skopje\n\nFlughäfen: Skopje International Airport und “Hl. Apostel Paulus” in Ohrid\n\nWährung: Denar (Wechselkurs: 1 Euro = 61,5 Denar) \n\nSprache: Mazedonische Sprache und kyrillisches Alphabet sowie die von mindestens 20% der Bürger gesprochene Sprache (albanische Sprache) und ihr Alphabet gemäß dem Gesetz. Andere Gemeinden des Landes sprechen ebenfalls Türkisch, Serbisch, Roma und Vlach. \n\nReligion: Etwa 65% der Bevölkerung gehören der orthodoxen christlichen Religion an, ungefähr 33% - Muslime, der Rest - Katholiken, Protestanten, Juden usw. \n\nFeiertage: 1. Januar (Neujahr), 7. Januar (Weihnachten), Ostern und der zweite Ostertag, 1. Mai (Tag der Arbeit), 24. Mai (Hl. Kyrill und Method - Tag der allslawischen Aufklärer), der erste Tag des Ramadan Bajram, 2. August (Tag der Republik), 8. September (Unabhängigkeitstag), 11. Oktober (Tag des Volksaufstands), 23. Oktober (Tag des mazedonischen revolutionären Kampfes) und 8. Dezember (Hl. Klement von Ohrid). \n\nNationalparks: Pelister, Mavrovo und Galichica\n\nArbeitszeit: staatliche Einrichtungen (Montag - Freitag von 8:30 bis 16:30 Uhr), Privatunternehmen von Montag bis Freitag von 8:30 bis 20:00 Uhr, Samstag von 09:00 bis 15:00 Uhr). Die Geschäfte in den touristischen Orten der Saison sowie die großen Einkaufszentren sind auch sonntags geöffnet. \n\n\n\nWichtige Nummer\n\nRufnummer für das Land +389\n\nPolizei 192\n\nFeuerwehr 193\n\nKrankenwagen 194\n\nRegionales Krisenmanagementzentrum 195\n\nAMSM Pannenhilfe 196";
+"Skopje" = "Skopje";
+" Skopje " = " Skopje ";
+"Other cities" = "Andere Städte";
+"News" = "Nachrichten";
+"Good to know" = "Gut zu wissen";
+"Welcome Audio" = "Willkommen-Audio";
+"Capital of Brutalisam" = "die Hauptstadt des Brutalismus";
+"Location" = "Standort";
+"History" = "Geschichte";
+"Author" = "Autoren";
+"Description" = "Beschreibung";
+"Meaning" = "Bedeutung";
+"Interior" = "Innere";

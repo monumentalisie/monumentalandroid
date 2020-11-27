@@ -1,0 +1,674 @@
+[
+    {
+        "id": 1,
+        "name": "AÇIK HAVA MÜZESI",
+        "info_text": "Üsküp, uzun tarihinde her zaman medeniyetlerin kavşağındaydı. Birçok imparatorluklar, kültürler ve medeniyetler onun gelişimi ve yaşam tarzı üzerinde izlerini bıraktılar.'\n\nBu farklılıklar, Doğu ve Batı'nın etkisinin yanı sıra, bugün çarşıda bile hissedebilirsiniz. Bu turda çarşıdaki en önemli tarihi anıtları göreceksiniz, Taş köprüsü, St. Spas kilisesi, Mustafa Paşa ve Murat Paşa camileri dahil.\n\nÜsküp Kalesi'nin sonunda başkentimize doğru güzel manzaranın tadını çıkaracaksınız. Açık hava müzemizin tadını çıkarın!",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 5,
+        "info_mp3": "tour_1_mk",
+        "places": [
+            {
+                "id": 1,
+                "name": "Taş köprü",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Turumuz Üsküp'ün sembolü olan Vardar nehrinin Taş Köprüsünden başlıyor. Köprü 'Makedonya' meydanını ve Üsküp Çarşısı'nı birbirine bağlar ve Erken Bizans dönemine aittir. Sultan II. Mehmed yönetimi sırasında 1491 - 1469 arasındaki dönemde yenilenmiştir.  Orijinal haliyle köprünün 13 tonozu vardı, 213 metre uzunluğundaydı ve geniş 6,3 metre.\n\nSık sık yenilendi. Böylece, örneğin, ünlü gezgin Evliya Çelebiya, 1661 – 1662 yılları arasında Üsküp’teki kalışı sırasında, en son yenileme aşamasında köprüde bulunan yazıyı yazdı:  'İnsanlar bu görülmemiş köprünün yenilenmesini görünce, onu övenirken “Eskiden olduğundan daha güzeldir” dediler.\n\nİkinci Dünya Savaşı sırasında, 1944’te köprü baltalamış, ancak şehrin başarılı bir şekilde serbest bırakılması ile onun yok etmesini önlenmiştir.",
+                "latitude": 41.996993,
+                "longitude": 21.433068
+            },
+            {
+                "id": 2,
+                "name": "Murat Paşa camisi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Murat Paşa Camisi, Çarşı'nın ortasında, Çifte Amam ve Suli An'ın hemen yakınında bulunmaktadır. Bu cami 1689”daki yangında acısını çekmiş. XIX yüzyılın başında yenilenmiştir. Caminin giriş kapısı üzerindeki mermer plakasında caminin 1802 veya 1803 yılında inşa edildiğini bahseder.\n\nCaminin kendisi, neoklasik İslami unsurları uygulayarak Osmanlı Barok üslübüna ait nispeten yeni bir yapidır. Avluda 1937 yılında inşa edilmiş bir şadırvan vardır. \n\nMurat Paşa camisi korumalı kültürel miras statüsüne sahiptir.",
+                "latitude": 42.000817,
+                "longitude": 21.437385
+            },
+            {
+                "id": 3,
+                "name": "Aziz Spas kilisesi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Aziz Spas kilisesi, Üsküp Kalesi ve Mustafa Paşa Camisi’nin hemen yakınında bulunmaktadır. XIX yüzyılda yenilendi. İlginç bir ahşap çan kulesi vardır, bahçesinde ise en ünlü Makedon devrimci Gotse Delçev’in mezarı bulunuyor.\n\nBu kilisede ülkedeki en ünlü oymalardan birini görebilirsiniz – Eski Ahit’in motifleri ve sahneleri, geometrık süsleri ve Makedonya’nın florasının ve faunasının motıflerinin hakim olduğu Az. Spas kilisesinin ikonostası. XIX yüzylda Petre Garkata tayfasından yapılmıştır.",
+                "longitude": 21.435876,
+                "latitude": 42.000702
+            },
+            {
+                "id": 4,
+                "name": "Mustafa Paşa Camisi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Mustafa Paşa Camisi 1492 yılında inşa edilmiştir ve çarşıdaki İslam mimarlığının en önemli anıtlardan biridir. \n\nCaminin kompleksi içinde Mustafa Paşa’nın türbesi (mezarı), kızı Uma’nın lahiti, şadırvan ve imaret ve medrese kalıntıları bulunurlar. Caminin tonozu 16 metre genişliğindedir.\n\nCami kubbe ile örtülü kare bir tesistir. Ön kapının üstünde, müezzinlerin hizmeti için bir galeri var. Caminin minaresi kireçtaşından, 47 metre yüksekliğinde ve genişletilmiş kısmı süslerle süslenmiş mermerden yapılmıştır. Bu camide hizmeti sürdürür.",
+                "longitude": 21.435455,
+                "latitude": 42.001926
+            },
+            {
+                "id": 5,
+                "name": "Kurşumli Han",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Bu Han 1550 yılında Mula Musledin Hoca tarafından yaptırılmıştır. Adı, muhtemelen kurşun çatısı nedeniyle 'kurşun' anlamına geliyor. 2800 m2'lik bir alanı kaplar ve 60 odaya varmış (zemin katta 28 oda, üst katta 32 oda). Bu çarşının en büyük handır. Bu bina XIX yüzyılda belli bir süre hapishane görevini yapmış. İkinci Dünya Savaşı’ndan sonra,bu binada Makedonya Arkeolojı Müzesi’nin bir lapidariumu yerleştirilmiş, antik dönemden önemli eserler sergilenmiş. Bugün bu tesis kültürel etkinlikler, tanıtımlar ve hatta düğünler için popüler bir hedeftir. Burada Üsküp Tasarım Haftası (Skopje Design Week)– yaratıcı festival yapıldı. Hemen yakınında, 1924 yılında kurulan ve önemli bir etnolojik koleksiyonun sergilendiği Makedonya Müzesi yer almaktadır.",
+                "longitude": 21.437002,
+                "latitude": 42.003025
+            },
+            {
+                "id": 6,
+                "name": "Üsküp kalesi Kale",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp kalesi Kale, IV. Yüzyıla M.Ö. kadar uzanıyor. Büyük surun inşası, altıncı yüzyılda Bizans İmparatoru Justinian'ın saltanatıyla ilişkilidir ve kalenin İmparator Samuil döneminde (X-XI yüzyıl) kalenin en büyüğü olduğuna inanılmaktadır. Ortaçağ’da burada bırkaç saray, kiliseler ve atölye vardı. Osmanlıların geldikten sonra, önemli ölçüde tahrip edildi ve kışlaya çevrildi. Birinci Dünya Savaşı sırasında, Avusturya ordusunun merkezi buraya yerleştirildi. Kale'ye büyük hasar 1963'te Üsküp'teki depremde verildi. Depremde yıkılan Arkeoloji Müzesi yerinde 'Kuvvet - Şan - Zafer' heykelini görebilirsiniz. Ünlü bira festivali - Üsküp Bira Festivali (önceden Pivolend) bu alanda yapıldı. \n\nBu turun sonunda kaleyi ziyaret edin ve Makedon başkentinin güzel manzarasının tadını çıkarın.",
+                "longitude": 21.432966,
+                "latitude": 42.000872
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "EFSANELER VE ÇARŞIDAN ANILARI",
+        "info_mp3": "tour_2_mk",
+        "info_text": "Uzun bir tarihi ve kültürü olan herhangi bir şehir gibi, Üsküp ve şehrin kalbi olan Eski Çarşı da kendi efsaneleri vardır. Bu turda, çarşıdaki önemli kültürel ve tarihi eserler ile bağlantılı en ünlü efsaneleri ve ayrıca artık orada olmayan insanların ve kentin hatıralarını duyacaksınız. Karpoşun isyanı, Aziz Dimitriya Kilisesi, Davut Paşa hamamı ve Çifte hamamı hakkında daha çok şey öğreneceksiniz. Tur bizi tarih hakkında daha fazla şey öğrenebileceğiniz Yahudi mahallesine, aynı zamanda Makedonya'nın bu bölgesinden gelen Yahudilerin trajik kaderine götürecek. Bu turun, ilgi çeken yerlerinin çoğu Taş Köprüsü yakınlarında Eski çarşının güney kesiminde yer almaktadır. Unutmayın ki, Üsküp ve ülkemizin beş yüzyıldan fazla Osmanlı İmparatorluğu'nun bileşiminde bulundular ve bu eski şehir üzerinde güçlü bir etkisi var.\n\n\n\nBaşlayalım!",
+        "image": "old_bazaar_skopje2",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Karpoşun isyanı ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Efsanelerin gezisi ve çarşının hatırası, Taş Köprü'nün hemen yanındaki Vardar nehrinin sol tarafındaki platoda bulunan 'Karpoşun İsyanı' meydanında başlar. Tam bu alanı, çarşının girişi önünde, Karpoş ve onun . yüzyılda isyanı ile bağlantılı ilk hikayemizin merkezidir\n\nEkim 1689'da ünlü Halk lideri Karpos, bölgedeki Avusturya ordusunun ilerlemesini kullanmış ve Osmanlı yetkililerine karşı bir ayaklanma başlatmış. Bu yıl Üsküp için önemlidir çünkü Avusturya Genel Pikolomini, kolera salgını önlemek için, kendisinden öldüğü, Üsküb’ü yakmış. Askeri raporunda, Pikolomini yazıyor ki 'Üsküp Prag kadar büyüktür'. Bu yangında, şehirdeki binaların çoğu tahrip edildi, bunlar daha sonra yenilendi.       \n\nKısa sürede Karposh yenilmiş ve ayaklanması boğulmuş. Aralık 1689'da yakalanmış ve Kırım Hanı Selim Gigaj'ın emriyle Taş Köprü'de idam edilmiş. Taş Köprü korumasının yanında bir tahta ile işaretlenmiş infaz yerini ziyaret edebilirsiniz.\n\nKöprünün hemen yakınında, tarih boyunca yabancı yetkililere özgürlük ve direniş için Makedon halkının mücadelesinin bir simgesi ve hatırlatması olarak onun anıtı bulunur.",
+                "latitude": 41.997166,
+                "longitude": 21.433626
+            },
+            {
+                "id": 2,
+                "name": "Kilise Aziz Dimitriya",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Turumuzdeki bir sonraki nokta Aziz Dimitriya kilisedir, Üsküp Çarşıs’nın güney girişinde bulunur. 13. yüzyıla kadar uzanır ve 1886-1894 döneminde yeniden kurulur. \n\nYenilenmesi ile bir efsane bağlanır. Yani, bir osmanlı paşa kilisenin yapımını durdurdu ve harem yapmaya başladı. Ancak su akması yerine, bölgede yılanlar ortaya çıkmışlar ve paşa haremin inşasını durdurmuş ve kilisenin inşaatı devam etmiş. Kilisede bulunan ikonların ve fresklerin yazarı Dimitar Papradiski'dir.\n\nBu kilisenin bahçesinde, b.b. Dositey, MOK’un ilk başkanının mezarı bulunur.",
+                "latitude": 41.998473,
+                "longitude": 21.434306
+            },
+            {
+                "id": 3,
+                "name": "Yahudi mahallesi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Taş Köprü'den sol taraftaki çarşı girişine geçtiğinizde, Kale'nin dağ eteklerinde, bir zamanlar Yahudi mahallesinin uzandığı alanı görebilirsiniz. XX yüzyıldan önce, Yahudi mahallesi şehirdeki en fakir bölgelerden biriydi, ancak 20. yüzyılın başında, burada Avrupa mimarisinin etkisi altında inşa edilmiş daha güzel ve daha büyük evler inşa etmeye başladı. Türk hükümeti sırasında bu kısım Yahudi-Hane olarak da biliniyordu.\n\nHitler’in Almanya’nın anti-Semitik politikasının bir parçası olarak, 11 Mart 1943’te, Bulgar makamları Üsküp, Bitola ve Stip’deki Yahudileri tutukladı ve on gün sonra üç trenle onları ölüm kampına Treblinka sürdüler, orada hepsi öldürüldü. \n\nSavaştan sonra mahalle Yahudi kimliğini kaybetti.\n\nBugün Yahudi Mahallesinin yerine Makedonya’daki Yahudi Soykırımı Anıt Merkezi bulunur. Bu müze sonsuza kadar, toplam 7144 Makedon Yahudisinin, yani Holokost'ta öldürülen Makedonya'nın bu kısmındaki Yahudi nüfusunun% 98'inin hatırasını koruyacak.\n\nAnıt merkezi ziyaret edin ve Makedonya’dan Yahudilerin tarihi hakkında daha fazla öğrenin.",
+                "longitude": 21.433408,
+                "latitude": 41.998508
+            },
+            {
+                "id": 4,
+                "name": "Daut Paşa Hamamı Efsaneleri",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Turumuzun bir sonraki noktası, çarşının başında, güney tarafına, Taş Köprüsü ve Aziz Dimitriya Kilisesi’nin hemen yanında bulunan Daut Paşa Hamamıdır. 13 kubbe ile örtülü binanın içi etkileyicidir. Onlar camla kaplı yıldızlı açıklıklardan hamamın odalarına harika ışık verirler.\n\nBu hamam hiçbir zaman banyo olarak kullanılmamıştır ve bunun için iki efsane var. İlk efsaneye göre, odun eksikliği nendeniyle bina hiç çalışmadı ve ikinciye göre, Batı Rumeli’nin büyük vezirin Daut Paşa’nın kızısı, binanın açılışından hemen önce bir yılan tarafından ısırılmış ve ondan sonra ölmüş. Bu olaydan sonra, Daut Paşa, hamamın kapatılmasını ve bir daha asla kullanılmamasını emretmiş. \n\nHamam 1948’de yenilendi ve bugün içinde Makedonya Ulusal Galerisi bulunur. Bugün binanın içinde konserler, sergiler, resepsiyonlar ve diğer kültürel etkinlikler yapılır.",
+                "longitude": 21.435695,
+                "latitude": 41.998675
+            },
+            {
+                "id": 5,
+                "name": "Çarşının kuralları",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp Çarşısı'na girerken, temel özelliklerini tanımak, aynı zamanda kuralları bilmek önemlidir. Çarşı, Taş Köprü'den Bit Pazarı'na ve Kale'den Serava Nehri'ne kadar olan bölgeyi kapsıyor. Evliya Celebija seyahatinde yazıyor ki Üsküp'te XVII yüzyılın ortalarında yaklaşık 2000 dükkan vardı, sokaklar temiz ve leylaklara kokuyordu.\n\nBaşka yerlerde olduğu gibi Üsküp Çarşısının da kendi kuralları vardı. Dükkanlar sabah açılmış ve akşam kapanmış. Geceleri özel bir çarşı sağlaması varmış. pazarda Yanıcı maddeleri ve yağları tutmak, malları katletmek veya zorla taşıtlarla geçmek yasakmış. Mağazalar sadece onay alınarak ve belirli standartlara göre inşa edilebilir.",
+                "longitude": 21.435695,
+                "latitude": 41.999338
+            },
+            {
+                "id": 6,
+                "name": "Skender Bey Anıtı",
+                "image": "tour_6_mk",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp Çarşısı’nda, ortaçağda Arnavut halkının en önemli liderlerinden biri – Skender Bey’in (1405-1468) anıtı da bulunur. Bu arnavut asilzade, bir çocuk olarak Konstantinople’ye rehine götürmüş, orada İslam’ı almış ve askeri bir kariyer yapmış. İyi bir askeri komutanmış, bu yüzden Skenderbeg adını aldı (Büyük İskender adlandırılmış). Osmanlıların Niş'teki Macarlar tarafından yenilgisinden sonra (1443),üç yüz destekçisi ile Arnavutluğ'a döndü ve Croia'da bir merkeze sahip olan Osmanlı makamlarına (1443) karşı bir ayaklanma başlattı, ayrıca Batı Makedonya'nın (Debar-Struga Bölgesi) bölgelerini de etkiledi. Arnavut asilleri (Dukagjini, Muzaki, Topi, Arianiti, vb.) bir araya getirmiş, Lesh'te (1444) bir askeri ittifak kurmuş (lig), Arnavutluk hükümdarı olarak ilan edilmiş. Her zaman Latince’ye Dominus Albaniae olarak imzalamış. Batı Avrupa ülkelerinin (Venedik, Papa, Napoliten Krallığı, Macaristan, Dubrovnik vb.) desteğiyle ve yardımıyla, yirmi beş yıl boyunca Osmanlılar'a başarıyla karşı çıkarak birçok savaşta onları yenmiş.\n\nÇarşıda bulunan anıt 5.5 metre yüksekliğinde ve 2.7 ton ağırlığındadır. Anıtın yazarı Toma Tomai’dir. Anıt 28 Kasım 2006'da keşfedildi ve bu vesileyle bir tören düzenlendi. Anıtın etrafındaki kareye 'Skenderbeg' adı verildi.",
+                "longitude": 21.437161,
+                "latitude": 41.999315
+            },
+            {
+                "id": 7,
+                "name": "Çifte Hamamı",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çifte Hamamı, çarşı merkezinde yer alan halka açık bir hamamdır. XV. yüzyılda Isa-bey'den inşa edilmiştir. İsim çeviri 'çift hamam' anlamına gelir ve binada, erkekler ve kadınlar için ayrı girişleriyle, iki ayrı banyo odasının bulunmasından kaynaklanmaktadır. Bu tesis 1689'da Üsküp'ün yanması sırasında ciddi zarar görmüş. Hamam olarak 1917’ye kadar çalışmış. 2002’de yapılan rekonstrüksyondan sonra, Ulusal Galeri’nin bir parçası olarak çalışır. Burada hala otantik bir Türk hamamının kalıntılarını bulabilirsiniz.\n\nŞehrin diğer hamamlarında olduğu gibi, banyoya gıtmek özel bir törendi. Herkes yanında havlu, metal kase ve yemek taşımış çünkü hamamda birkaç saat tutulmuşlar. Hamamı Müslüman ve Hırstiyan nüfusunu ziyaret etmiş, fakat aynı zamanda Yahudiler de. Hamamda çeşitli kozmetik hizmetler ve toplantılar yapıldı. Yaşlı kadınlar gelecekteki gelini ararken gençleri gözlemlenmesini yaygın bir pratikmiş.\n\nHamamın orta kısmında da 3 ayrı oda (Halvet) varmış. Hamamın dişi bölümündeki Halvetlerden birisi Yahudilerin ritüel yıkanması için (mikve, mikveh) kullanılmış.",
+                "longitude": 21.437285,
+                "latitude": 42.001169
+            },
+            {
+                "id": 8,
+                "name": "'Üsküb’ün fatihi' - Yiğit Paşa’nın Türbesi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Yiğit Paşa 14. Yüzyılın sonlarında ünlü Osmanlı 'Üsküp fatihi' dir. Aynı zamanda kentin ilk Osmanlı komutanıymış. Üsküp'te, ismini taşıyan çarşıdaki camide gömüldü. Cami, 1943'teki bombalama sırasında hasar gördü. \n\nOnun türbesiyle nüfusun bir inancı da bağlıdır. Mezarının hemen yakınında şifalı su ile bir kuyu bulunmuş. İnsanların inançlarına göre, onun tarafından bağlı olduktan sonra su şifa olduğunu düşünülmüş.\n\nBu turun sonunda, bu, birkaç yıl önce restore edilen ve turistler arasında, özellikle Türkiye’den gelen, çok populer kompleksi ziyaret ediniz.",
+                "longitude": 21.438497,
+                "latitude": 42.002366
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Zanaatlar: Bir zamanlar ve bugün",
+        "info_mp3": "tour_3_mk",
+        "info_text": "Çarşı kompleksi, Bezisten çevresinde merkezi bir çekirdek olarak oluşturulmuştur. Çarşı Daut Paşa hamamı’ndan Bit Pazarı’na kadar uzanmış ve her yerden gelen tücarlar için çok sayıda dükkanlar, büyük sayıda hamamlar, hanlar ve diğer ilginç yerleri kapsamış. \n\nBugün Üsküp’te kayıtlı yaklaşık 126 zanatçı var, bunların 126’sı Eski Üsküp Çarşısının bölgesinde çalışıyor. Çarşıda hala zanaat dükkanları var ve onlarda yorgancı, kürkçü, şapkacı, papuççu, kuyumcu, çomlekçi, saatçı, kazancı, kalaycı zanaatlar gibi var. Bu tur size eski şehirdeki zanaatlarının hikayesini anlatacak. Sonunda Eski Çarşı Müzesini de ziyaret edeceğiz.   \n\nEn sevdiğiniz zanaatı ve belki de Üsküb’e yaptığınız ziyareti her zaman hatırlamak için mükemmel bir hatıra bulacağınızdan eminiz.",
+        "image": "old_bazaar_skopje3",
+        "number_of_points": 9,
+        "places": [
+            {
+                "id": 1,
+                "name": "Soyu tükenmiş zanaatlar",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp Çarşısı, Balkanlar’daki en büyük çarşılardan biridir ve zanaatlara göre onun alanı ayrı çarşılara bölünmüştür. Bugün olduğu gibi, zanaatları değişiyordu, bazı zanaatları çöktü ve öldü ve bir kısmı gelişti ve yaygın olarak tanındı. Çarşıdaki bu süreçler hakkında özellikle çalkantılı XIX. yüzyıldaki polıtık koşullardan, nüfüs yapısındaki değişimi, aynı zamanda ucuz endüstriyel ürünleri ve Avrupa sermayesinin alımından etkilenmiş.\n\nYavaş yavaş Osmanlı etkisinin kaybolmasıyla, örneğin kıyafetlerle, eski zanaatları abacılar veya sırmakeşler gibi yavaş yavaş çökmüşler. Abacılar erkek kıyafetlerini belirli bir bez kumaştan yapmışlar. Kaynaklara göre, 1925’te çarşıda sadece 8 abacı kalmış. Çarşıda eyer, kemer ve kayışlar yapan eyerciler de varmış ve bakırdan nesneler yapan kazancıları da varmış. Silahlı dükkanları da varmış ve alkollü içki üreten küçük dükkanlar da varmış.\n\nAynı zamanda, Avrupa etkisinde, şapkacılar, fotoğrafçılar, duvar halıları, terziler vb. yeni zanaatları geliştirildi. Özellikle popüler olan fotoğrafçılıktı ve her aile, çarşıdaki fotoğraf çalışmasında aile fotoğrafı veya düğün fotoğrafçılığı yapmak istedi.",
+                "latitude": 42.002621,
+                "longitude": 21.438000
+            },
+            {
+                "id": 2,
+                "name": "Demirciler",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp Çarşısı’nda metal işleme zanaatları hala duruyor: demircilik, kalaycılık, makine – çilingirlik zanaatı. Çarşıdaki Demirci Sokağı’nı ziyaret edin ve hala birkaç demirci bulabilirsiniz. Demirciliğiyle en çok Romanlar uğraşmışlar. Demirciler en sık tarım araçlarını yapmışlar,  onlar çok arananmış çünkü mekanizasyon tarımcılıkta kullanılmamış.",
+                "latitude": 42.002686,
+                "longitude": 21.438094
+            },
+            {
+                "id": 3,
+                "name": "Berberler",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Berberler bugün de Üsküp Çarşısı’nın bir parçasıdır. Geçmişte çarşıda çok sayıda berber varmış. Onlar tıraş ve düzeltme hizmetleri sunmuş, ancak sünnet hizmetleri ve ayrca bazı sağlık hizmetleri (cilt hastalıklarının tedavisi) teklif ettmişler. Eskı Çarşı’daki berber dükkanını ziyaret edin ve ihtiyacınız olan hizmeti seçin.",
+                "longitude": 21.438760,
+                "latitude": 42.002763
+            },
+            {
+                "id": 4,
+                "name": "Bonbonlar ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Türk hükümeti sırasında birkaç atölye varmış, yani bonbonlar için dükanları, lokumlar ve diğer ürünleri. Bunların en ünlüsü 'Teohar ve Pane' imiş, daha sonra ünlü fabrika 'Avrupa' haline gelmiş. Bu fabrika 1882’den beri varoluyor. Varlığının başlangıcında sadece 5 çalışanı ve 250 kg ürün kapasitesi varmış. Ekipman çok mütevazıydı – bonbonlar karşımı üretimi, lokum kaynatması ve tatlı üretimi için birkaç bakır kazanlar.\n\nEski Çarşı'da 'Avrupa' nın mağazasını bulabilir ve modern ürünlerini deneyebilirsiniz.",
+                "longitude": 21.438999,
+                "latitude": 42.002425
+            },
+            {
+                "id": 5,
+                "name": "Mumcular",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Geçmişte mumcular mumcular da deniyordu. Onlar o zamanda ve bugün de mumları balmumundan ve parafindan yapılır. Çeşitli ihtiyaçlara yönelik mumların yanı sıra, en çok dındar, balmumundan çiçeklerle gelin çelenkleri yapmışlar. Kendi esnafı da varmış. Üsküp Çarşısı’nda hala mumcular var.",
+                "longitude": 21.437670,
+                "latitude": 42.002114
+            },
+            {
+                "id": 6,
+                "name": "Papuççlar ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ürünleri bölge genelinde satıldı, Bosna’ya bile. Bu zanaat uzun zaman çarşıda vardı. XIX yüzyılın sonunda, 80 mağazanın üyesi olduğu özel bir papuçç loncusu da vardı. Endüstrıyel ve ucuz malların artışıyla, ilgi azaldı ve bu çarşıdaki papuçç dükkan ve atölyelerin sert bir şekilde azaltmasına katkıda bulundu.\n\nBugün Çarşıda geleneksel şekilde pabuç yapan birkaç dükkanlar var. Onları zıyaret edin çünkü kış günleri için doğru hediyeyi orada bulacaksınız.",
+                "longitude": 21.436834,
+                "latitude": 42.000865
+            },
+            {
+                "id": 7,
+                "name": "Şapkacı",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "XIX yüzyılın sonunda, Avrupa etkisi altında, çarşıda yeni zanaatları gelişmeye başladı, şapkacılar da dahil. Farklı malzemelerden (yün, pamuk ve diğer doğal malzemeler) kadınlar ve erkekler için şapka yaptılar ve hâlâ şapka yapıyorlar. Üsküp Çarşısı'ndan gelen zanaatçıların şapkaları, eski Yugoslavya'daki Adriyatik sahillerinde özellikle popülerdi.\n\nÇarşıda bulunan bırkaç şapkacı dükkanlar yaklaşık 200 yıl boyunca vardı.",
+                "longitude": 21.437272,
+                "latitude": 42.001472
+            },
+            {
+                "id": 8,
+                "name": "Oymacılık",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Bu turun sonunda sizi Azız Spas Kilise’ye götürmeye karar verdik, ülkemizdeki en eşsiz oymalardan birini görmek için.\n\nOymacılık, özellikle XVI. ve XIX. yüzyıllar arasında ifade edilen, Makedonya’da bin yıllık bir geleneği var. Oymacılar en sık, birkaç üye, usta ve yardımcılardan olan tayfalar içinde çalışmışlar. Çoğu zaman ceviz ağacıyla çalıştılar, birkaç yıl kurudular ve keski ve çekiçle çalıştılar. Her zaman oymanın tamamen tek bir parça odundan olmalı çabasındaymış. Bugün Üsküp Çarşısı’nda oymacılar yoktur, ancak çarşıda ülkenin en ünlü oymalarından birini görebilirsiniz – Eski Ahit motifleriyle Aziz Spas Kilisesinin ikonostasisi. XIX. Yüzyılda Petre Garkata'nın tayfasından yapılmıştır. ",
+                "longitude": 21.435814,
+                "latitude": 42.000761
+            },
+            {
+                "id": 9,
+                "name": "Üsküp Çarşısı Müzesi (Suli Han)",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Eski Üsküp Çarşısı Müzesi, çarşıdaki az sayıdaki handan biri olan Suli An'da yer almaktadır. Suli Han ya da “sulandırılmış”, çevresinde akan bir nehir nedeniyle denir. 2000 m2 üzeri bir alanı kaplamaktadır. XV. Yüzyılda inşa edilmiş ve XVI. yüzyılda üst kat mağazalara dönüştürülmüştür. Suli Han, 1963'teki yıkıcı Üsküp depreminde yaralandı ve ardından restore edildi. Müzenin yanı sıra, bugün binada Sv. Kiril ve Metodiy Üniversitesi’nin Güzel Sanatlar Fakültesi de yer alıyor.\n\nMüze 1983 yılında kuruldu ve 500 m2’lik bir alanda çarşıdaki tarihi, kültürel değeri ve zanaatları göstermektedir.\n\nGiriş ücretsizdir.",
+                "longitude": 21.437739,
+                "latitude": 42.001580
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Makedon Yakut",
+        "info_mp3": "tour_4_mk",
+        "info_text": "Üsküp Çarşısı'nın özelliklerinden biri, bugün mağazaların büyük bir bölümünün kuyumculuk yapmaya ve satmaya yönelik olmasıdır. \n\nMakedonya nüfusu, her zaman farklı malzemelerden mücevherlere karşı özel bir tutum geliştirmiştir. Mücevher ve süs eşyaları Üsküp civarında en eski zamanlardan beri bulunan arkeolojik malzemelerde bulunmaktadır.\n\nBu yüzden bu turda pazarda yapılan mücevherlerin üretim ve satış geleneğini öğrenme şansına sahip olacaksınız. Tur içinde bu zanaat işinde çalışan zanaatçıları tanıyabilecek, Makedon yakut ve Makedon telkari hikayesini duyabilecek, aynı zamanda uzun Kuyumcu sokağı'sını da ziyaret edebileceksiniz. Burada mutlaka Üsküp mücevherinizi bulacaksınız.\n\nBu tur kuzey tarafından, Kuzey Kapısı yakınında başlar. Eski şehrimizin tarihi mirasıyla ilgilendiğiniz bölgeleri ziyaret ettikten sonra bu turu seçmenizi tavsiye ederiz.",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 5,
+        "places": [
+            {
+                "id": 1,
+                "name": "Makedon Yakutu",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Bu turun başında size Makedon yakutunun hikayesini anlatacağız.\n\nMakedonya yakutu, ülkemizin mineral korindonunun eşsiz bir mücevheridir. Mineral korindon doğada iki türünde oluşur, yakut ve safir. Makedon yakutu yüksek mukavemetle karakterizedir (Moss ölçeğinde 9.0, sadece elmas bu mineralden daha güçlüdür). Kendine özgü pembe-kırmızı rengine göre ahududu benzer \n\nWallStreetInt. Makedon yakuut - 'aşkı metafiziksel bir mücevher' - olarak adlandırdı Çarşıda Makedon yakutlarıyla süslenmiş takılar bulabilirsiniz ve bu taşlı takılar popüler bir hediyeyi ve hatırayı temsil eder. Dünyadaki birçok ünlü Makedon yakutlu takılar ve süslemeler var.\n\nBizim uygulama Makedon yakutunun rengine sahip. ",
+                "latitude": 42.002486,
+                "longitude": 21.439076
+            },
+            {
+                "id": 2,
+                "name": "Kuyumcular ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Kuyumcular, yani kuyumcular altın, gümüş ve diğer değerli malzemelerden takılar yaparlar. Kuyumcular yüzük, kolye, küpeler, paftalar (halk kostümler tokaları) vb. de yapılmış. Ayrıca mücevherleri de tamir ediyorlar. Bugün çarşıda, kuyumcu zanaatı yönetilen, hala birkaç dükkanlar bulacaksınız. Onları ziyaret edin ve bu eski tekniği tanıyın.",
+                "latitude": 42.002399,
+                "longitude": 21.438934
+            },
+            {
+                "id": 3,
+                "name": "Saatçı",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşının bu bölümünde, kuyumcular ve Kuyumcu caddesi yakınında, çarşıda bir başka ilginç zanaatı daha var – saatçiler. Saatçiler çarşıda çok saygın zanaatcılardı. Teknolojik gelişmelerin bir sonucu olarak, özellikle XIX ve XX yüzyılların sonunda çok popüler hale geldiler. Çarşıda saat tamir ve bakımını yapan saatçilerin birkaç dükkanları var.\n\nSaatinizle ilgili bir probleminiz varsa, Eski Çarşı'daki saatçiler sizin için doğru yer.",
+                "longitude": 21.438130,
+                "latitude": 42.001971
+            },
+            {
+                "id": 4,
+                "name": "Kuyumcu sokağı",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Zlatarska ulitsa, yani Kuyumcu sokağı, resmen adlandırıldığı gib çarşımız için eşsiz bir sokaktır. Çarşıdaki en uzun caddelerden biridir. Zamanla, çarşıda bazı yerlerde farklı esnaf gruplama gelıyor. Bu akımı bu sokakta da görülebilir, aslında ülkemizdeki tek bir yerde mücevher ve diğer değerli malzemeleri satan kuyumcu dükkanlarının ve dükkanlarının en büyük konsantrasyonunu temsil eder. Bugün burada yüzükleri, küpeleri, bilezikleri, incileri ve aynı zamanda ünlü Makedon telkariğini bulabilirsiniz.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Златарска улица",
+                        "latitude": 42.000767,
+                        "longitude": 21.436863
+                    },
+                    {
+                        "id": 2,
+                        "name": "Златарска улица",
+                        "latitude": 42.001563,
+                        "longitude": 21.437334
+                    }],
+                "longitude": 21.436851,
+                "latitude": 42.000822
+            },
+            {
+                "id": 5,
+                "name": "Telkari",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Telkari sanatın ülkemizde uzun bir geleneği vardır. Bu sanat, ince metal tellerin katlanması, bükülmesi ve örülmesi yoluyla mücevherlerden yapılmıştır (genellikle bir dantel benzer ince bir altın veya gümüş tel) ve temas noktalarında ve aynı zamanda alt tabaka ile bunların birbirleriyle birleştirilmesi.\n\nBroşlar (özellikle bir kelebek şeklinde), küpeler, düğmeler, dini semboller ve telkari teknikte yapılan diğer kişisel süs eşyaları da tanınabilir. Bir konunun hazırlanması için en az bir hafta sürekli özveri gerekir.\n\nÇarşıdaki telkari ustalarından Adem şöyle dedi: 'Telkari sanattan başka bir şey değildir. Sadece gelenekle, özgünlükle ve incelikle parlamaz, aynı zamanda yaratıcısının sevgisini kendinde saklar. ”\n\nTelkari üretimi neslinin tükenmesinin eşiğindeydi, ancak son on yılda, bu sanatın ruhuna ilham veren yeni nesil genç sanatçılar ve zanaatçılar ortaya çıktı. Bu nedenle, geçmiş kuşakların mirası olan telkari hala burada beslenir ve el yapımı takılara hala ilgi vardır. Telkari, el çalışmayı nasıl takdir edeceğini bilen herkes tarafından satın alınmıştır. Son zamanlarda telkari Makedon bir yakutla süslenmiş ve bu size ülkemizden tanınabilir ve benzersiz bir mücevher verir. \n\nUygulamamızın logosu kelebek telkaridir.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Филигран",
+                        "latitude": 42.001059,
+                        "longitude": 21.436997
+                    },
+                    {
+                        "id": 2,
+                        "name": "Филигран",
+                        "latitude": 42.001151,
+                        "longitude": 21.436998
+                    }],
+                "longitude": 21.436853,
+                "latitude": 42.000908
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Büyük bir gülümsemeye sahip tüccarlar",
+        "info_mp3": "tour_5_mk",
+        "info_text": "Alışveriş, her turistin favori aktivitesidir. Üsküp Çarşısı'nda yüzyıllar boyunca durum budur ve tüccarları nezaketleriyle bilinir.\n\nBu tur sizi pazardaki ticari geleneğe getirecek, aynı zamanda geleneksel kıyafetin izlerini de tanıtacak ve ayrıca kürk, ayakkabı ve elbiselerin satıldığı yerleri de ziyaret edeceksiniz.  \n\nTurdaki özel bir yer, ailesi pazarda ticaret mağazası olan hümanist, misyoner ve Nobel Ödülü sahibi Rahibe Teresa'ya adanmıştır. Rahibe Teresa, en ünlü Üsküplü'dür, öyküsü kendi yolunda özeldir ve eski kentimizle yakından ilgilidir.\n\nİlimizde satılık eşya taşıyan tüccarların yüzyıllarca kaldığı çarşıdaki en büyük Han'ı da ziyaret edeceksiniz. Son olarak, Üsküp - Bit pazarındaki en büyük açık pazarı da ziyaret edeceksiniz.\n\nBir şey ziyaret edeceğiniz tüm yerler için ortaktır - her yerde büyük gülümsemeler ile karşılanacaksınız. Tadını çıkarın!",
+        "image": "old_bazaar_skopje2",
+        "number_of_points": 8,
+        "places": [
+            {
+                "id": 1,
+                "name": "Ticaret geleneği",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ticaret çarşida uzun bir süre mevcuttur, önemi bakımından ikinci en önemli ekonomik faaliyet oldu. O, özellikle Orta Avrupa, Viyana, Leipzig, Odessa ve Kiev ile ticaretin geliştiği XIX yüzyılın ilk yarısında canlanır. Geçmişte, çarşıda esnaf Venedikliler, Dubrovnik ve Yahudiler de çalıştı. Çarşıdaki ünlü depoda (depolar) toptan ticaret en yaygındı. XVII. yüzyılın ünlü yolcusu Evliya Celebia, Üsküp pazarının Bağdat'a benzer olduğunu yazıyor.\n\nTicaret önemlidir, çünkü kültür, gelenek ve modadaki etkinin yayılmasında da önemli bir araç olmuştur. XIX. yüzyıl boyunca, yerli ve yabancı tüccarların katıldığı fuarlar da düzenlendi Yabancı tüccarların hareketleri hakkında çarşıdaki hanların sayısı ve kapasitesi en iyi şekilde konuşur. Ticaret bugün de mevcuttur. ",
+                "latitude": 41.999384,
+                "longitude": 21.435656
+            },
+            {
+                "id": 2,
+                "name": "Kapan Han",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Yemek hizmetleri çarşının üçüncü en önemli aktivitesiydi. Çarşıda Üsküp'ü ziyaret eden çeşitli tüccarların geceleme imkanı sunan birkaç tesis vardı. Hanlar çoğunlukla camilerin ve hamamların hemen yakınındaymış ve kişisel hijyen bakımı sağlamış. Birkaç hanlar ve kervan saraylar varmış. Aradaki fark neydi? Hanlarda kalması için ödenmiş, kervan saraylarında ise – ödenmemiş, yolcu onunla birlikte yatağı da getirmiş.\n\nKonaklama, birçok kişinin uyuduğu odalarda yapıldı ve yatak ve su aldılar. Hanlarda tüccarların mallarına yönelik depolar da vardı.\n\nHanların sahipleri hancılar denirmiş, bu zanaat miras kalmış ve aynı zamanda Hırstıyanlar ve Müslümanlar tarafından uygulandı. XIX yüzyılın sonunda, Üsküp Çarşısı'nda 20 anon vardı.\n\nBu turun başında, bir geleneksel hanı ziyaret etmenizi öneriyoruz. Kapan An XV yüzyılda Isa-bey zamanında inşa edildi. Hanın adı ya bir eşiği ya da büyük bir ölçeği ya da bir 'kapalı tahtayı' ifade eden Arapça 'kaban' kelimesinden gelir. Hanın iki girişi ve 44 odası vardır.\n\nÇevresinde bugün çarşıda geleneksel yemekleri tadabileceğiniz restoranlar bulabilirsiniz.",
+                "latitude": 42.000101,
+                "longitude": 21.436828
+            },
+            {
+                "id": 3,
+                "name": "Kürkçülük",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşıda uzun zamandır deri eşya üretme ve satma geleneği vardı. Geçmişte çarşıda deri işleme ile uğraşan çok sayıda zanaat varmış: kürkçüler (deri ürünlerinden üst giyimi, çoğunlukla kuzu veya tilkiden, üretmişler) kesiciler, vb. Bugün sadece bu zanaatla uğraşan birkaç dükkanlar kaldı.",
+                "longitude": 21.436703,
+                "latitude": 42.000372
+            },
+            {
+                "id": 4,
+                "name": "Rahibe Teresa ailesi ve ticareti",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Rahibe Teresa, yani, Gonca Bojaciu, Üsküp'ün en ünlü kadını. Üsküp'ün merkezinde, XVIII.  yüzyılın ortalarına dayanan uzun bir ticaret geleneğine sahip bir şehir ailesinde doğdu. Çarşıdaki ailesinin Boyaciu'nun kendi mağazası vardı. İçinde pazar günlerinde şehre gelen tüccarlar ve niyetler konuldu. Büyükbabası Nikola da inşaat malzemeleri için bir dükkan varmış.\n\nRahibe Teresa, 1979 Nobel Barış Ödülü'nü kazandığı Hindistan'daki insani misyonerlik çalışmasıyla tanındı.\n\nBugün, Vardar’ın diğer tarafında 'Makedonya' sokağında bulunan onun Anıt Evini de zıyaret edebilirsiniz.",
+                "longitude": 21.437527,
+                "latitude": 41.999164
+            },
+            {
+                "id": 5,
+                "name": "Обувки ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Görüldüğü gibi Üsküp Çarşısı’ndaki pabuçç zanaatı en ünlülerden biridir. Geleneksel ayakkabılar yaptılar. XIX yüzyılın ortasında Avrupa trendlerinin yükselişinin bir sonucu olarak, ayakkabıcılık sanatı gelişmeye başlar. Bu zanaat ile Hırstiyanlar, Müslümanlar ve Yahudiler de uğraşmışlar. Çarşıda domuz derisinden opintsi de yapılmış ve satılmış. Bugün insanlar artık opintsi giymiyor, ancak çok sayıda hediyelik eşya dükkanında veya belki de endüstriyel üretimden şık ayakkabılarda bir çift satın alabilirsiniz.",
+                "longitude": 21.437325,
+                "latitude": 42.000920
+            },
+            {
+                "id": 6,
+                "name": " Bezisten ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Pazardaki diğer birçok bina gibi, bu tesis 1689 yangında tahrip edildi. 'Bezisten' terimi kendisi kapalı çarşı anlamına gelir. Eski Bezisten'in 6 kubbesi vardı ve XV. yüzyılda burada yaklaşık 50 dükkan vardı.\n\nBugünün Bezisten'i, XIX yüzyılın başında yenilendi. Dikdörtgen şekilli bir taş yapıdır, onun üzerine Batı mimarlığının etkisi de farkedilir. Dört girişi vardır, dış cephelerin orta kısmında dört taraftan dağıtılmıştır.\n\nNe yazık ki Üsküp'teki Bezisten pek güncel değil, ancak uzun zamandır ticaretin sembolü olarak mimari açıdan ilginçtir.  ",
+                "longitude": 21.437071,
+                "latitude": 42.001577
+            },
+            {
+                "id": 7,
+                "name": "Geleneksel kıyafetler",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Üsküp Çarşısı, aynı zamanda uzun kıyafet yapma geleneğiyle de tanınıyor. Giyim üretimi ile ilgili daha farklı zanaatları daha uzun süre çalışmış. Kaftancılar özel kumaşlardan (kadife, pamuk basması) kıyafet dikmişler, abacıları çuhadan kıyafet yapmış, terzileri daha çok ince malzemelerden kıyafetler yapmışlar, sırmacılaraltın, gümüş ve bakırdan nakış yapmışlar.\n\nAvrupa kültürünün ve modasının etkisi kendine has yaptı. Birinci Dünya Savaşı'ndan sonra, bu zanaatları yavaş yavaş ölüyor. Zanaatları hakkında daha fazla bilgi Eski Üsküp Çarşısı Müzesi'nde bulunabilir veya değerli bir etnolojik koleksiyonun tutulduğu Makedonya Müzesi'ni ziyaret edebilirsiniz. Farklı kumaşların ve kumaşların, kıyafet yapmak için nasıl yapıldığını görebileceğiniz bir boyahaneyi ziyaret etmek harika bir fikir.\n\nBugün, çarşı sokaklarında modern giysiler bulabilirsiniz ve çarşı özellikle düğün mağazaları ve elbiseler için bilinir.",
+                "longitude": 21.437728,
+                "latitude": 42.001579
+            },
+            {
+                "id": 8,
+                "name": "Bit Pazar",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşı'nın hemen yakınında, kuzey tarafında şehirdeki en büyük ve en eski pazar olan Bit Pazar bulunur. Pazara, Konstantinopolis'e giden (bugün İstanbul) Kuzey kapısından geçeceksiniz.\n\nBu Pazar daha önce, Aziz Spas Kilise’ye, çarşının doğu tarafında bulunmuşç\n\nTürkçeden yazılmış bir tercümenin adı “Bit pazarı” anlamına gelir. Pazar günü başlangıçta Pazar, daha sonra Salı ve Cuma günleridir ve onlar bugüne kadar oyle kalmışlar. Bu pazar Ortaçağ'dan beri faaliyet göstermektedir.\n\nPiyasada taze tarım, hayvancılık ve zanaat ürünleri halen satılmakta ve satılmaktadır. Bu turun sonunda, Üsküp'ün kalbindeki oryantal lezzeti ziyaret edin ve hissedin. ",
+                "longitude": 21.439425,
+                "latitude": 42.003379
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ruhun yemeği",
+        "info_mp3": "tour_6_mk",
+        "info_text": "„Ruhun yemeği“ turu aranızdaki gurmeler için hazırlandı. Bu tur sizi, dünyanın bu bölgesindeki geleneksel yemeklerin, içeceklerin ve en popüler yemeklerin lezzetleriyle tanıyacak. \n\nÇarşının içindeki yiyecekler, ülkenin başka yerlerinde olduğu gibi, ulusal özelliklerden, komşu ülkelerden ve aynı zamanda Orta Doğu'da güçlü bir şekilde etkilenir. Restoranların çoğu tanınmış uluslararası spesiyaliteler ile ulusal yemeklerin bir kombinasyonunu sunmaktadır. Ancak, önerimiz başka yerde yapamayacağınız bir şeyi denemek: burek, kebap, tavche-fasulye veya ünlü tatlılar. Bu turda popüler oyun tavla ve ayrıca pazarda yemek hazırlama tarihi hakkında daha fazla şey duyacaksınız.\n\nSon olarak, diğer turların aksine, 'Ruhun Yemekleri' sınırsızdır.",
+        "image": "old_bazaar_skopje3",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Börek",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Burek Anadolu'dan geliyor. Balkanlar'da son derece popüler ve bölgede çeşitli varyantları var.\n\nSabah eski kentimizi ziyaret ederseniz, turunuza başlamanın en ideal yolu bir börek kahvaltı yapmasıdır. Dörtte biri böreği ve yoğurt veya ajran, Üsküp'ün tüm insanları için en sevilen kahvaltıdır.\n\nPeynir, kıyma, ıspanak ve benzeri şeylerle doldurmuş bir Gevrek kabuğu ile börek kızartması için söz ediyor. \n\nSatın alırken, tercih ettiğiniz tadı ve dolguyu seçmeniz gerekir. Börek genellikle yuvarlak bir kabın içinde pişirilir ve ardından alıcının isteğine göre kesilir (1/4, 1/8). Her zaman sıcak servis edilir. Keyifli kahvaltı! ",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Бурек",
+                        "latitude": 42.000603,
+                        "longitude": 21.436925
+                    }],
+                "latitude": 42.000025,
+                "longitude": 21.437169
+            },
+            {
+                "id": 2,
+                "name": "Çay ve kahve ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşı, sıcak veya soğuk bir şeyler içmek için ideal bir yerdir. Çay veya kahve içmek pazarda bir ayindir. Çarşı girişinde çok sayıda kafe ve çay evi bulacaksınız. En çok neyi sevdiğinizi seçin. Her şey kendi yolunda güzel ve yeni, farklı bir deneyim sunuyor.\n\nÇarşı çayında 'Türk çayı' denir. Çay içme geleneği, açıkça Türk (Osmanlı) mirası ile ilgilidir. Çay kırmızı-kahverengi bir renge sahiptir ve küçük bardaklarda servis edilir. Çarşıdaki birçok çay barından birinde deneyin, fakat aynı zamanda oldukça güçlü olduğu için miktarlara dikkat edin.  \n\nBirçok kafede farklı kahve türlerini deneyebilirsiniz. Lokumlu geleneksel bir Türk kahvesi denemenizi veya yaz aylarında gelirseniz soğuk bir Ness-kahvesi denemenizi öneririz. Seçim sizin!",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000159,
+                        "longitude": 21.435811
+                    },
+                    {
+                        "id": 2,
+                        "name": "Чај и кафе",
+                        "latitude": 41.999792,
+                        "longitude": 21.435757
+                    },
+                    {
+                        "id": 3,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000195,
+                        "longitude": 21.436098
+                    },
+                    {
+                        "id": 4,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000403,
+                        "longitude": 21.436441
+                    }
+                ],
+                "latitude": 42.000956,
+                "longitude": 21.437379
+            },
+            {
+                "id": 3,
+                "name": "Tavla",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Tavla, pazardaki çay evlerinde ve kafelerde en çok oynayabileceğiniz eğlence oyunlarından biridir. 5000 yaşından büyük olduğu ve İran kaynaklı olduğu düşünülmektedir. Tavla iki kişilik bir oyundur ve her oyuncunun on beş pullar var, onları 24 alan arasında hareket eder (üçgenler) her iki zarın atılmasına bağlı olarak.\n\nOyunun amacı, tahtadaki tüm pulları 'alan' oyunculardan biridir. Birçok oyun türü ve bir oyunun birçok seviyesi vardır.\n\n",
+                "longitude": 21.435594,
+                "latitude": 41.999359
+            },
+            {
+                "id": 4,
+                "name": "Orta çağlardan tabakların koleksyonu",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Yemek molalarında, pazarda yemek hazırlama tarihi hakkında daha fazla bilgi edinmenizi öneririz.\n\nEğer ilgileniyorsanız, Suli An'da bulunan Eski Üsküp Çarşısı Müzesi'nde görebileceğiniz ortaçağ tabakları koleksiyonuna bir göz atmanızı tavsiye ederiz. Burada Üsküp Çarşısı hakkında birçok ilginç bilgi bulacaksınız.",
+                "longitude": 21.437821,
+                "latitude": 42.001613
+            },
+            {
+                "id": 5,
+                "name": "Kebablar",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Ќебапи",
+                        "latitude": 41.999629,
+                        "longitude": 21.436463
+                    },
+                    {
+                        "id": 2,
+                        "name": "Ќебапи",
+                        "latitude": 42.000398,
+                        "longitude": 21.436914
+                    }
+                ],
+                "info_text": "Öğle veya akşam yemeği saatine yaklaşıyorsanız, Çarşı Üsküp'teki otantik yemekleriniz için doğru yerdir. Üsküp Çarşısı'nda kebap denemezseniz, eski şehrin ruhunu tam olarak deneyimlemezsiniz.\n\nKebapın farklı bir anlama sahip olduğu Batı'nın aksine, Üsküp ve Balkanlar'da bir ızgarada kızartılmış, kıyılmış bir et parçası (çoğunlukla dana eti) anlamına geliyor.\n\nEn sık 10 kebap taze pişmiş ekmek, doğranmış soğan, bukovec ve kavrulmuş biber ile servis edilir.\n\nKebaplar Üsküp'ün tanınmış gurme sembolüdür ve pazarda öğle veya akşam yemeği için idealdir. Lahmacun (kıyılmış etli Türk pizzası) veya pide gibi diğer tanınabilir yemekleri deneyebilirsiniz.",
+                "longitude": 21.436155,
+                "latitude": 41.999755
+            },
+            {
+                "id": 6,
+                "name": "Tavçe - fasulye",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Bir vejeteryansanız, sizin için en iyi seçenek ülkemizden özgün bir spesiyal tavche-fasulyedir. Geleneksel fasulye hazırlama için söz ediyoruz, fasulyesi önce kaynatılır ve sonra, diğer malzemelerle birlikte soğan, kuru biber, maydanoz, sarımsak vb. bir toprak kap içinde pişirir. Toprak tava ona tanınabilir bir görünüm verir ve aynı zamanda ısıyı saatlerce tutar. Kalkandelen fasulyesi ülkemizde biliniyor.\n\nAyrıca, restoranlarda satılan çeşitli ızgara et türleriyle de birleştirebilirsiniz.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Тавче гравче",
+                        "latitude": 41.999607,
+                        "longitude": 21.436495
+                    },
+                    {
+                        "id": 2,
+                        "name": "Тавче гравче",
+                        "latitude": 42.000301,
+                        "longitude": 21.437289
+                    }
+                ],
+                "longitude": 21.437134,
+                "latitude": 42.000263
+            },
+            {
+                "id": 7,
+                "name": "Çarşıda tatlılar",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşıda tatlılar denerseniz bu tur en iyi şekilde bitireceksiniz.\n\nŞekerleme zanaatı çarşıda uzun bir geleneğe sahiptirç Üsküp Çarşısı’nın şekercileri yaygın olarak biliniyordu. Yüzyıllar boyunca çeşitli tatlılar, helvalar, şekerlemeler, boza vb. üretmişler.\n\nBugün pazarda geçmişten gelen bu tatlı zevkleri deneyebilirsiniz. Burada çeşitli oryantal tatlıları deneyebilirsiniz: tulumba tatlısı, baklavalar, cevizli tatlılar, paraşütler ve diğerleri.  \n\nEn çok neyi sevdiğinizi seçin. Yabancı turistlerde baklava Angela Merkel son zamanlarda özellikle popülerdi. Tatlılarla ideal bir kombinasyon boza veya limonatadır.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 42.000694,
+                        "longitude": 21.436479
+                    },
+                    {
+                        "id": 2,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 42.001563,
+                        "longitude": 21.437279
+                    },
+                    {
+                        "id": 2,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 41.999582,
+                        "longitude": 21.435790
+                    }
+                ],
+                "longitude": 21.437248,
+                "latitude": 42.000381
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Eski Şehrin Işıkları",
+        "info_mp3": "tour_7_mk",
+        "info_text": "Eski şehirdeki gece hayatı yazın en dinamik olanıdır. Eğlence, müzik açık hava etkinlikleri, güzel yaz terasları, kalabalık restoranlar ve birçok turist. Üsküp geceleri sıcak ve bu yüzden çarşıdaki gece hayatı gece geç saatlere kadar sürüyor.\n\nŞehrimiz uzun bir gece hayatı geleneğine sahiptir. Örneğin, 1924'te, Üsküp'ün şehirde 50.000 nüfusu varken, yaklaşık 300 kafe vardı.\n\nBu yedinci turda Eski Şehir'in gece hayatını tanıyabileceksiniz. Sizi çıkış, yemek ve eğlence amaçlı popüler mekanlara götüreceğiz. Bu gece için teklif sunduğumuz tek tur. İyi zaman geçirin ve zamana dikkat edin, çünkü geçtiği zaman çarşıda hissetmezsiniz.",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Çarşıda akşam yemeği ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Acıktıysanız, akşam yemeğine Eski şehirde bir yemekle başlamanın en iyi yolu. Geleneksel ve ulusal yemekler sunan birçok restoran vardır. Sizi en çok neyin çekeceğini seçin ve tadını çıkarın. Çarşıdaki geleneksel yemekler hakkında daha fazla bilgi için 'Ruhun Yiyecekleri' turunu seçin.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Вечера во чаршијата",
+                        "latitude": 41.999430,
+                        "longitude": 21.435566
+                    },
+                    {
+                        "id": 2,
+                        "name": "Вечера во чаршијата",
+                        "latitude": 41.999382,
+                        "longitude": 21.435869
+                    }
+                ],
+                "latitude": 42.001049,
+                "longitude": 21.438022
+            },
+            {
+                "id": 2,
+                "name": "Çalgı",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Makedonya'da bulunan çarşıların gece hayatının tanınabilir özelliklerinden biri fakat Üsküp de çalgia. 'Konser veya müzik' çevirisinde bu terim ile Eski şehir şarkılarını karşılayan belirli bir müzisyen kompozisyonunu işaret ediyor. Müzikal kompozisyon şeklinde XIX yüzyılda ortaya çıktı. Kompozisyon aşağıdaki enstrümanları içerir: kanun, tef, ut ve bazen keman ve klarnet. Bu tür müzikler, Bizans kilisesi şarkılarının, Osmanlı müziğinin ve ülkede yaşayan tüm toplulukların müzikal geleneklerinin bir karışımıdır.\n\nYaz aylarında bu tarz müzikleri sık sık küçük meydanlarda veya pazardaki restoran ve barlarda dinleyebilirsiniz. Ülkemizin büyülü seslerini ziyaret edin ve tadını çıkarın!",
+                "latitude": 42.000505,
+                "longitude": 21.435749
+            },
+            {
+                "id": 3,
+                "name": "Eski şehirde şarap",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ülkemizden gelen insanlar özellikle şarap üretimi ile gurur duyuyorlar. Eski zamanlardan beri uzun bir şarap üretim tarihi var. Ülkede üç ana şarap bölgesi bulunmaktadır: Povardarie (Vardar nehri boyunca), Pchinja - Osogovo (Bulgaristan sınırında) ve Pelagonia - Polog (Arnavutluk sınırında Ohri Gölü çevresinde). Yurtiçinde en çok kırmızı şarap üretilir (%80). Üzüm asmaları Vranets, Merlot, Cabernet Sauvignon, Kratoşiya gibi tanınmış bölgesel ve uluslararası çeşitlerin, yanı sıra sadece ülkemizde yetişen siyah stanuşina türünde bir üzüm yetiştiriyor.\n\nÇarşıda, Makedon şarabını tadabileceğiniz daha fazla yer (restoranlar, kafeler, şaraphaneler) var. Bunların çoğu çarşının güney girişinde, Aziz Spas kilisesi yönündedir, Kapan Han ve Skenderbey Anıtı cıvarında da.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Вино во Стариот град",
+                        "latitude": 42.000075,
+                        "longitude": 21.436727
+                    },
+                    {
+                        "id": 2,
+                        "name": "Вино во Стариот град",
+                        "latitude": 41.999529,
+                        "longitude": 21.436866
+                    }
+                ],
+                "longitude": 21.435777,
+                "latitude": 42.000613
+            },
+            {
+                "id": 4,
+                "name": "Mezeler",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşıdaki içeceğin ideal arkadaşı mezedir. Kelime Farsça kökenli ve 'lezzetli' anlamına gelir. Meze yemeğin başlangıcında küçük mikrtarlarda sıcak ve soğuk yemeklerin bir kombınasyonudur. Balkanlar ve Orta Doğu ülkeleri için tipiktir.\n\nÜlkemizde mezede beyaz peynir, ajvar, pincur, kaşar, asma yaprağı sarması, sebze, zeytin ve kurutulmuş et servis edilmektedir.  ",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Мезе",
+                        "latitude": 41.999607,
+                        "longitude": 21.436495
+                    }
+                ],
+                "longitude": 21.437134,
+                "latitude": 42.000263
+            },
+            {
+                "id": 5,
+                "name": "Bıra",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Bira üretimi uzun bir geleneğe sahiptir.\n\nŞehrimizdeki ilk buharlı bira fabrikası 1924 yılında kuruldu. Kış başında, genellikle üç gün, yaz aylarında ise her gün insanların ilgisinin artması nedeniyle çalıştı.\n\nÇarşı'yı ziyaret eden birçok turist, Üsküp'ün ticari markası olan birası ve özellikle de eşsiz bir tadı olan küçük bira fabrikalarından üretilen birayı denemekle ilgileniyor. Birçok yerde döken bir açık veya koyu bira deneyebilirsiniz. Bu mekanları çarşının güney ve doğusundaki restoranların yannda bulacaksınız.",
+                "longitude": 21.435705,
+                "latitude": 42.000445
+            },
+            {
+                "id": 6,
+                "name": "Çarşıya gezisi ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Sadece bu eski şehir çekirdeğinde parlayan garip bir enerji var. Turistler daha çoktur ve gece hayatı Üsküp'ü bir yerde bir araya getirmek gibidir. Kafelerin her biri farklı bir film, her sokak kendi hikayesi var. Bir yürüyüşe çıkın ve bu eşsiz atmosferi hissedin.\n\nSon birkaç yılda oldukça popüler olan Üsküp'teki sokak müziklerini dinlemenizi tavsiye ediyoruz. Her yıl 1 Mayıs'tan Ekim ayının sonuna kadar olan dönemde, şehir merkezinde ve çarşıda halka açık alanlarda performans gösteren farklı genç sanatçıları duyabilirsiniz.",
+                "longitude": 21.435550,
+                "latitude": 41.999219
+            },
+            {
+                "id": 7,
+                "name": "Çarşıdaki festıvaller",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Çarşıya olan ilginin geri dönmesiyle ve başkentimizi ziyaret eden turist sayısının artmasının bir sonucu olarak, Çarşı bir dizi kültürel etkinlik ve festivalin merkezidir.\n\nBeyaz Gece Festivali Ekim ayının ortasında düzenlenir ve Üsküp'teki en büyük kültürel tezahürdür. Bu etkinlik dünyanın herhangi bir yerinde düzenlenen festivallerin bir parçası. Festival kapsamında sergiler, çocuk atölyeleri, konserler, tiyatro gösterileri, enstalasyonlar, sinema projeksiyonları, şiir okumaları vb.\n\n'Buskerfest' 2006 yılından bu yana düzenlenen bir sokak sanatı festivalidir. Canlı müzik, sokak dansları, pandomim, yaratıcı etkinlikler ve atölye çalışmalarından oluşur. Bu tür bölgedeki en büyük festival, on gün sürecek ve Haziran ayında düzenleniyor.\n\n'Çarşı'nın Sesleri', tüm türlerin konserleri, performansları, halk performansları, şiir, sanat kolonisi ve eski el sanatlarının sunulduğu bir multimedya ve çok kültürlü bir etkinliktir. Eylül ayında düzenlenir ve Çarşı kentin kültürel ve manevi bir eseri olarak geleneğin ruhunu canlandırmak için bir amacıdır.. \n\n2018'den beri Üsküp'teki 'Beyaz Gece' kapsamında 'Işık Festivali' düzenlenmeye başladı. Festival, çarşının ön avlusundaki etkileşimli ışık ortamlarına, performanslarına ve kurulumlarına maruz kalmanın yeni bir konseptidir. Festivale yerli ve yabancı sanatçılar katıldı.  ",
+                "longitude": 21.436938,
+                "latitude": 42.003167
+            },
+            {
+                "id": 8,
+                "name": "Çocuk Tıyatrosu Merkezi ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Tiyatro ile ilgileniyorsanız, hem çocuklar hem de yetişkinler için tiyatro oyunlarının düzenlendiği çarşıdaki Çocuk Tiyatrosu Merkezi'ni ziyaret etmenizi tavsiye ederiz.\n\nÜsküp'te, tiyatro sanatı besleyen uzun bir gelenek var. İlk tiyatro performansı 1897'de Cafe Beledie'de yapıldı. O zamandan beri Üsküp'te çok sayıda tiyatro açıldı.\n\nÇocuk tiyatro merkezi eski 'Napredok' sinemasında bulunmaktadır. Çalışmalarında bu kültürel kurum ülkemizdeki tüm toplulukların temsilcilerini içermektedir. Oyunlar ülkede konuşulan tüm dillerde oynanır.",
+                "longitude": 21.438111,
+                "latitude": 42.001974
+            }
+        ]
+    }
+]

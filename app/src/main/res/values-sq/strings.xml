@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Përzgjidhni turin</string>
+    <string name="tips">Këshilla për Shkupin</string>
+    <string name="share_exp">Këmbeni përvojat</string>
+    <string name="video">Video</string>
+
+    <string name="play">LUAJ</string>
+    <string name="stop">STOP</string>
+    <string name="next">Më tej pason</string>
+
+
+    <string name="welcome_audio">Audio për mirëseardhje</string>
+    <string name="capital_of_rutalisam">Kryeqyteti i brutalizmit</string>
+    <string name="skopje">Shkupi</string>
+    <string name="other_cities">Qytete të tjera</string>
+    <string name="news">Lajme</string>
+    <string name="good_to_know">Është mirë të dini</string>
+    <string name="about">Për projektin</string>
+    <string name="about_info"><![CDATA[Ky aplikacion është përgatitur në kuadër të projektit “Monumentet dhe arkitektura brutaliste në Maqedoninë e Veriut: Nxitja e promovimit turistik për përkrahje të zhvillimit rural” të implementuar nga ana e Institutit për përkrahje strategjike dhe edukim (ИСИЕ (IPSE)) nga Shkupi. Qëllimi kryesor i projektit është nxitja e zhvillimit rural nëpërmjet hartëzimit të vendeve dhe zhvillimit të turneut të ri dhe autentik të cilin mund ta shijojnë turistët vendorë dhe të huaj duke shfrytëzuar mjete të reja inovative për promovim turistik. \n\nProjekti “Monumentet dhe arkitektura brutaliste në Maqedoninë e Veriut: Nxitja e promovimit turistik për përkrahje të zhvillimit rural” është finansuar nga një grant i Projektit për zhvillim dhe promovim të turizmit të Këshillit rajonal për bashkëpunim (РСС (KRB)). Projekti i РСС (KRB) është financuar nga Bashkimi Europian dhe është implementuar si përpjekje për kontribut në rritjen e konkurrencës së gjashtë ekonomive të Ballkanit Perëndimor nëpërmjet përkrahjes për zhvillim dhe promovim të ofertës së përbashkët rajonale, kulturore dhe alternative. \n\nMospranimi i përgjegjësisë (disclaimer): \nky aplikacion ëshë krijuar dhe mirëmbajtur me mbështetje financiare të Unionit Europian. Përmbajtja e këtij aplikacioni është përgjegjësi unike e IHSE dhe nuk i shpreh gjihtmonë qëndrimet e Këshillit rajonal për bashkëpunim dhe Uniot Europian.\n\n\n\n]]></string>
+    <string name="info_tips"><![CDATA[Emri zyrtar: Republika e Maqedonisë së Veriut\n\nSipërfaqja: 25.713 km2\n\nPopullsia: 2.022.547 (2002) \n\nKryeqyteti: Shkup\n\nAeroporti: Aeroporti ndërkombëtar Shkup dhe Aeroporti ndërkombëtar \"Shën Apostuli Pali\" - Ohër\n\nMonedha: denarë (kursi i këmbimit: 1 euro = 61,5 denarë) \n\nGjuha: Gjuha maqedone dhe shkrimi cirilik si dhe gjuha të cilën e flasin së paku 20% e qytetarëve (gjuha shqipe) dhe shkrimi i saj, në pajtim me Ligjin. Komunitetet tjera në vend flasin edhe gjuhën turke, serbe, rome dhe vllehe. \n\nReligjioni: reth 65% e popullatës i përkasin fesë ortodokse-të krishterë, reth 33% - besimit islam, të tjerët janë – katolik, protestant, hebrej etj. \n\nFestat shtetërore: 1 Janar (Viti i ri), 7 Janar (Krishtlindje), Pashkët dhe dita e dytë e Pashkëve, 1 Maj (Dita e punës), 24 Maj (Shën Kirli dhe Metodi – Dita e edukatorëve gjithë sllav), dita e parë e Fitër bajramit, 2 Gusht (Dita e Republikës), 8 Shtatori (Dita e pavarësisë), 11 Tetori (Dita e kryengritjes kombëtare), 23 Tetori (Dita e betejës revolucionare maqedonase) dhe 8 Dhjetori (Shën Klimenti i Ohrit). \n\nParqet kombëtare: Pelister, Mavrovë dhe Galiçicë\n\nOrari i punës: institucionet shtetërore (e hënë – e premte, nga 8:30 deri 16:30), bizneset private e hënë – e premte, nga 8:30 deri 20:00, e shtunë nga 09:00 deri 15:00). Shitoret në vendet turistike gjatë sezonit, si dhe qendrat e mëdha tregtare, punojnë edhe të dielave. \n\n\n\nNumra të rëndësishëm\n\nKodi telefonik i vendit +389\n\nPolicia 192\n\nBrigada e zjarrfikësve 193\n\nNdihma e shpejtë 194\n\nQendra rajonale për menaxhim me kriza 195\n\nАМСМ (ShAMM) ndihmë në rrugë 196]]></string>
+    <string name="location">Vendi</string>
+    <string name="history">Historia</string>
+    <string name="author">Autorët</string>
+    <string name="description">Përshkrimi</string>
+    <string name="interior">Brendësia</string>
+    <string name="meaning">Kuptimi</string>
+
+</resources>

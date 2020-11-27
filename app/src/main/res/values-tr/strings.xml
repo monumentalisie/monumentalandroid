@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Bir tur seçin</string>
+    <string name="tips">Üsküp için ipuçları</string>
+    <string name="share_exp">Deneyimleri paylaş</string>
+    <string name="video">Video</string>
+
+    <string name="play">OYUN</string>
+    <string name="stop">DURDURMAK</string>
+    <string name="next">Sonraki</string>
+</resources>

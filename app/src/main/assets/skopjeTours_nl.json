@@ -1,0 +1,657 @@
+[{
+    "id": 1,
+    "name": "OPENLUCHTMUSEUM",
+    "info_text": "Skopje heeft een lange geschiedenis en bevond zich altijd op het kruispunt van beschavingen. Een groot aantal imperiums, culturen en beschavingen drukten hun stempel op de ontwikkeling van en de manier van leven in de stad.\n\nDeze verschillen en de invloed van het Oosten en het Westen kunt u zelfs vandaag in de Bazaar voelen. In deze tour zult u de belangrijkste historische monumenten in de Bazaar te zien krijgen, met inbegrip van de Stenen brug, de Kerk van de Heilige Hemelvaart, de Mustafa Pasha Moskee en de Murat Pasha Moskee.\n\nAan het einde van de tour kunt u in het Skopje Fort van het prachtige uitzicht over onze hoofdstad genieten. Veel plezier in ons openluchtmuseum!",
+    "image": "old_bazaar_skopje1",
+    "number_of_points": 5,
+    "info_mp3": "tour_1_mk",
+    "places": [{
+        "id": 1,
+        "name": "Stenen brug",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Onze tour begint met de Stenen brug over de rivier Vardar, het symbool van Skopje. De brug verbindt het plein 'Macedonië' en de Skopje Bazaar en dateert uit de Vroeg-Byzantijnse periode. Het werd herbouwd tijdens de heerschappij van Sultan Mehmed II in de periode vanaf het jaar van 1491 tot 1469. In de oorspronkelijke vorm had de brug 13 bogen, met een totale lengte van 213 meter en breedte van 6 meter.\n\nHet werd vaak vernieuwd. Aldus, bijvoorbeeld, het beroemde reisschrijver Evliya Çelebi tijdens zijn verblijf in Skopje in 1661-1662, schreef de inscriptie op de brug tijdens de laatste vernieuwing: 'Toen mensen de vernieuwing van deze ongekende brug zagen, lofwaardig zeiden ze: 'Het is veel leuker dan vroeger.'\n\nTijdens de Tweede Wereldoorlog, in 1944, werd de brug gemijnd, maar door de succesvolle bevrijding van de stad was de vernietiging ervan voorkomen. ",
+        "latitude": 41.996993,
+        "longitude": 21.433068
+    },
+    {
+        "id": 2,
+        "name": "Murat Pasha Moskee",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Murat Pasha Moskee bevindt zich in het midden van de Bazaar dicht bij de Çifte hammam en Suli Han. Deze moskee werd door brand getroffen in het jaar van 1689. Het werd aan het begin van de 19e eeuw gerenoveerd. Op de marmeren plaat boven de toegangspoort van de moskee wordt vermeld dat de moskee werd gebouwd in het jaar van 1802 of 1803.\n\nDe moskee zelf is een relatief recent gebouw dat tot de Ottomaanse barok stijl behoort met gebruik van neoklassieke islamitische elementen. In de tuin een fontein (shadrvan) bevindt zich, gebouwd in 1937.\n\nDe Murat Pasha Moskee heeft de status van een beschermd cultureel erfgoed.",
+        "latitude": 42.000817,
+        "longitude": 21.437385
+    },
+    {
+        "id": 3,
+        "name": "Kerk van de hemelvaart van Jezus ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Kerk van de hemelvaart van Jezus ligt in de buurt van Skopje Fort en de Mustafa Pasha Moskee. Het werd vernieuwd in de XIX eeuw. Het heeft een interessante houten klokkentoren en in de tuin staat het graf van de beroemdste Macedonische revolutionaire Goce Delchev.\n\nIn deze kerk kunt u een van de meest beroemde houtsnijwerken in het land zien, de iconostase van de Kerk van de hemelvaart van Jezus, gedomineerd door de oudtestamentische motieven en scènes, geometrische ornamenten en flora- en faunamotieven uit Macedonië. Het werd gemaakt door de groep van Petre Garkata in de XIX eeuw. ",
+        "longitude": 21.435876,
+        "latitude": 42.000702
+    },
+    {
+        "id": 4,
+        "name": "Mustafa Pasha Moskee ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Mustafa Pasha Moskee is een van de belangrijkste monumenten van de islamitische architectuur in de Bazaar gebouwd in 1492. Binnen het complex van de moskee bevindt zich het graf van de Mustafa Pasha (turbe), de sarcofaag van zijn dochter Uma, fontein en overblijfselen van imaret en madras (liefdadigheidskeuken en religieuze school). De boog van de moskee is 16 meter breed. \n\nDe moskee is een object met een vierkant basis bedekt met een koepel. Boven de voordeur is er een galerij ontworpen voor de dienst van de muezzins. De minaret van de moskee is gemaakt van kalksteen en is 47 meter hoog, en het uitgebreide gedeelte is gemaakt van marmer en versierd met ornamenten. Godsdienst wordt gehouden in deze moskee.",
+        "longitude": 21.435455,
+        "latitude": 42.001926
+    },
+    {
+        "id": 5,
+        "name": "Kurshumli Han ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Deze Han werd gebouwd in 1550 door Mula Musledin Hodja. De naam betekent 'loden han' waarschijnlijk vanwege het loden dak. Het heeft een oppervlakte van 2800 m2 en heeft 60 kamers gehad (28 kamers op de begane grond en 32 op de bovenverdieping). Dit is de grootste han in de Bazaar. Voor een bepaalde periode in de XIX eeuw diende dit gebouw als een gevangenis. Na de Tweede Wereldoorlog binnen dit gebouw de lapidarium van het Archeologisch Museum van Macedonië was gevestigd, waar belangrijke artefacten uit de antieke periode worden tentoongesteld. Tegenwoordig is dit gebouw een populaire bestemming voor culturele evenementen, promoties en zelfs bruiloften. Hier werd ook de creatieve festival Skopje Design Week gehouden - (Skopje Design Week). In de directe omgeving bevindt zich het Museum van Macedonië, opgericht in 1924, waarin een belangrijke etnologische collectie wordt tentoongesteld.",
+        "longitude": 21.437002,
+        "latitude": 42.003025
+    },
+    {
+        "id": 6,
+        "name": "Skopje Fort Kale",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Het Skopje Fort Kale dateert uit de IV eeuw v.Chr. De bouw van de grote wal wordt geassocieerd met de regering van de Byzantijnse keizer Justinianus in de zesde eeuw, en men gelooft dat de sterkste vesting werd gevonden tijdens het bewind van Tsar Samuil (X-XI eeuw). In de Middeleeuwen waren er verschillende paleizen, kerken en winkels. Na de komst van de Ottomanen werd het aanzienlijk vernietigd en veranderd in een kazerne. Tijdens de Eerste Wereldoorlog was er het Hoofdkwartier van het Oostenrijkse leger gevestigd. Grote schade aan de Kale werd veroorzaakt door de catastrofale aardbeving van Skopje in 1963. Op de plaats van het Archeologisch Museum dat bij de aardbeving neerstortte, kunt u het Standbeeld 'Macht - Glorie - Overwinning' zien. Hier werd ook de bekende Beer Feest georganiseerd - Skopje Beer Feest (voorheen Pivolend). \n\nAan het einde van deze tour, kunt u het fort bezoeken en kunt u genieten van het prachtige uitzicht over de Macedonische hoofdstad.",
+        "longitude": 21.432966,
+        "latitude": 42.000872
+    }
+    ]
+},
+{
+    "id": 2,
+    "name": "LEGENDES EN HERINNERINGEN VAN DE BAZAAR ",
+    "info_mp3": "tour_2_mk",
+    "info_text": "Zoals elke stad met een lange geschiedenis en cultuur heeft de stad Skopje en het hart van de stad, de Oude Bazaar, zijn eigen legendes. Tijdens deze rondleiding hoort u de beroemdste legendes over de belangrijkste culturele en historische monumenten in de Bazaar, evenals herinneringen aan mensen en delen van de stad die er niet meer zijn. U leert meer over de Karposh Opstand, de Kerk van de Heilige Dimitri, het Daut Pasha en Chifte badhuis. De tour neemt ons mee naar de Joodse wijk, waar u meer te weten komt over de geschiedenis, maar ook over het tragische lot van de Joden uit dit deel van Macedonië. De meeste interessante locaties van deze tour bevinden zich in het zuidelijke deel van de Oude bazaar, in de buurt van de Stenen brug. Vergeet niet dat Skopje en ons land voor meer dan vijf eeuwen tot het Ottomaanse rijk behoorden en dat heeft een sterke invloed op de oude stad achtergelaten.\n\nLaten we beginnen! ",
+    "image": "old_bazaar_skopje2",
+    "number_of_points": 7,
+    "places": [{
+        "id": 1,
+        "name": "Karposh Opstand",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De tour over de legendes en herinneringen van de Bazaar begint bij het plein 'Karposh  opstand', dat bevindt zich op het plateau aan de linkerkant van de rivier Vardar naast de Stenen brug. Deze ruimte vóór de ingang van de bazaar is het middelpunt van ons eerste verhaal met betrekking tot Karposh en zijn opstand in de XVII eeuw. \n\nIn oktober 1689 gebruikte de beroemde volksleider Karposh, de opmars van de Oostenrijkse legers in de regio en wekte een opstand tegen de Ottomaanse heerschappij. Dit jaar is belangrijk voor Skopje omdat door de Oostenrijkse generaal Piccolomini werd Skopje platgebrand in een poging om de cholera-epidemie te voorkomen waaraan hij stierf. In zijn militaire rapport schrijft Piccolomini: 'Skopje is bijna zo groot als Praag'. In deze brand werden veel van de gebouwen van de stad vernietigd, die later werden vernieuwd. \n\nIn korte tijd werd Karposh verslagen en zijn opstand verpletterd. Hij werd gevangen genomen in december 1689 en op bevel van de Krimse han Selim Gigaj, werd hij geëxecuteerd op de Stenen brug. U kunt de plaats van de executie bezoeken die wordt aangeduid met een bord dicht bij de Stenen brug Wacht. \n\nIn de buurt van de brug bevindt zich ook zijn monument als een symbool en herinnering van de strijd van het Macedonische volk voor vrijheid en verzet tegen de buitenlandse overheersingen door de geschiedenis heen.",
+        "latitude": 41.997166,
+        "longitude": 21.433626
+    },
+    {
+        "id": 2,
+        "name": "Kerk van St. Dimitrija",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Volgende punt in onze tour is de Kerk van St. Dimitrija, gelegen aan de zuidelijke ingang van de Skopje Bazaar. Het dateert uit de 13e eeuw en het werd vernieuwd in de periode vanaf 1886 tot 1894. \n\nHaar vernieuwing is gekoppeld aan een legende. Namelijk, de Ottomaanse Pasha stopte de bouw van de kerk en begon om een harem te bouwen. Maar in plaats van water te laten lopen, slangen op de plek verschenen en de Pasha stopte het bouwen van de harem en de bouw van de kerk ging door. Auteur van de iconen en fresco's in de kerk is Dimitar Papradishki. \n\nIn de tuin van deze kerk is het graf van het eerste hoofd van de Macedonisch-Orthodoxe Kerk, hg. Dositheus.",
+        "latitude": 41.998473,
+        "longitude": 21.434306
+    },
+    {
+        "id": 3,
+        "name": "Joodse wijk ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Als je loopt van de Stenen brug naar de ingang van de bazaar aan de linkerkant, aan de voet van de Kale, kun je het gebied zien waar de joodse wijk ooit lag. Vóór de XX eeuw was de joodse wijk een van de armste wijken van de stad, maar aan het begin van de XX eeuw begon men met het bouwen van mooiere en grotere huizen die gebouwd waren onder invloed van de Europese architectuur. Tijdens de Turkse overheersing stond dit deel ook bekend als Yahudi-hane. \n\nAls onderdeel van het antisemitische beleid van Hitler-Duitsland, op 11 maart 1943 de Bulgaarse autoriteiten arresteerden de Joden in Skopje, Bitola en Shtip, en na tien dagen met drie treinen werden ze tot de dood kamp - Treblinka gedeporteerd waar ze allemaal werden vermoord. \n\nNa de oorlog heeft de buurt zijn Joodse identiteit verloren. \n\nVandaag op de plaats van de Joodse wijk staat het Holocaust Memorial Centrum van de Joden uit Macedonië, het museum dat zal voor altijd de herinnering aan een totaal van 7144 Macedonische Joden houden, dat wil zeggen 98% van de Joodse bevolking in dit deel van Macedonië, die werden vermoord in de Holocaust. \n\nBezoek het Memorial Centrum en meer leren over de geschiedenis van de Joden uit Macedonië.",
+        "longitude": 21.433408,
+        "latitude": 41.998508
+    },
+    {
+        "id": 4,
+        "name": "Legendes van Daut Pasha Hammam ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Het volgende punt in onze tour is de Daut Pasha Hammam dat bevindt zich aan het begin van de Bazaar vanaf de zuidkant, naast de Stenen brug en de Kerk van St. Dimitrija . Het werd gebouwd aan het einde van de XV eeuw. Het gebouw heeft twee ingangen (mannelijk en vrouwelijk) volgens de islamitische regels. Indrukwekkend is het interieur van het gebouw, dat is bedekt met 13 koepels, die door de sterrenopeningen bedekt met glas, prachtig licht aan de kamers van de hammam geven. \n\nDeze hammam was nooit gebruikt als een bad, waarvoor bestaan er twee legendes. Volgens de eerste legende werkte het gebouw nooit vanwege het gebrek aan brandhout, en volgens de tweede, de dochter van Daut Pasha de grote Vizier van Oost-Rumelia, net voor de opening van het gebouw, werd gebeten door een slang, waarna ze stierf. Na dit evenement Daut Pasha gaf een opdracht om de hammam te sluiten en nooit meer te gebruiken. \n\nDe Hammam werd gerestaureerd in 1948 en vandaag er bevindt zich de Nationale Galerie van Macedonie. Heden zijn er concerten, tentoonstellingen, recepties en andere culturele evenementen in het gebouw.",
+        "longitude": 21.435695,
+        "latitude": 41.998675
+    },
+    {
+        "id": 5,
+        "name": "Regels van de Bazaar",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Als u de Skopje Bazaar betreedt, is het belangrijk om de belangrijkste functies, maar ook de regels ervan te leren kennen. De Bazaar bestrijkt het gebied van de Stenen Brug tot Bit pazar (Markt) en van het Fort Kale tot de Serava-rivier. In zijn reisverslag Evliya Çelebi schrijft dat er waren ongeveer 2000 winkels in Skopje in het midden van de XVII eeuw, de straten waren schoon met de geur van lila boom. \n\nNet als elders had de Skopje Bazaar zijn eigen regels. De winkels waren 's ochtends geopend en 's avonds gesloten. Er bestond een afzonderlijke beveiliging van de Bazaar 's nachts. Het was verboden om brandbare stoffen en olie in de Bazaar te houden, om runderen te slachten of om met paardenwagen door te gaan. \n\nWinkels kunnen alleen worden gebouwd met toestemming en volgens bepaalde normen.",
+        "longitude": 21.435695,
+        "latitude": 41.999338
+    },
+    {
+        "id": 6,
+        "name": "Het monument van Skender-bey",
+        "image": "tour_6_mk",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In de Skopje Bazaar bevindt zich ook het monument van een van de belangrijkste leiders van de Albanese bevolking in de Middeleeuwen - Skender-Bey (1405-1468). Deze Albanese edelman werd als jongen gegijzeld en naar Constantinopel gebracht, waar hij ontving de islam en maakte een militaire carrière. Hij was een goede militaire commandant, dus hij kreeg de naam Skender-bey (naar Alexander de Grote). Na de Ottomanse nederlaag tegen de Hongaren in Nish (1443), met driehonderd supporters hij ging terug naar Albanië en leidde de opstand tegen de Ottomaanse overheersing (1443), gevestgd in Kruje, waaronder waren zelfs delen van West-Macedonië (regio Debar-Struga). Hij verenigde de Albanese edelen (Dukagjini, Muzaki, Topi, Arianits, enz.), hij vormde een militaire alliantie (bond) in Lesh (1444) en werd uitgeroepen tot de heerser van Albanië. Altijd getekend in het Latijn als Dominus Albaniae. Met de steun en hulp van de West-Europese landen (Venetië, de Paus, het Napolitaanse koninkrijk, Hongarije, Dubrovnik, enz.), verzetten hij zich al vijfentwintig jaar met succes tegen de Ottomanen en versloeg ze in vele veldslagen. \n\nZijn monument in de Bazaar is 5,5 meter hoog en weegt 2,7 ton. De auteur van het monument is Toma Tomai. Het monument werd opgericht op 28 november 2006 en bij die gelegenheid werd een ceremonie georganiseerd. Het plein rond het monument draagt ​​de naam 'Skender-bey'.",
+        "longitude": 21.437161,
+        "latitude": 41.999315
+    },
+    {
+        "id": 7,
+        "name": "Chifte Hammam",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Cifte hammam is een openbare badhuis gelegen in het hart van de Bazaar. Het werd gebouwd in de XV eeuw door Isa-Bey. De naam vertaald betekent 'dubbele hammam' en vloeit voort uit het feit dat er twee aparte badruimtes in het gebouw waren met aparte ingangen voor mannen en vrouwen. Deze faciliteit heeft aanzienlijke schade opgelopen tijdens het verbranden van Skopje in 1689. Het functioneerde als een hammam tot 1917. Na de reconstructie in 2002 functioneert het als onderdeel van de Nationale Galerie. Hier vindt u nog overblijfselen van een authentieke Turkse badhuis. \n\nNet als in de andere steden, in onze stad bestond een bijzonder ritueel om naar het badhuis te gaan. Iedereen droegen een doek, een metalen bakje en voedsel omdat bleven ze enkele uren in de hammam. De hammam was bezocht door de moslim- en christelijke bevolking, maar ook door de joden. Verschillende cosmetische diensten werden ook aangeboden in de hammam, evenals vergaderingen. De algemene praktijk van de oudere vrouwen was om de jongere vrouwen te observeren en naar de toekomstige schoondochter te kijken. \n\nIn het centrale gedeelte van de hammam waren er ook 3 aparte kamers (halveten). Een van de halveten in het vrouwelijke gedeelte van de hammam werd gebruikt voor de rituele baden van de Joden (mikveh).",
+        "longitude": 21.437285,
+        "latitude": 42.001169
+    },
+    {
+        "id": 8,
+        "name": "Türbe (mausoleum) van de 'overwinnaar van Skopje' - Yigit Pasha",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Yigit Pasha is de beroemde Ottomaan 'Overwinnaar van Skopje' aan het einde van de XIV eeuw. Hij was de eerste Ottomaanse heerser van de stad. Hij is begraven in Skopje in de moskee in de Bazaar dat zijn naam droeg. De Moskee is vernietigd tijdens de bombardementen in 1943. \n\nRond zijn Türbe bestaat er één geloof in de bevolking. In de onmiddellijke nabijheid van zijn graf bevond zich een bron met geneeskrachtig water. Volgens het geloof van mensen, dacht men dat het water genezing water is geworden nadat het was aan hem toegewijd. \n\nTen einde van deze tour kunt u dit complex bezoeken dat enkele jaren geleden werd gerenoveerd en is erg populair bij de toeristen, vooral uit Turkije.",
+        "longitude": 21.438497,
+        "latitude": 42.002366
+    }
+    ]
+},
+{
+    "id": 3,
+    "name": "ambachten, vroeger en vandaag",
+    "info_mp3": "tour_3_mk",
+    "info_text": "Het complex van de Bazaar is gevormd rond de Bezisten als de centrale kern. De Bazaar bevond zich van het Daut Pasha badhuis tot de marktplaats Bit Pazar en daar bevonden zich een groot aantal winkels, vele badhuizen en gasthuizen voor het verblijf van handelaren afkomstig van overal, en andere interessante locaties.\n\nVandaag zijn er in Skopje ongeveer 1.000 ambachtslieden geregistreerd, waarvan 126 werken op het grondgebied van Skopje’s Oude Bazaar. In de Bazaar zijn er ambachtelijke winkels waarin nog steeds ambachtslieden werken, zoals dekbeddenmakers, bontmakers, hoedenmakers, pantoffelmakers, pottenbakkers, horlogemakers, ketelmakers, tinnegieters, zilver- en goudsmeden. Deze tour vertelt u het verhaal van de ambachten in de Oude stad. Op het einde zullen we het Museum van de Oude Bazaar bezoeken.\n\nWe zijn er zeker van dat u uw favoriete ambacht zult vinden en misschien wel het perfecte souvenir dat u altijd aan uw bezoek aan Skopje zal doen herinneren. ",
+    "image": "old_bazaar_skopje3",
+    "number_of_points": 9,
+    "places": [{
+        "id": 1,
+        "name": "Verdwenen ambachten ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Skopje Bazaar is een van de grootste Bazaars in de Balkan en het gebied was volgens ambachten verdeeld in aparte bazaars. Zoals vandaag, veranderden de ambachten, sommige ambachten stierven uit, en een deel van hen ontwikkelde zich en werd algemeen bekend. Deze processen in de Bazaar waren vooral beïnvloed door de politieke omstandigheden in de zeer turbulente XIX eeuw, de verandering in de bevolkingsopbouw, maar ook de penetratie van de europese kapitaal en goedkope industriële goederen. \n\nMet het geleidelijke verlies van de Ottomaanse invloed, geassocieerd met bijvoorbeeld de kleding, oude ambachten zoals abadjii en srmadjii geleidelijk stierf. De abadjii maakten herenkleding van een specifiek stoffen. Volgens de bronnen, in 1925 slechts 8 abadjii zijn in de Bazaar gebleven. In de Bazaar bestonde ook samardjii die maakte zadels en riemen, alsmede kazandjii (ketelmakers) die maakte voorwerpen van koper. Er waren ook wapen winkels, alsook kleine winkels voor de productie van alcoholische dranken. \n\nTegelijkertijd werden onder de Europese invloed nieuwe ambachten ontwikkeld, zoals hoedenmakers, fotografen, tapijtenlegger, kleermakers, enz. Vooral populair was het fotograferen, en elke familie wilde een familieportret of trouwfoto in de foto studios in de Bazaar doen.",
+        "latitude": 42.002621,
+        "longitude": 21.438000
+    },
+    {
+        "id": 2,
+        "name": "Smeden",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In Skopje Bazaar waren en nog steeds aanwezig zijn de metaalbewerking ambachten zoals: smid, tingieter, slotenmaker. U kunt ve Smeden Straat in de Bazaar bezoeken waar nog steeds kunt u meerdere smeden vinden. De ambacht van de smeden werd het vaakst bezet door de Roma. De smeden meestal produceerden landbouwgereedschappen die zeer populair waren gezien het feit dat mechanisatie was nog niet gebruikt in de landbouw.",
+        "latitude": 42.002686,
+        "longitude": 21.438094
+    },
+    {
+        "id": 3,
+        "name": "Barbers (kappers) ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Barbers zijn ook vandaag een onderdeel van de Skopje Bazaar. In het verleden bestond er veel barbers in de Bazaar. Ze boden scheer- en trimdiensten aan, maar ze boden ook besnijdenisdiensten, evenals bepaalde gezondheidsdiensten (behandeling van huidaandoeningen). Bezoek een kapperszaak in de Oude Bazaar en kies de dienst die je nodig hebt.",
+        "longitude": 21.438760,
+        "latitude": 42.002763
+    },
+    {
+        "id": 4,
+        "name": "Snoepjes ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Tijdens de Turkse regering waren er verschillende winkels, of snoepwinkels, turks fruit (lokum) en andere producten, waarvan de bekendste 'Teohar en Pane' was, die later uitgroeide tot de beroemde fabriek 'Evropa'. Deze fabriek bestaat al sinds 1882. In het begin ​​waren er slechts 5 werknemers en een capaciteit van 250 kg producten. De apparatuur was zeer bescheiden - een paar koperen ketels voor de productie van een mengsel van snoepjes, koken van turkse fruit en de productie van zoete producten.\n\nIn de Oude Bazaar kun je de winkel van 'Europa' vinden en hun moderne producten proberen.",
+        "longitude": 21.438999,
+        "latitude": 42.002425
+    },
+    {
+        "id": 5,
+        "name": "Kaarsenmakers",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De kaarsenmakers in het verleden werden ook mumdjii genoemd. Ze maakten toen en zelfs nu kaarsen van was en paraffine. Naast kaarsen voor verschillende behoeften, meestal religieus, maakten ze ook bruidskronen met wasachtige bloemen. Ze hadden ook hun eigen gilde. Er zijn nog steeds kaarsenmakers in de Skopje Bazaar.",
+        "longitude": 21.437670,
+        "latitude": 42.002114
+    },
+    {
+        "id": 6,
+        "name": "Pantoffels makers ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Hun producten werden in de hele regio verkocht, zelfs naar Bosnië. \n\nDeze ambacht bestond in de Bazaar voor een lange tijd. Aan het einde van de XIX eeuw bestond er ook een speciale guild van pantoffels makers waarin 80 winkels lidden waren. Met de sterke stijging van de industriële en goedkope goederen, de behoefte eraan was verminderd, dat heeft bijgedraagd tot een drastische vermindering van de winkels va de pantoffels makers in de Bazaar\n\nIn de Bazaar bestaan er vandaag verschillende winkels die schoenen op de traditionele manier maken. Bezoek hen omdat u het juiste geschenk voor de winterdagen daar zullen vinden.",
+        "longitude": 21.436834,
+        "latitude": 42.000865
+    },
+    {
+        "id": 7,
+        "name": "Hoedenmakers",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Aan het einde van de XIX eeuw onder de europese invloed, in de Bazaar nieuwe ambachts tot ontwikkeling kwammen waaronder de hoedenmakers. Ze maakten vroeger en zelfs nu hoeden voor mannen en vrouwen van verschillende materialen (wol, katoen en andere natuurlijke materialen). De Hoeden van de ambachtslieden van Skopje Bazaar waren vooral populair in de Adriatische kust in het voormalige Joegoslavië. \n\nVerschillende hoeden winkels bestond in de Bazaar voor bijna 200 jaar.",
+        "longitude": 21.437272,
+        "latitude": 42.001472
+    },
+    {
+        "id": 8,
+        "name": "Houtsnijwerk",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Aan het einde van deze tour hebben we besloten om u naar de Kerk van de hemelvaart van Jezus te brengen om een ​​van de meest unieke houtsnijwerken in ons land te zien. \n\nHet houtsnijwerk is een duizend jaar oude traditie in Macedonië, vooral uitgedrukt in de periode van de XVI tot de XIX eeuw. De houtsnijders werkten vaak in verschillende  groepen van meer leden, meesters en assistenten. Meestal werkten ze met walnotenhout, jarenlang gedroogd, afgewerkt met beitels en hamers. Zij hebben altijd geprobeerd om het hele houtsnijwerk uit één stuk hout te maken. Vandaag in de Skopje Bazaar bestaan geen houtsnijders, maar binnen de Bazaar u kunt een van de meest beroemde houtsnijwerken in het land zien - de iconostase van de Kerk van de hemelvaart van Jezus gedomineerd door de oudtestamentische motieven. Het werd gemaakt van de groep van Petre Garkata in de XIX eeuw",
+        "longitude": 21.435814,
+        "latitude": 42.000761
+    },
+    {
+        "id": 9,
+        "name": "Museum van de Skopje Bazaar (Suli Han) ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Museum van de Oude Skopje Bazaar is gevestigd in Suli Han, een van de hans in de Bazaar. Het wordt Suli Han of 'Water Han' genoemd vanwege een rivier die stroomde vroeger in de buurt. Het heeft een oppervlakte van meer dan 2000 m2 . Het werd gebouwd in de XV eeuw en in de XVI eeuw werd de bovenste verdieping tot winkels omgevormd. Suli Han was vernietigd door de verwoestende aardbeving in Skopje in 1963, waarna hij werd vernieuwd. Naast het museum, vandaag in de bouw bevindt zich de Faculteit der Beeldende kunsten van de universiteit van 'St. Cyril en Methodius '. \n\nHet museum werd opgericht in 1983 en op een oppervlakte van 500 m2 het toont de geschiedenis, de culturele waarde en ambachten in de Bazaar.\n\nDe toegang is gratis.",
+        "longitude": 21.437739,
+        "latitude": 42.001580
+    }
+    ]
+},
+{
+    "id": 4,
+    "name": "Macedonische robijn ",
+    "info_mp3": "tour_4_mk",
+    "info_text": "Een van de bijzonderheden van de Skopje Bazaar is dat op dit moment een groot deel van de winkels gericht is op het maken en verkopen van sieraden.\n\nDe bevolking van Macedonië heeft altijd een speciale genegenheid gekoesterd voor sieraden van verschillende materialen. Sieraden en decoratieve voorwerpen zijn zelfs aanwezig in het archeologisch materiaal uit de vroegste tijden, gevonden in de buurt van Skopje.\n\nDat is de reden waarom deze tour u de mogelijkheid geeft om de traditie van de productie en verkoop van de in de bazaar gemaakte sieraden te leren kenen. Tijdens deze tour kunt u de ambachtslieden ontmoeten die dit ambacht uitoefenen, om het verhaal over de Macedonische robijn en Macedonische filigraan te horen, maar ook om de lange Goudsmeden straat te bezoeken. Hier zult u zeker uw juweel uit Skopje vinden.\n\nDeze tour begint vanaf de noordkant, bij de Noordelijke poort. We raden u aan om deze tour te kiezen nadat u al de interessante locaties in verband met het historische erfgoed van onze oude stad bezocht heeft. ",
+    "image": "old_bazaar_skopje1",
+    "number_of_points": 5,
+    "places": [{
+        "id": 1,
+        "name": "Macedonische robijn ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Aan het begin van deze tour vertellen wij u het verhaal van de Macedonische robijn. \n\nMacedonische robijn is een uniek juweel van het minerale korund dat komt uit ons land. Het minerale korund komt in de natuur voor in twee soorten robijn en saffier. De Macedonische robijn wordt gekenmerkt door hoge sterkte (9.0 op de Mohs-schaal, alleen de diamant is sterker dan dit mineraal). Het staat bekend om zijn specifieke roze-rode kleur vergelijkbaar met framboos. \n\nWall Street Int. noemde de Macedonische robijn - een 'metafysisch juweel van liefde'. In de Bazaar kunt u sieraden versierd met Macedonische robijn vinden en sieraden met deze steen is een populair geschenk en souvenir. Veel beroemdheden wereldwijd hebben sieraden en ornamenten met een Macedonische robijn. \n\nOnze applicatie heeft de kleur van de Macedonische robijn.",
+        "latitude": 42.002486,
+        "longitude": 21.439076
+    },
+    {
+        "id": 2,
+        "name": "Goudsmeden (kujundjii) ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Kujundjii, of de goudsmeden, maken sieraden van goud, zilver en andere kostbare materialen. Kujundjii maakten ringen, kettingen, oorbellen, broeken (gespen voor volkskostuum) enzovoort. Ze repareren ook de sieraden. Vandaag in de Bazaar bestaan nog een paar winkels waar ze kennen de ambacht van de goudsmeden. U kunt hen bezoeken en meer leren over deze oude techniek.",
+        "latitude": 42.002399,
+        "longitude": 21.438934
+    },
+    {
+        "id": 3,
+        "name": "Horlogemaker",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In dit deel van de Bazaar in de buurt van de goudsmeden en Goudsmeden Straat bevindt zich een andere interessante ambacht in de Bazaar - de horlogemakers. De horlogemakers waren heel gerespecteerd ambachtslieden in de Bazaar. Als gevolg van de technologische vooruitgang werden ze zeer populair vooral in de late XIX en XX eeuw. In de Bazaar bestaan er een aantal winkels van horlogemakers die aan reparatie en onderhoud van hoorloges werken.\n\nAls je een probleem met je horloge hebt, zijn de horlogemakers in de Oude Bazaar de juiste plaats voor jou.",
+        "longitude": 21.438130,
+        "latitude": 42.001971
+    },
+    {
+        "id": 4,
+        "name": "Goudsmeden Straat",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Goudsmeden Straat, of Kujundjiska ulica, zoals het officieel wordt genoemd, is een unieke straat voor onze Bazaar. Het gaat over een van de langste straten in de bazaar. Na verloop van tijd in de bazaar is tot groepering van verschillende ambachten op aangewezen locaties gekomen. Deze trend is ook zichtbaar in deze straat die in feite heeft de hoogste concentratie van goudsmeden winkels en winkels die verkopen sieraden en andere kostbare materialen in een plaats in ons land. Vandaag, hier kunt u ringen, oorbellen, trouwringen, armbanden, parels , maar ook de beroemde Macedonische filigraan vinden.",
+        "dots": [{
+            "id": 1,
+            "name": "Златарска улица",
+            "latitude": 42.000767,
+            "longitude": 21.436863
+        },
+        {
+            "id": 2,
+            "name": "Златарска улица",
+            "latitude": 42.001563,
+            "longitude": 21.437334
+        }
+        ],
+        "longitude": 21.436851,
+        "latitude": 42.000822
+    },
+    {
+        "id": 5,
+        "name": "Filigraan",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De kunst van filigraan heeft een lange traditie in ons land. Deze kunst is een productie van sieraden door het vouwen, draaien en breien van dunne metalen draden (meestal een dunne gouden of zilveren draad die lijkt op een dunne kleding draad), en door deze met elkaar op de aanrakingspunten en zelfs met de onderplaat te verbinden. \n\nDe broches kunnen worden onderscheiden (vooral in de vorm van een vlinder), de oorringen, knoppen, religieuze symbolen en andere persoonlijke siervoorwerpen gemaakt in filigraantechniek. Voor de voorbereiding van een voorrwerp is minstens één week van toegewijd werk vereist. \n\nEen van de filigraan meesters in de bazaar Adem zei: 'De filigraan is niets anders dan kunst. Hij schittert niet alleen met traditie, met uniciteit en verfijning , maar verbergt ook zichzelf de liefde van zijn schepper'. \n\nHet filigraan-werk was op de rand van uitsterven, maar in de laatste tien jaren er ontstond een nieuwe generatie van jonge kunstenaars en ambachtslieden die hebben een nieuwe geest aan dit ambacht gegeven. Daarom filigraan als erfenis van de vorige generaties wordt hier nog gekoesterd en hebben wij nog steeds interesse in handgemaakte sieraden. Het filigraan-werk wordt gekocht door iedereen die handwerk weten te waarderen. In de laatste tijd wordt de filigraan versierd met de macedonische robijn, waardoor u krijgt een herkenbare en unieke sieraden uit ons land. \n\nHet logo van onze applicatie is een filigraan in de vorm van een vlinder.",
+        "dots": [{
+            "id": 1,
+            "name": "Филигран",
+            "latitude": 42.001059,
+            "longitude": 21.436997
+        },
+        {
+            "id": 2,
+            "name": "Филигран",
+            "latitude": 42.001151,
+            "longitude": 21.436998
+        }
+        ],
+        "longitude": 21.436853,
+        "latitude": 42.000908
+    }
+    ]
+},
+{
+    "id": 5,
+    "name": "Handelaars met een grote glimlach ",
+    "info_mp3": "tour_5_mk",
+    "info_text": "Winkelen is de favoriete activiteit van elke toerist. Dit is ook al eeuwen het geval in de Skopje Bazaar en de handelaars staan er algemeen bekend om hun vriendelijkheid.\n\nTijdens deze tour maakt u kennis met de handelstraditie van de Bazaar, maar ook met de kenmerken van de traditionele kledij, en zult u ook plaatsen bezoeken waar bont, schoenen en kledij verkocht worden.\n\nOnze humanist, missionaris en Nobelprijswinnares Moeder Theresa, wiens familie een winkel had in de Bazaar, neemt een bijzondere plaats in deze tour in. Moeder Theresa is de meest bekende inwoner van Skopje, haar verhaal is uniek op haar eigen manier en is nauw verbonden met onze Oude stad.\n\nU zult ook het grootste gasthuis van de Bazaar bezoeken, waar eeuwenlang handelaars verbleven met goederen om te verkopen in onze stad. Op het einde bezoekt u ook de grootste open markt in Skopje – de Bit Pazar.\n\nEén ding hebben alle plaatsen die u bezoekt gemeen - overal wordt u verwelkomd met een grote glimlach. Veel plezier! ",
+    "image": "old_bazaar_skopje2",
+    "number_of_points": 8,
+    "places": [{
+        "id": 1,
+        "name": "Handelstraditie",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De handel in de Bazaar bestaat voor een lange periode en volgens de belang ervan het vormt de tweede belangrijkste economische activiteit. Het opgroeit in het bijzonder in de eerste helft van de XIX eeuw, samen met de ontwikkeling van de handel in Centraal-Europa, Wenen, Leipzig, Odessa en Kiev. In het verleden in de Bazaar werkte ook winkeliers Venetianen, uit Dubrovnik en Joden. In de beroemde magazijnen (opslagen) van de Bazaar meestal de groothandel vond plaats. De beroemde reiziger van de zeventiende eeuw, Evliya Çelebi, schrijft dat de Skopje-markt lijkt op de markt van Bagdad.\n\nHandel is belangrijk omdat het ook een belangrijk instrument was voor het verspreiden van de invloed in de cultuur, gewoonten en mode. Tijdens de 19e eeuw werden er beurzen georganiseerd, die werden bijgewoond door zowel binnenlandse als buitenlandse handelaren. Voor de aanwezigheid van de buitenlandse handelaren spreekt meestal het aantal en de capaciteit van de hans in de Bazaar. De handel is ook vandaag aanwezig.",
+        "latitude": 41.999384,
+        "longitude": 21.435656
+    },
+    {
+        "id": 2,
+        "name": "Kapan Han",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Catering was de derde belangrijkste activiteit in de Bazaar. De Bazaar had meer faciliteiten die de mogelijkheid bieden aan verschillende handelaren die hebben Skopje bezocht om te overnachten. De hans waren meestal dicht bij de moskeeën en de hammams die het onderhoud van persoonlijke hygiëne mogelijk maakten. Er waren verschillende hans en caravan sarays. Het verschil bestond dat voor het verblijf in de hans moet je betalen, en voor de caravan sarays, moet je niet betalen, maar de passagier heeft een bed bij zich gehad. \n\nDe accommodatie bevond zich in kamers waar veel mensen sliepen en zij ontvingen bed en water. Er waren ook magazijnen voor de goederen van de handelaren in de hans. \n\nDe eigenaren van de hans werden handjii genoemd, dit ambacht was geërfd van de ouderen en christenen en moslims waren ermee bezig. Aan het einde van de XIX eeuw in de Skopje Bazar bestond 20 hans. \n\nAan het begin van deze tour, raden we je aan om een ​​traditionele Han te bezoeken. Kapan Han was gebouwd in de 15e eeuw in de tijd van Isa-Bey. De naam van de han komt ofwel van het Arabische woord 'kabban' dat betekent een weegschaal of een grote weegschaal of het staat voor een 'gedekte gastruimte '. De Han heeft twee ingangen en 44 kamers. \n\nIn zijn omgeving zelfs vandaag kunt u meer restaurants vinden waar u het traditionele eten in de bazaar kunt proberen.",
+        "latitude": 42.000101,
+        "longitude": 21.436828
+    },
+    {
+        "id": 3,
+        "name": "Bontmakers ambacht",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In de Bazaar bestond een lange traditie van productie en verkoop van lederwaren. In de geleden in de Bazaar was er een groter aantal ambachten die waren bezig met leerbewerking: bontbewerkers (kjurkchii) (die hebben geproduceerd bovenkledingstukken van leer, meestal van lam of vossen), bontbewerkers (kozhuvari) ezv. Vandaag zijn er nog maar weinig winkels die met dit ambacht te maken hebben.",
+        "longitude": 21.436703,
+        "latitude": 42.000372
+    },
+    {
+        "id": 4,
+        "name": "Familie van de Moeder Teresa en handel",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Moeder Teresa, of Gonja Bojaxhiu, is de meest bekende inwoner van Skopje. Ze werd geboren in het centrum van Skopje in een stadsfamilie met een lange handelstraditie die teruggaat tot het midden van de XVIII eeuw. Haar familie Bojaxhiu hun winkel in de Bazaar hadden, waarin verbleven handelaars en voorbijgangers die naar de stad in de marktdagen kwam. Haar grootvader Nikola had ook een winkel voor bouwmaterialen. \n\nOnze Moeder Teresa werd bekend voor haar humanitaire en missionaire werk in India, waarvoor zij heeft de Nobelprijs voor de Vrede in 1979 gewonnen. \n\nVandaag kunt u ook haar Memorial Huis bezoeken, gelegen aan de andere kant van de rivier Vardar, in st. 'Macedonië' .",
+        "longitude": 21.437527,
+        "latitude": 41.999164
+    },
+    {
+        "id": 5,
+        "name": "Schoenen ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Zoals vermeld, de pantoffelmakers ambacht in de Skopje Bazaar was een van de meest bekende. Ze maakten traditionele schoenen. In het midden van de XIX eeuw als gevolg van de introductie van de europese trends begon het schoenmakersambacht zich te ontwikkelen. Dit ambacht was ook geoefend door christenen, moslims en joden. In de Bazaar werden ook gemaakt en verkocht oude traditionele schoeisel (opinci) gemaakt van varkensleer. Vandaag dragen mensen geen oude schoeisel meer, maar je kunt een paar kopen in de talloze souvenirwinkels of misschien moderne schoenen van industriële productie. ",
+        "longitude": 21.437325,
+        "latitude": 42.000920
+    },
+    {
+        "id": 6,
+        "name": " Bezisten ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Net als veel andere gebouwen in de Bazaar, zelfs dit gebouw werd vernietigd in de brand in 1689. De termijn 'bezisten' betekent een overdekte bazaar. De oude Bezisten hadden 6 koepels en in de XV eeuw waren hier ongeveer 50 winkels. \n\nDe huidige Bezisten is aan het begin van de XIX eeuw gerestaureerd. Het is een stenen gebouw met een rechthoekige vorm, waarop de invloed van de westerse architectuur merkbaar is. Het heeft vier ingangen, die bevinden zich aan alle vier zijden in de centrale delen van de gevels.\n\nHelaas, Skopje Bezisten is niet zeer actueel, maar het is interessant vanuit een architecturaal oogpunt als een symbool van de handel in het verleden. ",
+        "longitude": 21.437071,
+        "latitude": 42.001577
+    },
+    {
+        "id": 7,
+        "name": "Traditionele kleding",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Skopje-bazaar staat ook bekend om zijn lange traditie in het kleding maken. Meer verschillende ambachten gerelateerd aan kledingproductie waren aanwezig voor een langere periode. De kleermakers (kaftandjii) snijden kleding van speciale stoffen (fluweel, katoen, linnen), de kleermakers (abadjii) maakten kleren van broadcloth, de kleermakers (shivachi) waren bezig met het maken van kledingstukken meestal van dunnere materialen, de kleermakers (srmadjii) die borduurwerk van goud-, zilver- en koperdraad maakten. \n\nDe invloed van de Europese cultuur en mode is voor de rest verantwoordelijk. Na de Eerste Wereldoorlog sterven deze ambachten langzaam uit. Meer informatie over de ambachten kunt u krijgen bih het Museum van de Oude Skopje Bazaar of door bezoek van het Museum van Macedonië, dat waardevolle etnologische collectie houdt. Geweldig idee is ook om een kleding kleuren winkel (bojadjija) te bezoeken, waar kunt u zien hoe verschillende materialen en stoffen voor het kleding maken zijn geschilderd.\n\nVandaag in de steegjes van de Bazaar kunt u ook moderne kleding vinden en de Bazaar is vooral bekend voor trouwjurken en avondjurken winkels.",
+        "longitude": 21.437728,
+        "latitude": 42.001579
+    },
+    {
+        "id": 8,
+        "name": "Bit pazar ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In de buurt van de Bazaar, aan de noordkant bevindt zich de grootste en oudste markt in de stad - Bit pazar. Naar de markt loopt u via de Noordelijkepoort, van waaruit mensen kunnen gaan op weg naar Constantinopel (het huidige Istanbul). \n\nDeze markt was eerder gevestigd op de plaats van de Kerk van de hemelvaart van Jezus aan de oostkant van de Bazaar.  \n\nDe naam in een letterlijke vertaling van het Turks betekent 'vlooienmarkt'. In het begin de marktdag was op zondag en later op dinsdag en vrijdag, die tot nu toe is bewaard. Deze markt is actief sinds de Middeleeuwen. \n\nVerse landbouw-, vee- en ambachtsproducten zijn nog steeds op de markt verkocht. Aan het einde van deze tour kunt u de oosterse invloed in het hart van Skopje voelen en bezoeken.",
+        "longitude": 21.439425,
+        "latitude": 42.003379
+    }
+    ]
+},
+{
+    "id": 6,
+    "name": "Voedsel voor de ziel ",
+    "info_mp3": "tour_6_mk",
+    "info_text": "De tour 'Voedsel voor de ziel' is bedoeld voor alle gastronomen. Deze tour laat u kennismaken met de smaken van de traditionele gerechten, dranken en de meest populaire gerechten in dit deel van de wereld.\n\nHet eten in de Bazaar, net als elders in het land, is sterk beïnvloed door de nationale bijzonderheden, de buurlanden maar ook door het Midden-Oosten. Meestal bieden de restaurants een combinatie aan van nationale gerechten en bekende internationale specialiteiten. Ons advies is echter om iets te proberen dat elders niet te krijgen is: burek, kebab, tavche-gravche of de beroemde zoetigheden. In deze tour zult u meer horen over het populaire bordspel Backgammon, en ook over de geschiedenis van het bereiden van voedsel in de Bazaar.\n\nIn tegenstelling tot de andere tours, duurt de tour 'Voedsel voor de ziel' onbeperkt.\n\n",
+    "image": "old_bazaar_skopje3",
+    "number_of_points": 7,
+    "places": [{
+        "id": 1,
+        "name": "Burek",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De burek komt uit Anatolië. Het is enorm populair in de Balkan en in de regio zijn er verschillende varianten. \n\nAls je 's ochtends onze oude stad bezoekt, de ideale manier om je tour te beginnen is om burek te ontbijten. Kwartier burek en yoghurt of ayran is het favoriete ontbijt van alle inwoners van Skopje. \n\nHet haat over een dunne deegvellen uit de oven, met een knapperige korst, gevuld met kaas, gehakt, spinazie en dergelijke. \n\nBij het kopen, moet u de smaak en de vulling kiezen. De burek wordt meestal gebakken in een ronde pan en vervolgens gesneden in overeenstemming met het verzoek van de koper (1/4, 1/8). Het wordt altijd warm geserveerd. Eet smakelijk! ",
+        "dots": [{
+            "id": 1,
+            "name": "Бурек",
+            "latitude": 42.000603,
+            "longitude": 21.436925
+        }],
+        "latitude": 42.000025,
+        "longitude": 21.437169
+    },
+    {
+        "id": 2,
+        "name": "Thee en koffie",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De Bazaar is een ideale plek om er warme of koude dranken te drinken. Het drinken van koffie of thee is een ritueel in de Bazaar. Zelfs bij de ingang van de Bazaar bevinden zich diverse cafés en theehuizen. Kies wat vindt je zelf het leukst. Alles is leuk op zijn eigen manier en biedt een nieuwe, andere ervaring. \n\nIn de Bazaar de thee is genaamd 'Turkse thee'. De traditie van drinken van thee is duidelijk gerelateerd aan het Turkse (Ottomaanse) erfgoed. De thee heeft een roodbruine kleur en wordt geserveerd in kleine glazen. Probeer het in een van de vele teehuizen in de Bazaar, maar wees voorzichtig met de hoeveelheid, want het is heel sterk.\n\nIn de talrijke cafés, kunt u proberen uit verschillende soorten koffies. We raden u aan om een ​​traditionele Turkse koffie met turkse fruit (lokum) te proberen of, als u in de zomermaanden komt, probeer een koude Ness-koffie. De keuze is aan u! ",
+        "dots": [{
+            "id": 1,
+            "name": "Чај и кафе",
+            "latitude": 42.000159,
+            "longitude": 21.435811
+        },
+        {
+            "id": 2,
+            "name": "Чај и кафе",
+            "latitude": 41.999792,
+            "longitude": 21.435757
+        },
+        {
+            "id": 3,
+            "name": "Чај и кафе",
+            "latitude": 42.000195,
+            "longitude": 21.436098
+        },
+        {
+            "id": 4,
+            "name": "Чај и кафе",
+            "latitude": 42.000403,
+            "longitude": 21.436441
+        }
+        ],
+        "latitude": 42.000956,
+        "longitude": 21.437379
+    },
+    {
+        "id": 3,
+        "name": "Backgammon",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Backgammon is een van de spels die vaak kun je spelen in de theehuizen en cafés in de Bazaar. Men denkt dat het meer dan 5000 jaar oud is en dat het is afkomstig uit Iran. De backgammon is een spel voor twee spelers en elke speler heeft vijftien speelstenen die tussen 24 velden (driehoeken) kunnen worden bewegen, afhankelijk van het gooien van de twee dobbelstenen. Het doel van het spel is om een van de spelers alle speelstenen uit het bord te 'halen'. Er zijn meer soorten spels en meer niveaus van één spel. ",
+        "longitude": 21.435594,
+        "latitude": 41.999359
+    },
+    {
+        "id": 4,
+        "name": "Verzameling van potten uit de Middeleeuwen ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "In de pauze tussen maaltijden raden wij u aan om meer over de geschiedenis van de bereiding van voedsel in de Bazaar te leren kennen.\n\nAls u geïnteresseerd bent, raden wij u aan om een ​​kijkje te nemen bij de verzameling van potten uit de Middeleeuwen die u kunt zien in het Museum van de Oude Skopje Bazaar, , gevestigd in Suli Han. Hier vindt u vele interessante informatie over de Skopje Bazaar.",
+        "longitude": 21.437821,
+        "latitude": 42.001613
+    },
+    {
+        "id": 5,
+        "name": "Kebabs",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "dots": [{
+            "id": 1,
+            "name": "Ќебапи",
+            "latitude": 41.999629,
+            "longitude": 21.436463
+        },
+        {
+            "id": 2,
+            "name": "Ќебапи",
+            "latitude": 42.000398,
+            "longitude": 21.436914
+        }
+        ],
+        "info_text": "Als u wilt lunchen of dineren, dan is de Bazaar de juiste plek voor jouw authentieke maaltijd in Skopje. De geest van de oude stad kunt u niet volledig ervaren, als je geen kebabs in de Skopje Bazaar probeert.\n\nIn tegenstelling tot het Westen waar kebab een andere betekenis heeft, in Skopje en de Balkan het betreft een gerolde stuk gehakt (gewoonlijk rundvlees), geroosterd. \n\nMeestal worden 10 kebabs geserveerd met vers gebakken brood, gehakte ui, hete paprika (bukovec) en geroosterde peper. \n\nKebabs zijn de herkenbare gastronomische symbool van Skopje en zij zijn ideaal om te lunchen of dineren in de Bazaar. Je kunt andere herkenbare gerechten proberen, zoals lahmachun (turkse pizza met gehakt) of turkse pide.",
+        "longitude": 21.436155,
+        "latitude": 41.999755
+    },
+    {
+        "id": 6,
+        "name": "Tavche-grabche (bonen uit de oven)",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Als je een vegetariër bent, dan is tavche-gravche (bonen uit de oven), een authentieke specialiteit van ons land, de beste keuze voor u. Het gaat over een traditionele bereiding van bonen, die eerst worden gekookt en vervolgens gebakken in een aardewerk pan met andere ingrediënten zoals ui, gedroogde pepers, peterselie, knoflook ezv. De aardewerk pan geeft het een ​​herkenbare traditionele look en tegelijkertijd het houdt hitte urenlang. Bonen uit Tetovo zijn vooral bekend in ons land. \n\nU kunt het ook combineren met verschillende soorten gegrild vlees dat wordt verkocht in de restaurants.",
+        "dots": [{
+            "id": 1,
+            "name": "Тавче гравче",
+            "latitude": 41.999607,
+            "longitude": 21.436495
+        },
+        {
+            "id": 2,
+            "name": "Тавче гравче",
+            "latitude": 42.000301,
+            "longitude": 21.437289
+        }
+        ],
+        "longitude": 21.437134,
+        "latitude": 42.000263
+    },
+    {
+        "id": 7,
+        "name": "Snoepjes in de Bazaar",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Deze tour zal je best afronden als je snoepjes in de Bazaar probeert.\n\nHet ambacht van snoepjes maken heeft een lange traditie in de bazaar. De snoepjesmakers van de Skopje Bazaar waren algemeen bekend. Eeuwenlang waren er gemaakt verschillende snoepjes, halva, snoepjes, turkse boza enzovoort. \n\nVandaag in de Bazaar kunt u al deze zoete geneugten van het verleden proberen. Hier kunt u verschillende oosterse snoepjes proberen: turkse tulumba, baklava, walnoten koekjes (orasnici), padobranci, en vele anderen. \n\nKies wat je het leukst vindt. Voor de buitenlandse toeristen was de baklava Angela Merkel in de laatste tijd bijzonder populair. De ideale combinatie met de snoepjes is een boza of limonade.",
+        "dots": [{
+            "id": 1,
+            "name": "Слатки во чаршијата",
+            "latitude": 42.000694,
+            "longitude": 21.436479
+        },
+        {
+            "id": 2,
+            "name": "Слатки во чаршијата",
+            "latitude": 42.001563,
+            "longitude": 21.437279
+        },
+        {
+            "id": 2,
+            "name": "Слатки во чаршијата",
+            "latitude": 41.999582,
+            "longitude": 21.435790
+        }
+        ],
+        "longitude": 21.437248,
+        "latitude": 42.000381
+    }
+    ]
+},
+{
+    "id": 7,
+    "name": "Lichten van de Oude stad",
+    "info_mp3": "tour_7_mk",
+    "info_text": "Het nachtleven in de Oude stad is het meest dynamisch in de zomer. Feesten, openlucht muziekevenementen, prachtige zomerterrassen, drukke restaurants en veel toeristen. De nachten in Skopje zijn warm en dat is de reden waarom het nachtleven in de Bazaar tot laat in de nacht duurt.\n\nOnze stad heeft een lange uitgaanstraditie. In 1924 bijvoorbeeld, toen Skopje 50.000 inwoners had, waren er ongeveer 300 cafés.\n\nIn deze zevende tour kunt u het nachtleven in de Oude Stad leren kennen. Wij nemen u mee naar de populaire locaties om uit te gaan, om te eten en om te feesten. Dit is de enige nachtelijke tour die wij voorstellen. Veel plezier en let op de tijd, want in de Bazaar verstrijkt de tijd ongemerkt. ",
+    "image": "old_bazaar_skopje1",
+    "number_of_points": 7,
+    "places": [{
+        "id": 1,
+        "name": "Dinner in de Bazaar ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Als je honger hebt, de beste manier om een avondje uit te beginnen is met een maaltijd in de Oude stad. Er zijn veel restaurants met traditionele en nationale gerechten. Kies wat u het leukst vindt en genieten ervan. Om meer over de traditionele gerechten in de Bazaar te ontdekken, selecteer de tour 'Voedsel voor de ziel.' ",
+        "dots": [{
+            "id": 1,
+            "name": "Вечера во чаршијата",
+            "latitude": 41.999430,
+            "longitude": 21.435566
+        },
+        {
+            "id": 2,
+            "name": "Вечера во чаршијата",
+            "latitude": 41.999382,
+            "longitude": 21.435869
+        }
+        ],
+        "latitude": 42.001049,
+        "longitude": 21.438022
+    },
+    {
+        "id": 2,
+        "name": "Traditionele volksmuziek Čalgija",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Een van de herkenbare kenmerken van het nachtleven van de bazaars in heel Macedonië, evenals in Skopje is de čalgija. Vertaald 'gig of muziek', met deze termijn wordt aangeduid een specifieke samenstelling van muzikanten die traditionele liederen spelen. In de vorm van een samenstelling van muzikanten verscheen het tijdens de XIXe eeuw. De samenstelling bevat de volgende instrumenten: kanun, daire, fluit, luit (turkse ud) en soms viool en klarinet. Dit soort muziek is een mix van Byzantijnse kerkzang, Ottomaanse muziek en muzikale tradities van alle gemeenschappen die in het land wonen. \n\nIn de zomer kunt u vaak dit soort muziek horen uit de pleintjes en in de restaurants en bars van de Bazaar. Bezoek en geniet van de magische geluiden van ons land! ",
+        "latitude": 42.000505,
+        "longitude": 21.435749
+    },
+    {
+        "id": 3,
+        "name": "Wijn in de Oude stad ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Mensen uit ons land zijn vooral trots op de wijnproductie. Er is een lange geschiedenis van wijnproductie sinds de oudheid. Het land heeft drie belangrijke wijngebieden: Povardarie  (langs de rivier Vardar) Pchinja - Osogovo (op de grens met Bulgarije) en Pelagonija - Polog (rond het Meer van Ohrid op de grens met Albanië). Meestal in ons land wordt de rode wijn geproduceerd (80%).Op de wijnstokken zijn gecultiveerd bekende regionale en internationale variëteiten zoals Vranec, Merlot, Cabernet Sauvignon, Kratoshia, evenals een autochtone druivensoort die alleen in ons land wordt gekweekt - de zwarte Stanushina. \n\nIn de Bazaar zijn er meer plaatsen (restaurants, cafés, wijnbar), waar u kunt Macedonische wijn proberen. De meeste zijn gelegen aan de zuidelijke ingang van de Bazaar in de richting van de Kerk van de hemelvaart van Jezus, en in de buurt van Kapan Han en het monument van Skender-bey.",
+        "dots": [{
+            "id": 1,
+            "name": "Вино во Стариот град",
+            "latitude": 42.000075,
+            "longitude": 21.436727
+        },
+        {
+            "id": 2,
+            "name": "Вино во Стариот град",
+            "latitude": 41.999529,
+            "longitude": 21.436866
+        }
+        ],
+        "longitude": 21.435777,
+        "latitude": 42.000613
+    },
+    {
+        "id": 4,
+        "name": "Mezze  (voorgerechten)",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Ideale gezelschap van het drankje in de Bazaar is de mezze. Het woord heeft de Perzische oorsprong en staat voor 'smakelijk'. De mezze is een combinatie van warme en koude gerechten in kleine hoeveelheden die worden geserveerd aan het begin van de maaltijd en is typisch voor de landen van de Balkan en het Midden-Oosten. \n\nIn ons land als mezze meestal worden geserveerd witte kaas, ajvar, pindjur (geroosterde paprika), kaas, sarma  van gevulde wijnbladeren, groenten, olijven en gedroogd vlees",
+        "dots": [{
+            "id": 1,
+            "name": "Мезе",
+            "latitude": 41.999607,
+            "longitude": 21.436495
+        }],
+        "longitude": 21.437134,
+        "latitude": 42.000263
+    },
+    {
+        "id": 5,
+        "name": "Bier",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "De productie van bier heeft een lange traditie. \n\nDe eerste stoombrouwerij in onze stad werd opgericht in 1924. In het begin werkte het in de winter voor meestal drie dagen en gedurende de zomer elke dag vanwege de toegenomen interesse van de mensen. \n\nGroot aantal toeristen die de Bazaar bezoeken, geïnteresseerd zijn om te proberen het bier dat is een kenmerk van Skopje, in het bijzonder het bier gebrouwen door kleine brouwerijen dat een speciale unieke smaak heeft. In veel cafés kun je een licht of donker tapbier proberen. Deze cafés vindt u in de buurt van de restaurants in de zuidelijke en oostelijke gedeelte van de Bazaar.",
+        "longitude": 21.435705,
+        "latitude": 42.000445
+    },
+    {
+        "id": 6,
+        "name": "Wandelen rond de Bazaar ",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Er is gewoon een vreemde energie die gloeit uit deze oude stadskern. Toeristen zijn steeds meer talrijker, en het nachtleven is zoals de hele Skopje wordt op één plek samenbreng. Elk van de cafés een andere stijl heeft, elke straat en elke steegje zijn eigen verhaal hebben. Maak een wandeling en voel deze unieke atmosfeer. \n\nWij raden u aan om in Skopje naar straatmuziek te luisteren die in de laatste jaren enorm populair is geworden. In de periode vanaf 1 mei tot eind oktober elk jaar jullie kunnen diverse jonge artiesten horen die in de openbare ruimte in het centrum van de stad en in  de Bazaar optreden.",
+        "longitude": 21.435550,
+        "latitude": 41.999219
+    },
+    {
+        "id": 7,
+        "name": "Festivals in de Bazaar",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "Met de hernieuwde interesse in de bazaar, maar ook als gevolg van het steeds groter aantal toeristen die onze hoofdstad bezoeken, de Bazaar is het centrum van vele culturele evenementen en festivals.\n\nHet Witte Nacht Festival wordt gehouden in het midden van oktober en is de grootste culturele manifestatie van de stad Skopje. Dit evenement maakt deel uit van de festivals die overal ter wereld worden gehouden. Tentoonstellingen, kinderworkshops, concerten, theatervoorstellingen, installaties, filmprojecties, poëzielezingen, enz. worden gehouden binnen het festival. \n\n'Buskerfest' is een straatkunstfestival dat wordt gehouden sinds 2006. Het bestaat uit livemuziek, straatdansen, pantomime, creatieve evenementen en workshops. Dit is het grootste festival van deze soort in de regio, het duurt tien dagen en wordt gehouden in juni. \n\n'Zvuci na Charshijata' (Geluiden van de Bazaar) is een multimedia en multicultureel festival dat omvat concerten van alle genres, performances, folklore optredens, poëzie, kunst kolonie en de presentatie van oude ambachten. Het vindt plaats in september en heeft als doel om de Bazaar de geest van de traditie als een culturele en spirituele monument van de stad te doen herleven.\n\nSinds 2018 begon het 'Festival van het Licht' (Festivalot na svetlinata) als een onderdeel van de 'Witte Nacht' Festival in Skopje. Het festival is een nieuw concept van de tentoonstelling van interactieve lichtinstellingen, performances en installaties in de Bazaar 's avonds. Het festival wordt bijgewoond door binnen- en buitenlandse artiesten.",
+        "longitude": 21.436938,
+        "latitude": 42.003167
+    },
+    {
+        "id": 8,
+        "name": "Kindertheatercentrum",
+        "image": "old_bazaar_skopje1",
+        "info_mp3": "SmallBellRingingSoundEffect",
+        "info_text": "    Als u geïnteresseerd bent in theater, raden wij u aan om het Kindertheatercentrum in de Bazaar te bezoeken, waar theatervoorstellingen voor kinderen en volwassenen zijn gespeeld. \n\nIn Skopje is er een lange traditie van het bevorderen van de theatrale kunst. De eerste theatervoorstelling werd in 1897 in Cafe Beledie gespeeld. Sindsdien veel theaters in Skopje zijn opgericht. \n\nHet Kindertheatercentrum is gehuisvest in de voormalige bioscoop 'Napredok'. Deze culturele instelling door haar activiteiten omvat vertegenwoordigers van alle gemeenschappen in ons land. De toneelstukken worden gespeeld in alle talen die in het land worden gesproken.",
+        "longitude": 21.438111,
+        "latitude": 42.001974
+    }
+    ]
+}
+]

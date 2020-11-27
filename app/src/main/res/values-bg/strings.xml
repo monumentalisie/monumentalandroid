@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Изберете обиколка</string>
+    <string name="tips">Съвети за Скопие</string>
+    <string name="share_exp">Споделяйте опит</string>
+    <string name="video">Видео</string>
+
+    <string name="play">PLAY</string>
+    <string name="stop">СПРИ СЕ</string>
+    <string name="next">Напред</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Kies een tour</string>
+    <string name="tips">Tips voor Skopje</string>
+    <string name="share_exp">Ervaringen delen</string>
+    <string name="video">Video</string>
+
+    <string name="play">SPELEN</string>
+    <string name="stop">HOU OP</string>
+    <string name="next">Volgende</string>
+</resources>

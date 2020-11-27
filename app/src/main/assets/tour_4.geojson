@@ -1,0 +1,175 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4.5 Филиграни ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436853,
+          42.000908
+        ],
+        "type": "Point"
+      },
+      "id": "490eb96b454d14a1238afeb9412f36f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4.2 Кујунџии ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.438934,
+          42.002399
+        ],
+        "type": "Point"
+      },
+      "id": "5dd6788010c7779b4039f13504011c5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.438129,
+            42.001973
+          ],
+          [
+            21.438319,
+            42.001919
+          ],
+          [
+            21.437889,
+            42.001316
+          ],
+          [
+            21.437688,
+            42.000992
+          ],
+          [
+            21.436932,
+            42.000722
+          ],
+          [
+            21.436811,
+            42.000777
+          ],
+          [
+            21.436845,
+            42.000825
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "67c07a03fcd1557d1a83f8454d742efc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.439083,
+            42.002482
+          ],
+          [
+            21.438935,
+            42.002397
+          ],
+          [
+            21.438326,
+            42.001947
+          ],
+          [
+            21.438141,
+            42.002007
+          ],
+          [
+            21.438119,
+            42.001979
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "7098fe81fc1804af0621d927b230f0b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "TYPE": "Rail line",
+          "NAME": "Red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            21.43685,
+            42.000822
+          ],
+          [
+            21.436854,
+            42.000912
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "8623cdfbdbc7da58ce9fd2462146128c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4.4 Златарска Улица  ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.436851,
+          42.000822
+        ],
+        "type": "Point"
+      },
+      "id": "b555d5f3cbbd8a1e2bed163718d4523b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4.1 Македонски рубин ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.439076,
+          42.002486
+        ],
+        "type": "Point"
+      },
+      "id": "f20d25792c8e55468b81dbd64d5d64b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4.3 Часовничар ",
+        "TYPE": "Station"
+      },
+      "geometry": {
+        "coordinates": [
+          21.43813,
+          42.001971
+        ],
+        "type": "Point"
+      },
+      "id": "f6f3b20debf7125e7e30266966feade1"
+    }
+  ],
+  "type": "FeatureCollection"
+}

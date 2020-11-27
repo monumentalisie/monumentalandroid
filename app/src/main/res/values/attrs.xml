@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Declare custom theme attributes that allow changing which styles are
+         used for button bars depending on the API level.
+         ?android:attr/buttonBarStyle is new as of API 11 so this is
+         necessary to support previous API levels. -->
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+    <attr name="horizontalListBackground" format="reference" />
+
+    <declare-styleable name="PageIndicatorLayout">
+        <attr name="pageIndicatorMode" format="enum">
+            <enum name="simple" value="0" />
+            <enum name="advanced" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <attr name="current_page_inner" format="color" />
+
+    <attr name="current_page_outer" format="color" />
+
+    <attr name="next_page_inner" format="color" />
+
+    <attr name="other_page_inner" format="color" />
+
+    <attr name="horizontalListTitleColor" format="reference" />
+</resources>

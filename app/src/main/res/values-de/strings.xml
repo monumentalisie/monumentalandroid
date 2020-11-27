@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="take_tour">Wählen Sie eine Tour</string>
+    <string name="tips">Empfehlungen über Skopje</string>
+    <string name="share_exp">Erfahrungen teilen</string>
+    <string name="video">Video</string>
+
+    <string name="play">ABSPIELEN</string>
+    <string name="stop">HALT</string>
+    <string name="next">Nächster</string>
+
+    <string name="welcome_audio">Willkommen-Audio</string>
+    <string name="capital_of_rutalisam">die Hauptstadt des Brutalismus</string>
+    <string name="skopje">Skopje</string>
+    <string name="other_cities">Andere Städte</string>
+    <string name="news">Nachrichten</string>
+    <string name="good_to_know">Gut zu wissen</string>
+    <string name="about">Über das Projekt</string>
+    <string name="about_info"><![CDATA[Diese Anwendung wurde im Rahmen des vom Institut für strategische Forschung und Bildung (ISIE) in Skopje durchgeführten Projekts “Denkmäler und brutalistische Architektur in Nordmazedonien: Förderung der Tourismusförderung zur Unterstützung der lokalen Entwicklung” erstellt. Das Hauptziel des Projekts ist die Förderung der lokalen Entwicklung durch Kartierung von Standorten und Entwicklung einer neuen und authentischen Tour, die in- und ausländische Touristen mit neuen innovativen Instrumenten für die Tourismusförderung erleben können. \n\nDas Projekt “Denkmäler und brutalistische Architektur in Nordmazedonien: Förderung der Tourismusförderung zur Unterstützung der lokalen Entwicklung” wird durch einen Zuschuss des Tourismusentwicklungs- und -förderungsprojekts des Regionalen Kooperationsrates (RSS) finanziert. Das RSS-Projekt wird von der Europäischen Union finanziert und umgesetzt, um zum Wachstum und Wettbewerb von sechs Volkswirtschaften auf dem westlichen Balkan beizutragen, indem die Entwicklung und Förderung eines gemeinsamen regionalen, kulturellen und alternativen Angebots unterstützt wird. \n\nHaftungsausschluss:\nDie App wurde mit finanzieller Unterstützung der Europäischen Union erstellt und verwaltet. Der Inhalt dieser App ist eine ausschließliche Haftung der ISIE und spiegelt nicht immer die Positionen des regionalen Kooperationsrates und der Europäischen Union wider.\n\n\n\n]]></string>
+    <string name="info_tips"><![CDATA[Offizieller Name: Republik Nordmazedonien \n\nFläche: 25.713 м2\n\nBevälkerung: 2.022.547 (2002) \n\nHauptstadt: Skopje\n\nFlughäfen: Skopje International Airport und \"Hl. Apostel Paulus\" in Ohrid\n\nWährung: Denar (Wechselkurs: 1 Euro = 61,5 Denar) \n\nSprache: Mazedonische Sprache und kyrillisches Alphabet sowie die von mindestens 20% der Bürger gesprochene Sprache (albanische Sprache) und ihr Alphabet gemäß dem Gesetz. Andere Gemeinden des Landes sprechen ebenfalls Türkisch, Serbisch, Roma und Vlach. \n\nReligion: Etwa 65% der Bevölkerung gehören der orthodoxen christlichen Religion an, ungefähr 33% - Muslime, der Rest - Katholiken, Protestanten, Juden usw. \n\nFeiertage: 1. Januar (Neujahr), 7. Januar (Weihnachten), Ostern und der zweite Ostertag, 1. Mai (Tag der Arbeit), 24. Mai (Hl. Kyrill und Method - Tag der allslawischen Aufklärer), der erste Tag des Ramadan Bajram, 2. August (Tag der Republik), 8. September (Unabhängigkeitstag), 11. Oktober (Tag des Volksaufstands), 23. Oktober (Tag des mazedonischen revolutionären Kampfes) und 8. Dezember (Hl. Klement von Ohrid). \n\nNationalparks: Pelister, Mavrovo und Galichica\n\nArbeitszeit: staatliche Einrichtungen (Montag - Freitag von 8:30 bis 16:30 Uhr), Privatunternehmen von Montag bis Freitag von 8:30 bis 20:00 Uhr, Samstag von 09:00 bis 15:00 Uhr). Die Geschäfte in den touristischen Orten der Saison sowie die großen Einkaufszentren sind auch sonntags geöffnet. \n\n\n\nWichtige Nummer\n\nRufnummer für das Land +389\n\nPolizei 192\n\nFeuerwehr 193\n\nKrankenwagen 194\n\nRegionales Krisenmanagementzentrum 195\n\nAMSM Pannenhilfe 196]]></string>
+    <string name="location">Standort</string>
+    <string name="history">Geschichte</string>
+    <string name="author">Autoren</string>
+    <string name="description">Beschreibung</string>
+    <string name="interior">Innere</string>
+    <string name="meaning">Bedeutung</string>
+
+</resources>

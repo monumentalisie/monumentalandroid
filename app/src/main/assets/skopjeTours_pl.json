@@ -1,0 +1,674 @@
+[
+    {
+        "id": 1,
+        "name": "MUZEUM NA WOLNYM POWIETRZU",
+        "info_text": "Skopje w swojej długiej historii zawsze znajdowało się na skrzyżowaniu cywilizacji. Wiele imperiów, kultur i cywilizacji odcisnęło piętno na jego rozwoju i sposobie życia.\n\nTe różnice oraz wpływ Wschodu i Zachodu także dzisiaj możecie poczuć w Czarsziji. Podczas tej wycieczki zobaczycie najważniejsze zabytki skopijskiej Starówki, m.in. Kamienny Most, Cerkiew Wniebowstąpienia Pańskiego, Meczet Mustafy Paszy i Meczet Murata Maszy. \n\nNa końcu, ze skopijskiej twierdzy Kale będziecie mogli podziwiać przepiękny widok na naszą stolicę. Życzymy przyjemnego zwiedzania naszego muzeum na wolnym powietrzu!",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 5,
+        "info_mp3": "tour_1_mk",
+        "places": [
+            {
+                "id": 1,
+                "name": "Kamienny Most",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Nasza wycieczka rozpoczyna się od symbolu Skopje – Kamiennego Mostu nad rzeką Wardar. Most łączy Plac Macedonii (Ploštad „Makedonija”) ze skopijską Czarsziją i pochodzi z okresu wczesno bizantyjskiego. Został przebudowany w okresie panowania Sułtana Mehmeda II – od 1491 do 1469 roku. W swojej pierwotnej formie most miał 13 łuków, 213 m długości i 6,3 m szerokości.\n\nCzęsto był przebudowywany. Na przykład, słynny podróżnik Ewlija Czelebi podczas jego pobytu w Skopje w 1661 – 1662 roku, spisał treść inskrypcji umieszczonej na moście po ostatniej przebudowie przed jego pobytem: „Kiedy ludzie zobaczyli przebudowywanie tego bezprecedensowego mostu, chwaląc go, powiedzieli: Jest o wiele ładniejszy niż przedtem”.\n\nPodczas II wojny światowej, w 1944 roku, most został przygotowany do wysadzenia, ale dzięki pomyślnemu wyzwoleniu miasta jego zniszczenie zostało udaremnione.",
+                "latitude": 41.996993,
+                "longitude": 21.433068
+            },
+            {
+                "id": 2,
+                "name": "Meczet Murata Paszy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Meczet Murata Paszy znajduje się w środku Starówki, nieopodal Czifte Hammamu i karawanseraju Suli An. Meczet ten został zniszczony przez pożar w 1689 roku. Został odbudowany na początku XIX wieku. Na marmurowej płycie nad bramą wejściową do meczetu wspomina się, że meczet został wybudowany w 1802 lub w 1803 roku.\n\nSam meczet jest stosunkowo nową budowlą należącą do stylu osmańskiego baroku, z wykorzystaniem neoklasycznych elementów islamskich. Na dziedzińcu znajduje się szadirwan wybudowany w 1937 roku. \n\nMeczet Murata Paszy ma status pomnika historii, tj. chronionego dziedzictwa kulturowego.",
+                "latitude": 42.000817,
+                "longitude": 21.437385
+            },
+            {
+                "id": 3,
+                "name": "Cerkiew Wniebowstąpienia Pańskiego",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Cerkiew Wniebowstąpienia Pańskiego znajduje się w bezpośrednim sąsiedztwie skopijskiej twierdzy Kale i Meczetu Mustafy Paszy. Odbudowana w XIX wieku. Ma ciekawą drewnianą dzwonnicę, a na jej podwórzu znajduje się grób najsławniejszego macedońskiego rewolucjonisty Goce Dełczewa.\n\nW cerkwi tej możecie zobaczyć drewniany ikonostas, który jest jedną z najsłynniejszych rzeźb w kraju, w którym dominują motywy i sceny ze Starego Testamentu, ornamenty geometryczne oraz motywy z flory i fauny Macedonii. Ikonostas został wykonany w XIX wieku przez grupę snycerzy, której przewodniczył Petre Garka.",
+                "longitude": 21.435876,
+                "latitude": 42.000702
+            },
+            {
+                "id": 4,
+                "name": "Meczet Mustafy Paszy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Meczet Mustafy Paszy został wybudowany w 1492 roku i jest jednym z najważniejszych pomników architektury islamskiej w Czarsziji.\n\nW ramach kompleksu meczetu znajduje się türbe (grób) Mustafy Paszy, sarkofag jego córki Umy, szadirwan oraz pozostałości imaretu (kuchni) i medresy. Kopuła meczetu ma 16 m szerokości.\n\nMeczet jest budowlą o kwadratowej podstawie, która jest pokryta kopułą. Nad drzwiami wejściowymi znajduje się galeria przeznaczona dla muezinów. Minaret meczetu wykonany jest z wapienia i ma 47 m wysokości, a jego część poszerzona wykonana jest z marmuru ozdobionego ornamentami. Meczet Mustafy Paszy jest czynną świątynią.",
+                "longitude": 21.435455,
+                "latitude": 42.001926
+            },
+            {
+                "id": 5,
+                "name": "Kurszumli An",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ten karawanseraj został wybudowany w 1550 roku przez Mułłę Musledina Hodżę. Nazwa oznacza „ołowiany chan”, najprawdopodobniej z powodu jego ołowianego dachu. Zajmuje powierzchnię 2800 m2 i dysponował 60 pokojami (28 pokoi na parterze i 32 pokoje na górnym piętrze). Jest to największy karawanseraj w Czarsziji. Przez pewien okres w XIX wieku budowla służyła jako więzienie. Po II wojnie światowej, w budowli zostało ulokowane lapidarium Muzeum Archeologicznego Republiki Macedonii Północnej, gdzie eksponowane są cenne artefakty z okresu starożytnego. Dziś Kurszumli An jest popularnym miejscem do organizowania imprez kulturalnych, promocji, a nawet wesel. Tutaj odbywał się również festiwal kreatywny „Skopje Design Week”. W jego bezpośrednim sąsiedztwie znajduje się utworzone w 1924 Muzeum Republiki Macedonii Północnej, w którym eksponowana jest znacząca kolekcja etnologiczna.",
+                "longitude": 21.437002,
+                "latitude": 42.003025
+            },
+            {
+                "id": 6,
+                "name": "Skopijska twierdza Kale",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Skopijska twierdza Kale pochodzi z IV wieku przed naszą erą. Budowa wielkiego obwarowania wiąże się z panowaniem bizantyjskiego imperatora Justyniana w szóstym wieku, a uważa się, że twierdza największego wzrostu doświadczyła za panowania cara Samuela (X–XI w.). W średniowieczu istniało tutaj wiele pałaców, kościołów i warsztatów. Po przybyciu Osmanów twierdza uległa znacznemu zniszczeniu i została przekształcona w koszary. Podczas I wojny światowej, tutaj znajdował się sztab armii austriackiej. Kale zostało poważnie uszkodzone w czasie trzęsienia ziemi w 1963 roku. Zamiast Muzeum Archeologicznego, które uległo całkowitemu zniszczeniu w czasie trzęsienia ziemi, możecie zobaczyć statuę „Siła – Chwała – Zwycięstwo”. Na tej przestrzeni odbywał się znany festiwal piwa „Skopje Beer Fest”, który wcześniej nazywał się „Piwoland”.\n\nNa koniec tej wycieczki, odwiedźcie twierdzę i podziwiajcie piękny widok na macedońską stolicę.",
+                "longitude": 21.432966,
+                "latitude": 42.000872
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "LEGENDY I WSPOMNIENIA Z CZARSZIJI",
+        "info_mp3": "tour_2_mk",
+        "info_text": "Jak każde miasto o długiej historii i kulturze, również Skopje i jego serce – Starówka, mają swoje legendy. Podczas tej wycieczki usłyszycie najbardziej znane legendy związane z kluczowymi kulturalno-historycznymi zabytkami w Czarsziji, ale także wspomnienia o ludziach i nieistniejących już częściach miasta. Dowiecie się więcej o Powstaniu Karposza, cerkwi św. Dymitra, Hamamu Dauta Paszy i Czifte Hammamu. Wycieczka zaprowadzi nas również do Żydowskiej Dzielnicy, gdzie dowiecie się więcej o historii, ale także o tragicznym losie Żydów z tej części Macedonii. Większość lokalizacji będących przedmiotem zainteresowania tej wycieczki znajduje się w południowej części skopijskiej Czarsziji, w pobliżu Kamiennego Mostu. Nie zapominajcie, że Skopje i nasz kraj przez ponad pięć wieków były częścią Imperium Osmańskiego i to wywarło silny wpływ na Starówkę.\n\nZaczynamy! ",
+        "image": "old_bazaar_skopje2",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Powstanie Karposza",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Wycieczka o legendach i wspomnieniach o Czarsziji rozpoczyna się na Placu Powstania Karposza (Ploštad „Karpošovo vostanie”), który znajduje się z lewej strony Wardaru, nieopodal Kamiennego Mostu. Dokładnie to miejsce przed wejściem do Czarsziji jest centrum naszej pierwszej opowieści o Karposzu i jego powstaniu w XVII wieku.\n\nW październiku 1689 znany przywódca ludowy Karposz wykorzystał pochód wojsk austriackich w regionie i rozpoczął powstanie przeciwko władzom osmańskim. Rok ten jest ważny dla Skopje, ponieważ austriacki generał Piccolomini spalił miasto, usiłując powstrzymać epidemię cholery, na którą sam też zmarł. W swoim meldunku wojennym, Piccolomini napisał, że: „Skopje jest niemal tak duże jak Praga”. Pożar zniszczył wiele budynków w mieście, które później zostały odbudowane.\n\nKarposz został szybko pokonany, a jego powstanie zostało stłumione. Został schwytany w grudniu 1689 roku i na rozkaz chana krymskiego Selima Gireja został stracony na Kamiennym Moście. Możecie odwiedzić miejsce stracenia, które zostało oznaczone tablicą nieopodal wartowni na Kamiennym Moście.\n\nNiedaleko Kamiennego Mostu znajduje się pomnik Karposza, jako symbol i upamiętnienie walki narodu macedońskiego o wolność oraz symbol oporu przeciwko obcym władzom.",
+                "latitude": 41.997166,
+                "longitude": 21.433626
+            },
+            {
+                "id": 2,
+                "name": "Cerkiew św. Dymitra",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Kolejnym punktem naszej wycieczki jest znajdująca się na południowym wejściu do skopijskiej Czarsziji cerkiew św. Dymitra. Pochodzi z XIII wieku, a została odbudowana w latach 1886-1894.\n\nZ jej odbudową związana jest jedna legenda. Mianowicie osmański pasza przerwał budowę i rozpoczął budowanie haremu. Ale zamiast cieknącej wody, w tym miejscu pojawiły się żmije i pasza przerwał budowę haremu, a budowa cerkwi została kontynuowana. Autorem ikon i fresk w cerkwi jest Dimitar Papradiszki.\n\nNa dziedzińcu cerkwi znajduje się grób pierwszego zwierzchnika Macedońskiego Kościoła Prawosławnego, Dosyteusza.",
+                "latitude": 41.998473,
+                "longitude": 21.434306
+            },
+            {
+                "id": 3,
+                "name": "Dzielnica Żydowska",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Idąc od Kamiennego Mostu w kierunku wejścia do Starówki, z lewej strony, u stóp skopijskiej twierdzy Kale, możecie zobaczyć przestrzeń, gdzie kiedyś znajdowała się Dzielnica Żydowska. Przed XX wiekiem, Dzielnica Żydowska była jedną z najbiedniejszych części miasta, ale na początku XX wieku zaczęto tam budować ładniejsze i większe domy, które budowane były na wzór europejski. W czasach włączy tureckiej, ta część miasta znana była również jako Yahudihane.\n\nJako część antysemickiej polityki hitlerowskich Niemiec, 11 marca 1943 roku, władze bułgarskie aresztowały Żydów ze Skopje, Bitoli i Sztipu, a po około dziesięciu dniach trzema pociągami zostali oni wywiezieni do obozu zagłady w Treblince, gdzie wszyscy zostali zamordowani.\n\nPo II wojnie światowej Dzielnica straciła żydowską tożsamość.\n\nDzisiaj w miejscu Żydowskiej Dzielnicy znajduje się Centrum Pamięci Holokaustu Żydów z Macedonii – muzeum, które na zawsze przechowuje pamięć o 7144 macedońskich Żydów, tj. o 98% ludności żydowskiej z tej części Macedonii, którzy zostali zabici podczas Holokaustu.\n\nOdwiedźcie Centrum Pamięci i dowiedzcie się więcej o historii macedońskich Żydów.",
+                "longitude": 21.433408,
+                "latitude": 41.998508
+            },
+            {
+                "id": 4,
+                "name": "Legendy o Hammamie Dauta Paszy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Kolejnym punktem naszej wycieczki jest Hammam Dauta Paszy, który znajduje się na początku Czarsziji z jej południowej strony, nieopodal Kamiennego Mostu i cerkwi św. Dymitra. Został wybudowany pod koniec XV wieku. Budowla ta ma dwa wejścia (męskie i żeńskie), zgodnie z zasadami islamu. Imponujące jest wnętrze budowli, które jest pokryte 13 kopułami, które przez gwiaździste otwory pokryte szkłem wpuszczają piękną światłość do pomieszczeń Hammamu.\n\nHammam ten nigdy nie został oddany do użytku jako łaźnia, o czym istnieją dwie legendy. Według pierwszej legendy, budowla nigdy nie zaczęła działać z powodu braku drewna opałowego; a według drugiej, córka Dauta Paszy, wielkiego wezyra Rumelii Wschodniej, tuż przed otwarciem budowli zmarła na skutek ukąszenia przez żmiję. Po tym wydarzeniu, Daut Pasza rozkazał, aby hamman pozostał zamknięty i aby nigdy więcej nie był używany.\n\nHammam został odbudowany w 1948 roku i dzisiaj wewnątrz znajduje się Narodowa Galeria Republiki Macedonii Północnej. Dzisiaj w Hammamie Dauta Paszy odbywają się koncerty, wystawy, przyjęcia i inne wydarzenia kulturalne.",
+                "longitude": 21.435695,
+                "latitude": 41.998675
+            },
+            {
+                "id": 5,
+                "name": "Zasady panujące w Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Zwiedzając skopijską Czarsziję, warto nie tylko zobaczyć jej główne perełki, ale także poznać panujące tam zasady. Czarszija obejmuje przestrzeń od Kamiennego Mostu i twierdzy Kale do rzeki Serawy. W zapiskach Ewliji Czelebiego można przeczytać, że w Skopje, w połowie XVII wieku, było około 2000 sklepów i warsztatów rzemieślniczych oraz że ulice są czyste i pachną bzami.\n\nTak jak i inne miejsce, również skopijska Czarszija miała własne zasady. Sklepy i warsztaty otwierano rano, a zamykano wieczorem. Istniała specjalna służba chroniąca Czarsziję w nocy. W Czarsziji zakazane było przechowywanie materiałów łatwopalnych i nafty, ubój bydła oraz przejeżdżanie pojazdami zaprzęgowymi. \n\nSklepy i warsztaty można było budować tylko po uzyskaniu pozwolenia i zgodnie z określonymi standardami.",
+                "longitude": 21.435695,
+                "latitude": 41.999338
+            },
+            {
+                "id": 6,
+                "name": "Pomnik Skanderbega",
+                "image": "tour_6_mk",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W skopijskiej Czarsziji znajduje się również pomnik jednego z najważniejszych przywódców narodu albańskiego w średniowieczu – Skanderbega (1405–1468). Ten albański szlachcic będąc chłopcem został zabrany jako zakładnik do Carogrodu (Konstantynopola), gdzie przyjął islam i zrobił karierę wojskową. Był dobrym wodzem, wiec otrzymał imię Iskander Bey (po albańsku Skanderbeg) na cześć Aleksandra Macedońskiego (Iskander Bey po turecku oznacza Bej Aleksander). Po porażce Osmanów przez Węgrów niedaleko Niszu (1443), z trzystoma towarzyszami wrócił do Albanii i rozpoczął powstanie przeciwko władzy osmańskiej (1443) z centrum walk w Krui, które zajęło również część Macedonii Zachodniej (okolice miast Debar i Struga). Zjednoczył albańskich szlachciców (Dukagjinowie, Muzakasi, Arianici i in.), utworzył sojusz wojskowy w Lezhy (1444) i został ogłoszony władcą Albanii. Zawsze podpisywał się w języku łacińskim jako Dominus Albaniae. Przy wsparciu i pomocy krajów zachodnioeuropejskich (Wenecja, Papież, Księstwo Neapolitańskie, Węgry, Dubrownik i in.), przez 25 lat skutecznie przeciwstawiał się Osmanom, pokonując ich w wielu bitwach.\n\nPomnik ma 5,5 m wysokości i waży 2,7 t, a jego autorem jest Toma Tomai. Pomnik odsłonięto na ceremonii 28 listopada 2006 roku. Plac wokół pomnika to plac Skanderbega (Plosztad „Skenderbeg”).",
+                "longitude": 21.437161,
+                "latitude": 41.999315
+            },
+            {
+                "id": 7,
+                "name": "Czifte Hammam ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Czifte Hammam to publiczna łaźnia znajdująca się w sercu Czarsziji. Został wybudowany w XV wieku przez Isę-Bega. Nazwa w tłumaczeniu oznacza „podwójny hamman” i wynika z faktu, że wewnątrz istniały dwa oddzielne pomieszczenia do kąpieli, z oddzielnymi wejściami dla mężczyzn i kobiet. Budowla uległa znacznemu zniszczeniu podczas podpaleniu Skopje w 1689 roku. Jako hammam funkcjonował do 1917 roku. Po rekonstrukcji w 2002 roku, funkcjonuje jako część Galerii Narodowej. Tutaj nadal można znaleźć pozostałości autentycznej tureckiej łaźni.\n\nTak jak w pozostałych hammanach w mieście, wizyta w łaźni była szczególnym rytuałem. Każdy miał ze sobą ręcznik, metalowe naczynie i pokaram, ponieważ w hammanie spędzano kilka godzin. Hammam odwiedzała ludność muzułmańska i chrześcijańska, ale także Żydzi. W hammanie oferowano różne usługi kosmetyczne, ale także spotkania. Częstą praktyką było obserwowanie młodszych kobiet przez starsze, w celu znalezienia przyszłej synowej.\n\nW centralnej części hammanu znajdowały się 3 oddzielne pomieszczenia. Jedno z pomieszczeń w żeńskiej części hammany używane było do rytualnych kąpieli Żydów (mykwa).",
+                "longitude": 21.437285,
+                "latitude": 42.001169
+            },
+            {
+                "id": 8,
+                "name": "Türbe „zdobywcy Skopje” – Jigita Paszy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jigit Pasza to znany osmański „zdobywca Skopje” z końca XIV wieku. Był on również pierwszym osmańskim zarządcą miasta. Został pochowany w Skopje, w meczecie nazwanym jego imieniem. Meczet został zniszczony podczas bombardowania w 1943 roku.\n\nZ jego grobem związane jest jedno wierzenie ludowe. Niedaleko jego grobu znajdowało się źródło z leczniczą wodą. Według wierzenia ludzi, woda stała się lecznicza po tym, jak została poświęcona przez niego.\n\nNa zakończenie tej wycieczki, odwiedźcie ten kompleks, który został odbudowany kilka lat temu i jest bardzo popularny wśród turystów, szczególnie z Turcji.",
+                "longitude": 21.438497,
+                "latitude": 42.002366
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Rzemiosło: kiedyś i dziś",
+        "info_mp3": "tour_3_mk",
+        "info_text": "Kompleks skopijskiej Czarsziji został utworzony wokół Bezistenu (pasażu handlowego) jako centralnego rdzenia. Czarszija rozciągała się od Hamammu Dauta Paszy do bazaru Bit-Pazar i obejmowała wiele sklepów i warsztatów rzemieślniczych, wiele hammamów, karawanserajów dla kupców przybywających ze wszystkich stron i inne ciekawe budowle.\n\nDzisiaj w Skopje zarejestrowanych jest około 1000 rzemieślników, z których 126 prowadzi działalność na terenie starej skopijskiej Czarsziji. W Czarsziji istnieją warsztaty rzemieślnicze, w których nadal żyją rzemiosła takie jak: wyrób kołder, czapnictwo, pantoflarstwo, jubilerstwo, garncarstwo, zegarmistrzostwo, kotlarstwo, blacharstwo, złotnictwo. Wycieczka opowie Wam o rzemiośle skopijskiej Starówki. Na koniec odwiedzimy Muzeum Starej Czarsziji.\n\nJesteśmy przekonani, iż znajdziecie swoje ulubione rzemiosło i może i pamiątkę, abyście na zawsze zapamiętali swój pobyt w Skopje. ",
+        "image": "old_bazaar_skopje3",
+        "number_of_points": 9,
+        "places": [
+            {
+                "id": 1,
+                "name": "Wymarłe rzemiosło",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Skopijska Czarszija jest jedną z największych czarsziji na Bałkanach, a jej przestrzeń była podzielona na odrębne czarszije zgodnie z rzemiosłem. Tak jak i dzisiaj, rzemiosła zmieniały się, niektóre rzemiosła upadły i wymarły, a niektóre rozwinęły się i stały się powszechnie znane. Na procesy te w Czarsziji szczególny wpływ miały warunki polityczne w szczególnie turbulencyjnym XIX wieku, zmiany w strukturze ludności, ale także wejście kapitału europejskiego i tanich towarów przemysłowych.\n\nWraz ze stopniową utratą wpływów osmańskich, na przykład związanych z ubiorem, stare rzemiosła, takie jak wyrób męskich strojów ze specyficznego ciężkiego sukna oraz wyrób ozdób ze srebrnej nici. Wg źródeł, w 1925 roku w Czarsziji pozostało tylko 8 rzemieślników zajmujących się wyrobem strojów z ciężkiego sukna. W Czarsziji istnieli także siodlarze, którzy produkowali siodła, pasy i paski oraz kotlarze, którzy produkowali przedmioty z miedzi. Istniały także warsztaty produkujące broń i amunicję oraz małe zakłady produkujące napoje alkoholowe.\n\nRównolegle z tym, pod wpływem europejskim, rozwijały się nowe rzemiosła, takie jak: czapnicy, fotografowie, tapicerze, krawcy itd. Szczególnie popularne stało się fotografowanie, a każda rodzina chciała wykonać zdjęcie pamiątkowe lub zdjęcie ślubne w którymś z zakładów fotograficznych w Czarsziji.",
+                "latitude": 42.002621,
+                "longitude": 21.438000
+            },
+            {
+                "id": 2,
+                "name": "Kowale",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W skopijskiej Czarsziji występowały i nadal występują rzemiosła związane z obróbką metali: kowalstwo, blacharstwo, ślusarstwo. Odwiedźcie ulicę Kowalską w Czarsziji, gdzie nadal możecie znaleźć kilku kowali. Kowalstwem najczęściej zajmowali się Romowie. Kowale najczęściej wytwarzali narzędzia rolnicze, które były bardzo poszukiwane ze względu na fakt, że mechanizacja nie była wykorzystywana w rolnictwie.",
+                "latitude": 42.002686,
+                "longitude": 21.438094
+            },
+            {
+                "id": 3,
+                "name": "Barberzy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Barberzy i dzisiaj są częścią skopijskiej Czarsziji. W przeszłości było ich wielu. Oferowali usługi golenia i strzyżenia, ale także oferowali usługi obrzezania oraz niektóre usługi lecznicze (leczenie chorób skóry). Odwiedźcie zakład barbera w starej Czarsziji i wybierzcie usługę, która jest Wam potrzebna.",
+                "longitude": 21.438760,
+                "latitude": 42.002763
+            },
+            {
+                "id": 4,
+                "name": "Cukierki ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W czasach panowania osmańskiego istniało wiele warsztatów, tj. sklepów sprzedających cukierki, lokumy i inne produkty, z których najbardziej znana była „Teohar i Pane”, która później została przekształcona w znaną fabrykę „Europa”. Fabryka ta istnieje od 1882 roku. Na początku swojego istnienia miała tylko 5 pracowników i moce przerobowe na produkcję 250 kg wyrobów. Wyposażenie było bardzo skromne – kilka miedzianych kotłów do produkcji mieszanki do cukierków, gotowania lokum i produkcji konfitur.\n\nW Czarsziji możecie znaleźć sklep fabryki „Europa” i skosztować ich współczesnych wyrobów.",
+                "longitude": 21.438999,
+                "latitude": 42.002425
+            },
+            {
+                "id": 5,
+                "name": "Wytwórcy świec",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Wytwórcy świec w przeszłości nazywani byli również mumdżijami. Oni kiedyś, tak samo jak i dziś, wytwarzali świece z wosku i parafiny. Oprócz świec na różne potrzeby, najczęściej religijne, wykonywali także wianuszki dla panien młodych z woskowych kwiatuszków. Mieli swój własny cech rzemieślniczy. W skopijskiej Czarsziji nadal są wytwórcy świec.",
+                "longitude": 21.437670,
+                "latitude": 42.002114
+            },
+            {
+                "id": 6,
+                "name": "Pantoflarze ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ich wyroby sprzedawano w całym regionie, nawet w Bośni.\n\nRzemiosło to istniało w Czarsziji przez dłuższy okres. Pod koniec XIX wieku istniała również odrębna gildia pantoflarzy, składająca się z 80 zakładów. Wraz z napływem tanich wyrobów przemysłowych, zmniejszyło się zainteresowanie, co przyczyniło się do drastycznego zmniejszenia liczby sklepików i zakładów pantoflarskich w Czarsziji.\n\nDziś w Czarsziji istnieje kilka pracowni wykonujących pantofle w tradycyjny sposób. Odwiedźcie je, ponieważ znajdziecie tam prawdziwy prezent na zimowe dni.",
+                "longitude": 21.436834,
+                "latitude": 42.000865
+            },
+            {
+                "id": 7,
+                "name": "Czapnicy",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Pod koniec XIX wieku, pod wpływem europejskim, w Czarsziji zaczęły rozwijać się nowe rzemiosła, a wśród nich również czapnictwo. Czapnicy produkowali i nadal produkują czapki dla mężczyzn i kobiet z różnych materiałów (wełna, bawełna oraz inne materiały). Czapki produkowane przez rzemieślników ze skopijskiej Czarsziji były bardzo popularne w byłej Jugosławii na wybrzeżu adriatyckim.\n\nKilka pracowni czapniczych istniało w Czarsziji prawie 200 lat.",
+                "longitude": 21.437272,
+                "latitude": 42.001472
+            },
+            {
+                "id": 8,
+                "name": "Rzeźbiarstwo",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Na koniec tej wycieczki postanowiliśmy zaprowadzić Was do cerkwi Wniebowstąpienia Pańskiego, abyście zobaczyli jedne z najbardziej wyjątkowych rzeźb w naszym kraju.\n\nRzeźbiarstwo ma tysiącletnią tradycję w Macedonii, która była najintensywniejsza w okresie od XVI do XIX wieku. Snycerzy najczęściej pracowali w grupach składających się z kilku członków, mistrzów i pomocników. Najczęściej pracowali z drewnem orzechowym, suszonym przez wiele lat, które obrabiali dłutami i młotkami. Zawsze starano się, aby cała rzeźba została wykonana z jednego kawałka drewna. Dziś w skopijskiej Czarsziji niema rzeźbiarzy, ale w ramach Czarsziji można zobaczyć jedną z najbardziej znanych rzeźb w kraju – ikonostas cerkwi Wniebowstąpienia Pańskiego, w którym dominują motywy ze Starego Testamentu. Ikonostas ten został wykonany w XIX wieku przez grupę snycerzy, której przewodniczył Petre Garka.",
+                "longitude": 21.435814,
+                "latitude": 42.000761
+            },
+            {
+                "id": 9,
+                "name": "Muzeum Skopijskiej Czarsziji (Suli An)",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Muzeum starej skopijskiej Czarsziji znajduje się w obiekcie Suli An, jednym z kilku karawanserajów w Czarsziji. Suli an albo „wodny karawanseraj” został tak nazwany z powodu rzeki, która wcześniej płynęła w jego pobliżu. Zajmuje powierzchnię ponad 2000 m2. Został wybudowany w XV wieku, a w XVI wieku górne piętro zostało przekształcone w sklepy. Suli An został zniszczony przez katastrofalne skopijskie trzęsienie ziemi w 1963 roku, po czym został odbudowany. Oprócz Muzeum, dzisiaj w budowli mieści się również Wydział Sztuk Pięknych Uniwersytetu Świętych Cyryla i Metodego w Skopje.\n\nMuzeum utworzono w 1983 i na przestrzeni 500 m2 prezentuje historię, wartość kulturową oraz rzemiosła w Czarsziji.\n\nWstęp jest bezpłatny.",
+                "longitude": 21.437739,
+                "latitude": 42.001580
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Macedoński rubin",
+        "info_mp3": "tour_4_mk",
+        "info_text": "Jedną ze specyfik skopijskiej Czarsziji jest to, że obecnie duża część sklepików jest zorientowana na produkcję i sprzedaż biżuterii.\n\nLudność Macedonii zawsze kultywowała szczególny stosunek do biżuterii z różnych materiałów. Biżuteria i przedmioty dekoracyjne obecne są również i w materiale archeologicznym z najdawniejszych czasów, znalezionym w okolicach Skopje.\n\nWłaśnie dlatego w trakcie tej wycieczki będziecie mieli możliwość zapoznać się z tradycją produkcji i sprzedaży biżuterii wykonanej w Czarsziji. W ramach wycieczki będziecie mogli poznać rzemieślników wykonujących to rzemiosło, usłyszeć historię macedońskiego rubinu i macedońskiego filigranu, ale także odwiedzić długą ulicę Złotnicką. Tutaj na pewno znajdziecie swój skopijski klejnot.\n\nWycieczka rozpoczyna się od strony północnej, w pobliżu Bramy Północnej. Zalecamy wybranie tej wycieczki po tym, jak już odwiedziliście interesujące Was miejsca związane z historycznym dziedzictwem naszej Starówki.",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 5,
+        "places": [
+            {
+                "id": 1,
+                "name": "Macedoński rubin",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Na początku tej wycieczki opowiemy historię macedońskiego rubinu.\n\nMacedoński rubin to unikatowa szlachetna odmiana korundu z naszego kraju. Korund w przyrodzie występuje w dwóch rodzajach: rubin i szafir. Macedoński rubin charakteryzuje się dużą twardością (9,0 w skali Mohsa, tylko diament jest twardszy od tego minerału). Znany jest ze swojego specyficznego różowo-czerwonego koloru, podobnego do koloru malin.\n\nWallStreetInt. nazwał macedoński rubin – „metafizycznym klejnotem miłości”. W Czarsziji możecie znaleźć biżuterię ozdobioną macedońskim rubinem, a biżuteria z tym kamieniem to popularny prezent i pamiątka. Wiele znanych osobistości na świecie posiada biżuterię i ozdoby z macedońskim rubinem.\n\nNasza aplikacja ma kolor rubinu macedońskiego.",
+                "latitude": 42.002486,
+                "longitude": 21.439076
+            },
+            {
+                "id": 2,
+                "name": "Jubilerzy ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jubilerzy wykonują biżuterię ze złota, srebra i innych materiałów szlachetnych. Wykonywali oni i wykonują pierścionki, naszyjniki, kolczyki, pafty (metalowe klamry u pasa w tradycyjnym stroju kobiecym) itd. Produkują i poprawiają biżuterię. Dzisiaj w Czarsziji nadal znajdziecie kilka warsztatów, w których „władają” tym rzemiosłem. Odwiedźcie je i poznajcie tą starą technikę.",
+                "latitude": 42.002399,
+                "longitude": 21.438934
+            },
+            {
+                "id": 3,
+                "name": "Zegarmistrzowie",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W tej części Czarsziji, w pobliżu jubilerów i ulicy Złotnickiej, znajduje się jeszcze jedno ciekawe rzemiosło – zegarmistrzowie. Zegarmistrzowie byli bardzo szanowanymi rzemieślnikami w Czarsziji. W wyniku postępu technologicznego stali się bardzo popularni, w szczególności pod koniec XIX i w XX wieku. W Caarsziji jest kilka warsztatów zegarmistrzowskich, które oferują naprawy i konserwacje zegarków.\n\nJeżeli macie problem z Waszym zegarkiem, musicie koniecznie udać się do zegarmistrza w starej Czarsziji. ",
+                "longitude": 21.438130,
+                "latitude": 42.001971
+            },
+            {
+                "id": 4,
+                "name": "Ulica Złotnicka",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ulica Złotnicka, tj. Jubilerska, jak się formalnie nazywa, to unikatowa ulica dla naszej Czarsziji. Jest to jedna z najdłuższych ulic w Czarsziji. Z biegiem czasu, w Czarsziji dochodziło do grupowania różnych rzemiosł w konkretnych lokalizacjach. Trend ten zauważalny jest i na tej ulicy, która de facto jest największym skupiskiem sklepików złotniczych oraz sklepików sprzedających biżuterię i inne materiały szlachetne w naszym kraju. Dzisiaj możecie tutaj znaleźć pierścionki, kolczyki, obrączki, bransoletki, perły, ale także znany macedoński rubin.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Златарска улица",
+                        "latitude": 42.000767,
+                        "longitude": 21.436863
+                    },
+                    {
+                        "id": 2,
+                        "name": "Златарска улица",
+                        "latitude": 42.001563,
+                        "longitude": 21.437334
+                    }],
+                "longitude": 21.436851,
+                "latitude": 42.000822
+            },
+            {
+                "id": 5,
+                "name": "Filigran",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Sztuka filigranowa ma w naszym kraju długą tradycję. Sztuka ta polega na produkcji biżuterii poprzez zwijanie, skręcanie i dzianie cienkich metalowych drucików (najczęściej są to cienkie złote lub srebrne druciki, podobne do koronki) i łączeniu ich ze sobą w punktach styku, jak również z podłożem.\n\nRozpoznawalne są broszki (w szczególności w formie motyla), kolczyki, guziki, symbole religijne oraz inne osobiste przedmioty ozdobne wykonane techniką filigranową. Do wykonania jednego przedmiotu potrzeba przynajmniej tydzień ciągłego poświęcenia.\n\nAdem, jeden z mistrzów filigranu z Czarsziji powiedział: „Filigran nie jest niczym innym niż sztuka. On nie tylko lśni tradycją, wyjątkowością i wyrafinowaniem, lecz także kryje w sobie miłość jego twórcy”.\n\nProdukcja filigranu była na skraju wymarcia, ale w ciągu ostatnich dziesięciu lat pojawiło się nowe pokolenie młodych artystów i rzemieślników, którzy natchnęli nowy duch w to rzemiosło. Dlatego filigran jako dziedzictwo minionych pokoleń nadal jest tutaj pielęgnowany i nadal jest zainteresowanie ręcznie wykonaną biżuterią. Filigran kupują wszyscy ci, którzy potrafią cenić ręczną robotę. W ostatnim czasie filigran zdobi się również macedońskim rubinem, dzięki czumu otrzymujecie rozpoznawalną i niepowtarzalną biżuterię z naszego kraju.\n\nLogo naszej aplikacji to filigran w formie motyla.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Филигран",
+                        "latitude": 42.001059,
+                        "longitude": 21.436997
+                    },
+                    {
+                        "id": 2,
+                        "name": "Филигран",
+                        "latitude": 42.001151,
+                        "longitude": 21.436998
+                    }],
+                "longitude": 21.436853,
+                "latitude": 42.000908
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Kupcy z wielkim uśmiechem",
+        "info_mp3": "tour_5_mk",
+        "info_text": "Zakupy są ulubionym zajęciem każdego turysty. Tak jest i w skopijskiej Czarsziji od dawien dawna, a jej kupcy są powszechnie znany ze swojej życzliwości. \n\nWycieczka ta przybliży Wam tradycję handlową w Czarsziji, ale także cechy charakterystyczne tradycyjnego ubioru, a odwiedzicie też miejsca, w których sprzedawane są futra, obuwie i sukienki.\n\nSzczególne miejsce w ramach wycieczki zostało poświęcone naszej humanistce, misjonarce i laureatce Nagrody Nobla – Matce Teresie, której rodzina miała sklepik kupiecki w Czarsziji. Matka Teresa jest najbardziej znaną skopijką, jej historia jest wyjątkowa na swój sposób i ściśle związana z naszą Starówką.\n\nOdwiedzicie również największy karawanseraj w Czarsziji, gdzie przez stulecia zatrzymywali się kupcy, którzy przywozili towary na sprzedaż do naszego miasta. Na koniec odwiedzicie również największe otwarte targowisko w Skopje – Bit Pazar.\n\nJedno jest wspólne dla wszystkich miejsc, które odwiedzicie – wszędzie zostaniecie powitani wielkimi uśmiechami. Miłej zabawy!",
+        "image": "old_bazaar_skopje2",
+        "number_of_points": 8,
+        "places": [
+            {
+                "id": 1,
+                "name": "Tradycja handlowa",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Handel w Czarsziji jest obecny od dawien dawna i według znaczenia jest drugą najważniejszą działalnością gospodarczą. Handel szczególnie rozwinął się w pierwszej połowie XIX wieku, kiedy rozwija się handel z Europą Środkową, Wiedniem, Lipskiem, Odessą i Kijowem. W przeszłości w Czarsziji działały sklepiki Wenecjan, Dubrowniczan i Żydów. W znanych magazach (składach) w Czarsziji najczęściej miał miejsce handel hurtowy. Znany kronikarz i podróżnik z XVII wieku, Ewlija Czelebi, zapisał, że skopijski bazar jest podobny do tego w Bagdadzie.\n\nHandel jest ważny, ponieważ był także głównym instrumentem rozpowszechniania wpływów w kulturze, obyczajach i modzie. W XIX wieku organizowano również jarmarki (targi), w których uczestniczyli krajowi i zagraniczni kupcy. O dużej frekwencji zagranicznych kupców najlepiej świadczy liczba i pojemność karawanserajów w Czarsziji. Handel jest obecny także dzisiaj.",
+                "latitude": 41.999384,
+                "longitude": 21.435656
+            },
+            {
+                "id": 2,
+                "name": "Kapan An",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Usługi gastronomiczno-hotelarskie były trzecią najważniejszą działalnością w Czarsziji. W Czarsziji istniało wiele obiektów, które oferowały możliwość przenocowania różnym kupcom odwiedzającym Skopje. Zajazdy najczęściej znajdowały się w pobliżu meczetów i hammamów, co umożliwiało utrzymywanie higieny osobistej. Istniało wiele zajazdów (anów) i karawanserajów. Różnica polegała na tym, że za pobyt w zajazdach pobierano opłatę, a w karawanserajach nie, ale podróżny przynosił ze sobą posłanie.\n\nPodróżni byli kwaterowani w pokojach wieloosobowych, a otrzymywali posłanie i wodę. W anach istniały też pomieszczenia magazynowe, gdzie przechowywano towar kupców.\n\nWłaściciele anów nazywani byli andżijami i zawód ten był dziedziczny, a zajmowali się nim i chrześcijanie i muzułmanie. Pod koniec XIX wieku w skopijskiej Czarsziji istniało 20 anów.\n\nNa początku tej wycieczki, sugerujemy, abyście odwiedzili jeden z tradycyjnych anów. Kapan An został wybudowany w XV wieku, w czasach Isy-Beja. Nazwa anu pochodzi albo od arabskiego słowa „kabban”, co oznacza waga talerzowa albo wielka waga Ili oznacza „zamknięty pensjonat”. An ma dwa wejścia i 44 pokoje.\n\nW jego pobliżu również dzisiaj możecie znaleźć restauracje, gdzie możecie skosztować tradycyjnej kuchni serwowanej w Czarsziji.",
+                "latitude": 42.000101,
+                "longitude": 21.436828
+            },
+            {
+                "id": 3,
+                "name": "Kuśnierstwo",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W Czarsziji istniała długa tradycja produkcji i sprzedaży wyrobów skórzanych. W przeszłości w Czarsziji istniało wiele rzemiosł zajmujących się obróbką skóry: futrzarze (produkowali ubrania górne ze skóry, najczęściej jagnięcej lub z lisów), kożusznicy itd. Dzisiaj w Czarsziji pozostało tylko kilka zakładów zajmujących się tym rzemiosłem.",
+                "longitude": 21.436703,
+                "latitude": 42.000372
+            },
+            {
+                "id": 4,
+                "name": "Rodzina Matki Teresy i handel",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Matka Teresa, tj. Agnes Gonxha Bojaxhiu, jest najbardziej znaną skopijką. Urodziła się w centrum Skopje, w mieszczańskiej rodzinie z długą tradycją handlową, która sięga połowy XVIII wieku. Jej rodzina Bojaxhiu w Czarsziji miała swój sklep, w którym przebywali kupcy i podróżnicy, którzy przybywali do Skopje w dni targowe. Jej dziadek Nikollë miał również sklep z materiałami budowlanymi.\n\nNasza Matka Teresa stała się znana z jej humanitarnej pracy misyjnej w Indiach, za którą otrzymała Pokojową Nagrodę Nobla w 1979 roku.\n\nDzisiaj możecie zwiedzić jej Dom Pamięci, który znajduje się z drugiej strony Wardaru, na ul. Macedonii (ul. „Makedonija”).",
+                "longitude": 21.437527,
+                "latitude": 41.999164
+            },
+            {
+                "id": 5,
+                "name": "Obuwie ",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jak już widzieliśmy, rzemiosło pantoflarskie w skopijskiej Czarsziji było jednym z najbardziej znanych. Rzemieślnicy ci produkowali tradycyjne obuwie. W połowie XIX wieku, na skutek napływu trendów europejskich, rozpoczął się rozwój rzemiosła obuwniczego. Rzemiosłem tym zajmowali się i chrześcijanie i muzułmanie i Żydzi. W Czarsziji produkowano i sprzedawano również kierpce wykonane ze świńskiej skóry. Dzisiaj ludzie nie noszą już kiepscy, ale możecie je kupić w licznych sklepach z pamiątkami. Możecie także kupić nowoczesne buty z produkcji przemysłowej.",
+                "longitude": 21.437325,
+                "latitude": 42.000920
+            },
+            {
+                "id": 6,
+                "name": "Bezisten (pasaż handlowy)",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Podobnie jak wiele innych budynków w Czarsziji, obiekt ten został zniszczony w pożarze w 1689 roku. Sam termin „bezisten” oznacza pokrytą czarsziję. Stary bezisten miał 6 kopuł, a w XV wieku znajdowało się tam około 50 sklepów.\n\nDzisiejszy Bezisten został odnowiony na początku XIX wieku. Jest kamienną budowlą o prostokątnym kształcie, na której widoczny jest wpływ architektury zachodniej. Ma cztery wejścia, które są rozmieszczone w centralnych częściach elewacji ze wszystkich czterech stron.\n\nNiestety, skopijski Bezisten nie jest bardzo popularny, ale ciekawy jest z architektonicznego punktu widzenia jako symbol handlu w dawnych czasach.",
+                "longitude": 21.437071,
+                "latitude": 42.001577
+            },
+            {
+                "id": 7,
+                "name": "Tradycyjne stroje",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Skopijska Czarszija jest znana i po długiej tradycji związanej z wyrobem ubiorów. Wiele różnych rzemiosł związanych z wyrobem odzieży funkcjonowało przez dłuższy okres. Rzemieślnik nazywany kaftancı szył ubrania ze szczególnych tkanin (aksamit, bawełniana basma). Abacı wykonywał ubrania z sukna wytwarzanego fabrycznie. Krawiec szył części garderoby najczęściej z cieńszych materiałów, a sırmaci wykonywał hafty z sırmy – cienkich złotych, srebrnych i miedzianych nici.\n\nWpływ europejskiej kultury i mody zrobił swoje. Po I wojnie światowej rzemiosła te powoli zaczęły wymierać. Więcej informacji o rzemiosłach możecie uzyskać w Muzeum Starej Skopijskiej Czarsziji lub możecie odwiedzić Muzeum Republiki Macedonii Północnej, gdzie przechowywana jest wartościowa kolekcja etnologiczna. Świetnym pomysłem jest, abyście odwiedzili pracownię rzemieślnika nazywanego boyacı i zobaczyli jak malowane są różne materiały i tkaniny, z których wykonywane są ubrania.\n\nDzisiaj w zaułkach Czarsziji możecie znaleźć również nowoczesne ubrania, a Czarszija jest szczególnie znana ze sklepów oferujących suknie ślubne i uroczyste spódnice.",
+                "longitude": 21.437728,
+                "latitude": 42.001579
+            },
+            {
+                "id": 8,
+                "name": "Bit-Pazar",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W bezpośrednim sąsiedztwie Czarsziji, z jej północnej strony, znajduje się największy i najstarszy bazar w mieście – Bit-Pazar. Idąc w kierunki bazaru przejdziecie przez Bramę Północną, z której wychodziło się na drogę do Carogrodu (dzisiejszego Stambułu).\n\nBazar ten wcześniej znajdował się obok Cerkwi Wniebowstąpienia Pańskiego, po wschodniej stronie Czarsziji.\n\nNazwa w dosłownym tłumaczeniu z języka tureckiego oznacza „pchli targ”. Dniem targowym na początku była niedziela, a później wtorek i piątek, co zostało dotychczas zachowane. Bazar ten funkcjonuje od średniowiecza.\n\nNa bazarze sprzedawano i nadal są sprzedawane są świeże produkty rolne, odzwierzęce i rzemieślnicze. Na koniec tej wycieczki, odwiedźcie i poczujcie orientalny „smak” w sercu Skopje.",
+                "longitude": 21.439425,
+                "latitude": 42.003379
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Pokarm dla duszy",
+        "info_mp3": "tour_6_mk",
+        "info_text": "Wycieczka „Pokarm dla duszy” przeznaczona jest dla smakoszy wśród Was. Wycieczka ta zapozna Was ze smakami tradycyjnej kuchni, napojami oraz z najpopularniejszymi daniami z tej części świata.\n\nJedzenie w Czarsziji, tak jak i wszędzie w kraju, jest pod silnym wpływem specyfik narodowych, krajów sąsiednich, ale także Bliskiego Wschodu. Większość restauracji oferuje kombinację dań narodowych i znanych dań międzynarodowych. Jednak, radzimy, abyście spróbowali czegoś, czego nie możecie spróbować w innym miejscu: burek, ćebapi, tawcze-grawcze lub słynne słodycze. W ramach tej wycieczki, usłyszycie również więcej o popularnej grze tryktrak, ale także o historii przygotowywania jedzenia w Czarsziji.\n\nWreszcie, w przeciwieństwie do innych wycieczek, wycieczka „Pokarm dla duszy” jest nieograniczona.",
+        "image": "old_bazaar_skopje3",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Burek",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Burek pochodzi z Anatolii. Jest niezwykle popularny na całych Bałkanach, a w regonie istnieje kilka jego rodzajów.\n\nJeżeli odwiedzacie naszą Starówkę przed południem, idealnym sposobem na rozpoczęcie Waszej wycieczki jest zjedzenia burka na śniadanie. Ćwiartka burka i jogurt lub ajran, to ulubione śniadanie wszystkich skopijczyków.\n\nBurek to pieczona pita z chrupiącą skórką, wypełniona białym serem, mielonym mięsem, szpinakiem itp.\n\nKupując trzeba wybrać preferowany smak i wypełnienie. Burek najczęściej pieczony jest w okrągłym naczyniu i potem cięty zgodnie z życzeniem klienta (1/4, 1/8). Zawsze serwowany jest na ciepło. Życzymy Wam smacznego śniadania!",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Бурек",
+                        "latitude": 42.000603,
+                        "longitude": 21.436925
+                    }],
+                "latitude": 42.000025,
+                "longitude": 21.437169
+            },
+            {
+                "id": 2,
+                "name": "Herbata i kawa",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Czarszija jest idealnym miejscem na wypicie jakiegoś gorącego lub zimnego napoju. Picie kawy lub herbaty jest rytuałem w Czarsziji. Już na wejściu do Czarsziji znajdziecie kilka kawiarni i herbaciarni. Wybierzcie lokal, który najbardziej Wam się podoba. Każdy jest ładny na swój sposób i oferuje nowe, inne doświadczenie.\n\nW Czarsziji herbata nazywana jest herbatą turecką. Oczywistym jest, że tradycja picia herbaty związana jest ze spuścizną turecką (osmańską). Herbata ma czerwono-brązowy kolor i podawana jest w małych szklankach. Napijcie się herbaty w jedej z wielu herbaciarni w Czarsziji, ale uważajcie na ilość, ponieważ jest dość mocna.\n\nA w licznych kawiarniach możecie spróbować różnych rodzajów kawy. Rekomendujemy, abyście napili się tradycyjnej kawy tureckiej, podawanej z lokumem lub jeżeli odwiedzacie Skopje w miesiącach letnich, napijcie się zimnej neski. Wybór należy do Was!",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000159,
+                        "longitude": 21.435811
+                    },
+                    {
+                        "id": 2,
+                        "name": "Чај и кафе",
+                        "latitude": 41.999792,
+                        "longitude": 21.435757
+                    },
+                    {
+                        "id": 3,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000195,
+                        "longitude": 21.436098
+                    },
+                    {
+                        "id": 4,
+                        "name": "Чај и кафе",
+                        "latitude": 42.000403,
+                        "longitude": 21.436441
+                    }
+                ],
+                "latitude": 42.000956,
+                "longitude": 21.437379
+            },
+            {
+                "id": 3,
+                "name": "Tryktrak",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Tryktrak jest jedną z gier rozrywkowych, w którą możecie najczęściej zagrać w herbaciarniach i kawiarniach w Czarsziji. Uważa się, że gra ma ponad 5000 lat i pochodzi z Iranu. Tryktrak jest grą dla dwóch osób, a każdy z graczy dysponuje 15 pionami, które porusza pomiędzy 24 polami (trójkątami), w zależności od liczy oczek wyrzuconej na dwóch kostkach. Celem gry jest, aby jeden z graczy „wyciągnął” wszystkie piony poza tablicę. Istnieje wiele rodzajów gier i wiele poziomów w ramach jednej rozgrywki.",
+                "longitude": 21.435594,
+                "latitude": 41.999359
+            },
+            {
+                "id": 4,
+                "name": "Kolekcja średniowiecznych naczyń",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "W przerwie między posiłkami, proponujemy, abyście dowiedzieli się czegoś więcej o historii przygotowywania jedzenia w Czarsziji.\n\nJeżeli Was to interesuje, sugerujemy, abyście zobaczyli kolekcję średniowiecznych naczyń w Muzeum Starej Skopijskiej Czarsziji, znajdującej się w obiekcie Suli An. Tutaj znajdziecie również wiele ciekawych informacji o skopijskiej Czarsziji. ",
+                "longitude": 21.437821,
+                "latitude": 42.001613
+            },
+            {
+                "id": 5,
+                "name": "Ćebapi",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Ќебапи",
+                        "latitude": 41.999629,
+                        "longitude": 21.436463
+                    },
+                    {
+                        "id": 2,
+                        "name": "Ќебапи",
+                        "latitude": 42.000398,
+                        "longitude": 21.436914
+                    }
+                ],
+                "info_text": "Jeżeli zbliża się pora Wasza pora obiadowa lub kolacyjna, Czarszija to prawdziwe miejsce dla Waszego autentycznego posiłku w Skopje. Nie poczujecie całkowicie ducha Starówki, jeżeli nie spróbujecie ćebapów.\n\nW odróżnienia od Zachodu, gdzie ćebap ma inne znaczenie, w Skopje i na Bałkanach słowo to onacza cylindryczny kawałek mielonego (najczęściej wołowiny) pieczony na grillu.\n\nNajczęściej porcja składa się z 10 ćebapów ze świeżo upieczonymi chlebkami, posiekaną cebulą, przyprawą ze zmielonej ususzonej papryki i pieczoną papryką.\n\nĆebapi są rozpoznawalnym symbolem kulinarnym Skopje i są idealne na obiad lub kolację w Czarsziji. Możecie również spróbować innych rozpoznawalnych dań, takich jak lahmacun (turecka pizza z mielonym mięsem) lub pide.",
+                "longitude": 21.436155,
+                "latitude": 41.999755
+            },
+            {
+                "id": 6,
+                "name": "Tawcze-grawcze",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jeżeli jesteście wegetarianami, najlepszym wyborem dla Was będzie tawcze-grawcze – autentyczny przysmak z naszego kraju. Chodzi o tradycyjne przygotowanie fasoli, która najpierw jest gotowana, a potem pieczona w glinianym naczyniu razem z innymi składnikami: cebula, ususzone papryki, pietruszka, czosnek itd. Gliniane naczynie daje rozpoznawalny tradycyjny wygląd i jednocześnie godzinami zachowuje ciepło. W naszym kraju szczególnie znana jest fasola z okolic miasta Tetowo.\n\nDanie to możecie kombinować z różnymi rodzajami mięsa z grilla, które sprzedawane jest w restauracjach.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Тавче гравче",
+                        "latitude": 41.999607,
+                        "longitude": 21.436495
+                    },
+                    {
+                        "id": 2,
+                        "name": "Тавче гравче",
+                        "latitude": 42.000301,
+                        "longitude": 21.437289
+                    }
+                ],
+                "longitude": 21.437134,
+                "latitude": 42.000263
+            },
+            {
+                "id": 7,
+                "name": "Słodycze z Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Najlepiej spuentujecie wycieczkę tą, jeżeli spróbujecie słodyczy w Czarsziji.\n\nRzemiosło cukiernicze ma długą tradycję w Czarsziji. Cukiernicy ze skopijskiej Czarsziji byli powszechnie znani. Przez stulecia wytwarzano tutaj różne słodycze, chałwę, cukierki, buzę itd.\n\nDzisiaj w Czarsziji możecie spróbować wszystkich tych słodkich przyjemności z przeszłości. Tutaj możecie spróbować wielu różnych orientalnych słodyczy: tulumby, bakławy, orzechówki, spadochroniarze i wiele innych.\n\nWybierzcie to, o Wam się najbardziej podoba. Wśród zagranicznych turystów w ostatni czasie szczególnie popularna była bakława „Angela Merkel”. Idealną uzupełnieniem słodyczy jest buza albo lemoniada.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 42.000694,
+                        "longitude": 21.436479
+                    },
+                    {
+                        "id": 2,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 42.001563,
+                        "longitude": 21.437279
+                    },
+                    {
+                        "id": 2,
+                        "name": "Слатки во чаршијата",
+                        "latitude": 41.999582,
+                        "longitude": 21.435790
+                    }
+                ],
+                "longitude": 21.437248,
+                "latitude": 42.000381
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Światłą Starego Miasta",
+        "info_mp3": "tour_7_mk",
+        "info_text": "Życie nocne na Starym Mieście jest najbardziej dynamiczne w okresie letnim. Imprezy, wydarzenia muzyczne pod gołym niebem, wspaniałe tarasy letnie, przepełnione restauracje i wielu turystów. Skopijskie noce są ciepłe i to jest przyczyną, że życie nocne w Czarsziji trwa do później nocy.\n\nNasze miasto ma długą tradycję życia nocnego. Na przykład, w 1924, kiedy Skopje miało 50 tysięcy mieszkańców, w mieście było około 300 kawiarenek.\n\nW tej, siódmej wycieczce będziecie mogli poznać życie nocne Starówki. Zaprowadzimy Was do najpopularniejszych miejsc, gdzie można miło spędzić czas, zjeść, zabawić się. Jest to jedyna wycieczka, którą proponujemy na porę nocną. Życzymy udanej zabawy i uważajcie na czas, ponieważ w Czasziji nie czuć upływu czasu.",
+        "image": "old_bazaar_skopje1",
+        "number_of_points": 7,
+        "places": [
+            {
+                "id": 1,
+                "name": "Kolacja w Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jeżeli jesteście głodni, najlepszym sposobem na rozpoczęcie nocnego wyjścia jest kolacja na Starówce. Jest wiele restauracji z tradycyjnymi i narodowymi daniami. Wybierzcie to, co Was najbardziej przyciąga i bawcie się dobrze. Aby odkryć więcej o tradycyjnych posiłkach w Czarsziji, wybierzcie wycieczkę „Pokarm dla duszy”.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Вечера во чаршијата",
+                        "latitude": 41.999430,
+                        "longitude": 21.435566
+                    },
+                    {
+                        "id": 2,
+                        "name": "Вечера во чаршијата",
+                        "latitude": 41.999382,
+                        "longitude": 21.435869
+                    }
+                ],
+                "latitude": 42.001049,
+                "longitude": 21.438022
+            },
+            {
+                "id": 2,
+                "name": "Czalgija",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jedną z cech charakterystycznych cech życia nocnego na macedońskich starówkach, łącznie ze skopijską, jest czalgija. W tłumaczenie słowo to oznacza „muzyka i śpiew”, a terminem tym określa się specyficzny skład muzyków, którzy grają dawne pieśni miejskie. Ten rodzaj muzyki pojawił się w XIX wieku. Muzyka ta grana na następujących instrumentach: kanun, dajre, lutnia, ud, a czasami i na szrzypcach i klarnecie. Ten rodzaj muzyki jest połączeniem bizantyjskiego śpiewu cerkiewnego i tradycji muzycznych wszystkich wspólnot mieszkających w kraju.\n\nW okresie letnim, często można usłyszeć ten rodzaj muzyki na małych skwerach lub w restauracjach i barach w Czarsziji. Odwiedźcie je i bawcie się dobrze słuchając magicznych dźwięków naszego kraju!",
+                "latitude": 42.000505,
+                "longitude": 21.435749
+            },
+            {
+                "id": 3,
+                "name": "Wino w Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Ludzie w naszym kraju są szczególnie dumni z produkcji wina. Istnieje długa tradycja produkcji wina jeszcze z czasów antycznych. W kraju istnieją trzy główne regiony winiarskie: Powardarie (wzdłuż rzeki Wardar), Pczinia-Osogowo (na granicy z Bułgarią) i Pelagonia-Polog (wokół Jeziora Ochrydzkiego na granicy z Albanią). W kraju dominuje produkcja wina czerwonego (80%). W winnicach uprawiane są znane regionalne i międzynarodowe szczepy, takie jak: vranec, merlot, cabernet, sauvignon, kratoszija oraz autochtoniczna odmiana winogron, która jest uprawiana tylko w naszym kraju – staniszina czarna.\n\nW Czarsziji jest wiele miejsc (restauracji, kawiarenek, winiarni), gdzie możecie spróbować macedońskiego wina. Większość znajduje się na południowym wejściu do Czarsziji, w kierunku Cerkwi Wniebowstąpienia Pańskiego oraz w pobliżu obiektu Kapan An i pomnika Skanderbega.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Вино во Стариот град",
+                        "latitude": 42.000075,
+                        "longitude": 21.436727
+                    },
+                    {
+                        "id": 2,
+                        "name": "Вино во Стариот град",
+                        "latitude": 41.999529,
+                        "longitude": 21.436866
+                    }
+                ],
+                "longitude": 21.435777,
+                "latitude": 42.000613
+            },
+            {
+                "id": 4,
+                "name": "Meze (zakąska)",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Idealnym towarzyszem napojów w Czarsziji jest meze. Słowo to ma perskie pochodzenie i oznacza „smacznie”. Meze to kombinacja ciepłych i zimnych potraw w małych ilościach, które podawane są na początek posiłku. Typowe jest dla krajów bałkańskich i bliskowschodnich.\n\nW naszym kraju jako meze najczęściej podawany jest biały ser, ajwar pindżur, żółty ser, gołąbki w liści z winorośli, warzywa, oliwki i suszone mięso.",
+                "dots": [
+                    {
+                        "id": 1,
+                        "name": "Мезе",
+                        "latitude": 41.999607,
+                        "longitude": 21.436495
+                    }
+                ],
+                "longitude": 21.437134,
+                "latitude": 42.000263
+            },
+            {
+                "id": 5,
+                "name": "Piwo",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Produkcja piwa ma długą tradycję.\n\nPierwszy browar parowy w naszym mieście został utworzony w 1924 roku. Na początku, w okresie zimowym najczęściej pracował trzy dni, a w okresie letnim codziennie, z powodu zwiększonego zainteresowania ludzi.\n\nWielu turystów odwiedzających Czarsziję jest chce spróbować piwa, które jest znakiem rozpoznawczym Skopje, a w szczególności piwa produkowanego w małych browarach, które ma wyjątkowy niepowtarzalny smak. W wielu lokalach możecie spróbować jasnego lub ciemnego piwa z nalewaka. Lokale te znajdziecie w pobliżu restauracji w południowej i wschodniej części Czarsziji.",
+                "longitude": 21.435705,
+                "latitude": 42.000445
+            },
+            {
+                "id": 6,
+                "name": "Spacer po Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Po prostu jest jakaś dziwna energia tląca się w tym starym miejskim centrum. Turyści są coraz liczniejsi, a życie nocne wygląda tak, jakby całe Skopje zebrało się w jednym miejscu. Każda z kafejek to inny „film”, każda ulica lub zaułek ma swoją historię. Przespacerujcie się i poczujcie tą unikatową atmosferę.\n\nSugerujemy Wam, abyście posłuchali muzyki ulicznej w Skopje, która Stasię wyjątkowo popularna w ostatnich kilku latach. W okresie od 1 maja do końca października możecie usłyszeć różnych młodych muzyków, którzy występują w przestrzeni publicznej w centrum miasta i w Czarsziji.",
+                "longitude": 21.435550,
+                "latitude": 41.999219
+            },
+            {
+                "id": 7,
+                "name": "Festiwale w Czarsziji",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Wraz z ponownym wzrostem zainteresowania Czarsziją, ale także z powodu coraz większej liczby turystów, którzy odwiedzają nasze miasto, Czarszija stała się centrum wielu imprez kulturalnych i festiwali.\n\nFestiwal „Biała noc” odbywa się w połowie października i jest największą miejską manifestacją kulturalną w Skopje. Wydarzenie to jest częścią festiwali odbywających się wszędzie na świecie. W ramach Festiwalu odbywają się wystawy, warsztaty dla dzieci, koncerty, przedstawienia teatralne, instalacje, projekcje kinowe, odczyty poezji itp.\n\n„Baskerfest” to festiwal sztuki ulicznej, który organizowany jest od 2006 roku. Składa się z muzyki wykonywanej na żywo, tańców ulicznych, pantomimy, wydarzeń kreatywnych i warsztatów. Jest to największy festiwal tego rodzaju w regionie. Trwa około 10 dni i organizowany jest w czerwcu.\n\n„Dźwięki Czarsziji” to multimedialna i multikulturowa manifestacja, która obejmuje koncerty wszystkich gatunków muzyki, performanse, występy folklorystyczne, poezję, kolonię malarską oraz prezentację starych rzemiosł. Manifestacja ta odbywa się we wrześniu, a celem jest ożywienie Czarsziji w duchu tradycji jako kulturowy i duchowy pomnik miasta.\n\nOd 2018 roku rozpoczęło się organizowanie „Festiwalu światłości” jako część „Białej nocy” w Skopje. Festiwal ten prezentuje nową koncepcję pokazywania interaktywnych ekspozycji świetlnych, perfomansów i instalacji w Czarsziji o zmierzchu. W Festiwalu uczestniczą krajowi i zagraniczni artyści.",
+                "longitude": 21.436938,
+                "latitude": 42.003167
+            },
+            {
+                "id": 8,
+                "name": "Dziecięce Centrum Teatralne",
+                "image": "old_bazaar_skopje1",
+                "info_mp3": "SmallBellRingingSoundEffect",
+                "info_text": "Jeżeli jesteście zainteresowani teatrem, proponujemy, abyście odwiedzili również Dziecięce Centrum Teatralne w Czarsziji, gdzie odbywają się przedstawienia teatralne i dla dzieci i dla dorosłych.\n\nW Skopje istnieje długa tradycja pielęgnowania sztuki teatralnej. Pierwsze przedstawienie teatralne odbyło się w 1897 roku w Cafe Beledie. Od tamtej chwil iw Skopje otwarto wiele teatrów.\n\nDziecięce Centrum Teatralne znajduje się w dawnym Kinie „Napredok”. Ta instytucja kultury swoją działalnością obejmuje przedstawicieli wszystkich wspólnot w naszym kraju. Spektakle są wykonywane we wszystkich językach używanych w kraju.",
+                "longitude": 21.438111,
+                "latitude": 42.001974
+            }
+        ]
+    }
+]
